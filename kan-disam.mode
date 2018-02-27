@@ -1,4 +1,0 @@
-
-      
-    lt-proc -w '/home/invo/aper/apertium-kan/kan.automorf.bin' | cg-conv -a -l| vislcg3 --trace -g '/home/invo/aper/apertium-kan/apertium-kan.kan.rlx' 
-  
