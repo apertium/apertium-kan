@@ -1,2 +1,27 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/INSTALL -text
+/Makefile.am -text
+/Makefile.in -text
+/NEWS -text
 /README -text
+/aclocal.m4 -text
+/ap_include.am -text
+/apertium-kan.kan.acx -text
+/apertium-kan.kan.dix -text
+/apertium-kan.kan.rlx -text
+/apertium-kan.pc.in -text
+/apertium-kan.post-kan.dix -text
+/autogen.sh -text
+/configure -text
+/configure.ac -text
+corpus/kan.tagged -text
+/install-sh -text
+/kan-disam.mode -text
+/kan-gener.mode -text
+/kan-morph.mode -text
+/kan-tagger.mode -text
+/missing -text
+/modes.xml -text
