@@ -97,16 +97,85 @@
   </sdefs>
 
   <pardefs>
-    <pardef n="ಮನೆ__n">
-      <e><p><l></l><r><s n="n"/><s n="attr"/></r></p></e>
-      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
-      <e><p><l>ಗಳು</l><r><s n="n"/><s n="pl"/></r></p></e>
+
+    <pardef n="ಮನೆ__n">   
+      <e><p><l></l><r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ಗಳು</l><r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
     </pardef>
+
+    <pardef n="ಹವಾಮಾನ__n">     
+      <e><p><l></l><r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l></l><r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+
+    <pardef n="ಹುಡುಗ__n">     
+      <e><p><l>ನು</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ರು</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+
+    <pardef n="ಸಹೋದರ__n">     
+      <e><p><l>ನು</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ಯರು</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+
+    <pardef n="ತಾಯ__n">     
+      <e><p><l>ಿ</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ಂದಿರು</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+
+    <pardef n="ಒಳ್ಳೆಯದು__adj">     
+      <e><p><l></l><r><s n="adj"/></r></p></e>
+    </pardef>
+
+    <pardef n="__adv">
+        <e><p><l></l><r><s n="adv"/></r></p></e>
+    </pardef>
+
+    <pardef n="__cnjcoo">
+        <e><p><l></l><r><s n="cnjcoo"/></r></p></e>
+    </pardef>
+
+    <pardef n="ಜೇಮ್ಸ್__np">
+        <e><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="ಮೇರಿ__np">
+        <e><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+    </pardef>
+    <pardef n="__vaux">
+        <e><p><l>ನೆ</l><r><s n="vaux"/><s n="pres"/><s n="p1"/><s n="m"/><s n="sg"/></r></p></e>
+        <e><p><l>ಳೆ</l><r><s n="vaux"/><s n="pres"/><s n="p1"/><s n="f"/><s n="sg"/></r></p></e>
+        <e><p><l>ರೆ</l><r><s n="vaux"/><s n="pres"/><s n="p1"/><s n="f"/><s n="pl"/></r></p></e>
+            
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
     <!-- Define entries within <e> here. -->
-    <e lm="ಮನೆ"><i>ಮನೆ</i><par n="ಮನೆ__n"/></e>
+    <e lm="ಮನೆ">          <i>ಮನೆ</i><par n="ಮನೆ__n"/></e>
+    <e lm="ಉದ್ಯಾನ">      <i>ಉದ್ಯಾನ</i><par n="ಮನೆ__n"/></e>   
+    <e lm="ಹವಾಮಾನ">      <i>ಹವಾಮಾನ</i><par n="ಹವಾಮಾನ__n"/></e>
+    <e lm="ಹುಡುಗ">        <i>ಹುಡುಗ</i><par n="ಹುಡುಗ__n"/></e>
+    <e lm="ಸಹೋದರ">        <i>ಸಹೋದರ</i><par n="ಸಹೋದರ__n"/></e> 
+    <e lm="ವರ್ಷ">        <i>ವರ್ಷ</i><par n="ಮನೆ__n"/></e>
+    <e lm="ನಾಯಿ">        <i>ನಾಯಿ</i><par n="ಮನೆ__n"/></e>
+    <e lm="ಬೆಕ್ಕು">        <i>ಬೆಕ್ಕು</i><par n="ಮನೆ__n"/></e>
+    <e lm="ತಾಯಿ">        <i>ತಾಯ</i><par n="ತಾಯ__n"/></e>
+    <e lm="ಕಿಟಕಿ">          <i>ಕಿಟಕಿ</i><par n="ಮನೆ__n"/></e>
+
+    <e lm="ಒಳ್ಳೆಯದು">      <i>ಒಳ್ಳೆಯದು</i><par n="ಒಳ್ಳೆಯದು__adj"/></e>
+    <e lm="ತುಂಬಾ">      <i>ತುಂಬಾ</i><par n="ಒಳ್ಳೆಯದು__adj"/></e>
+    <e lm="ಬಿಸಿ">      <i>ಬಿಸಿ</i><par n="ಒಳ್ಳೆಯದು__adj"/></e>
+    <e lm="ದೊಡ್ಡದು">      <i>ದೊಡ್ಡದು</i><par n="ಒಳ್ಳೆಯದು__adj"/></e>
+    <e lm="ಎಲ್ಲಿ">      <i>ಎಲ್ಲಿ</i><par n="__adv"/></e>
+    <e lm="ಮತ್ತು">      <i>ಮತ್ತು</i><par n="__cnjcoo"/></e>
+    <e lm="ಜೇಮ್ಸ್">     <i>ಜೇಮ್ಸ್</i><par n="ಜೇಮ್ಸ್__np"/></e>
+    <e lm="ಮೇರಿ">      <i>ಮೇರಿ</i><par n="ಮೇರಿ__np"/></e>
+    <e lm="ಇದ್ದಾ">      <i>ಇದ್ದಾ</i><par n="__vaux"/></e>
+
+
+
+
   </section>
 
   <section id="final" type="inconditional">
