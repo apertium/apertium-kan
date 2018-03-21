@@ -1,8 +1,0 @@
-prefix=@prefix@
-exec_prefix=${prefix}
-srcdir=@datarootdir@/apertium/apertium-kan
-
-Name: apertium-kan
-Description: Finite-state morphological transducer and constraint grammar for Kannada 
-Version: @VERSION@
-
