@@ -18,6 +18,7 @@ You will need the following software installed:
 * lttoolbox (>= 3.3.0)
 * apertium (>= 3.3.0)
 * vislcg3 (>= 0.9.9.10297)
+* hfst (>= 3.8.2)
 
 If this does not make any sense, we recommend you look at: www.apertium.org
 
@@ -59,11 +60,12 @@ TODO: test tagger result
 Files and data
 ===============================================================================
 
-* apertium-kan.kan.dix            - Monolingual dictionary
-* kan.prob                        - Tagger model
-* apertium-kan.kan.rlx            - Constraint Grammar disambiguation rules
-* apertium-kan.post-kan.dix       - Post-generator
-* modes.xml                       - Translation modes
+* apertium-kan.kan.lexc          - Morphotactic dictionary
+* apertium-kan.kan.twol          - Morphophonological rules
+* apertium-kan.kan.rlx           - Constraint Grammar disambiguation rules
+* apertium-kan.post-kan.dix      - Post-generator
+* kan.prob                       - Tagger model
+* modes.xml                      - Translation modes
 
 For more information
 ===============================================================================
