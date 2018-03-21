@@ -3,11 +3,32 @@
 Multichar_Symbols
 
 ! Part of speech categories
-%<n%>   ! Noun
+%<n%>     ! Noun
+%<nom%>   ! Nominal
+%<adj%>   ! Adjective
+%<cnjcoo%>! Co-ordinating conjunction
+%<adv%>   ! Adverb
+%<np%>    ! Proper noun
+%<vaux%>  ! Auxiallary verb
 
 ! Number morphology
 %<pl%>  ! Plural
 %<sg%>  ! Singular
+
+! Gender
+%<m%> ! Male
+%<f%> ! Female
+%<nt%>! Neutral
+%<mf%>! Both
+
+! Tense
+%<pres%> ! Present
+%<past%> ! Past
+
+!Person
+%<p1%> ! 1st Person
+%<p2%> ! 2nd Person
+%<p3%> ! 3rd Person
 
 ! Other symbols
 %>      ! Morpheme boundary
@@ -22,19 +43,96 @@ LEXICON Root
 NounRoot ;
 
 
-LEXICON RegNounInfl
+LEXICON ಮನೆ__n
+%<n%>%<nt%>%<sg%>%<nom%>:#;
+%<n%>%<nt%>%<pl%>%<nom%>:%>ಗಳು#;
 
-%<n%>%<sg%>: # ;
-%<n%>%<pl%>:%>s # ;
+LEXICON ಹವಾಮಾನ__n
+%<n%>%<nt%>%<sg%>%<nom%>: # ;
+%<n%>%<nt%>%<sg%>%<nom%>: # ;
 
+LEXICON ಹುಡುಗ__n
+%<n%>%<m%>%<sg%>%<nom%>:ನು # ;
+%<n%>%<m%>%<pl%>%<nom%>:ರು # ;
+
+LEXICON ಸಹೋದರ__n
+%<n%>%<m%>%<sg%>%<nom%>:ನು # ;
+%<n%>%<m%>%<pl%>%<nom%>:ಯರು # ;
+%<n%>%<f%>%<sg%>%<nom%>:ಿ # ;
+%<n%>%<f%>%<pl%>%<nom%>:ಿಯರು # ;
+
+LEXICON ತಾಯ__n
+%<n%>%<f%>%<sg%>%<nom%>:ಿ# ;
+%<n%>%<f%>%<pl%>%<nom%>:ಂದಿರು# ;
+
+LEXICON ಒಳ್ಳೆಯದು__adj
+%<adj%>: # ;
+
+LEXICON __adv
+%<adv%>: # ;
+
+LEXICON __cnjcoo
+%<cnjcoo%>: # ;
+
+LEXICON ಜೇಮ್ಸ್__np
+%<np%>%<ant%>%<m%>%<sg%>%<nom%>: # ;
+
+LEXICON ಮೇರಿ__np
+%<np%>%<ant%>%<f%>%<sg%>%<nom%>: # ;
+
+
+LEXICON __vaux
+%<vaux%>%<pres%>%<p1%>%<m%>%<sg%>:ನೆ # ;
+%<vaux%>%<pres%>%<p1%>%<f%>%<sg%>:ಳೆ # ;
+%<vaux%>%<pres%>%<p1%>%<mf%>%<sg%>:ರೆ # ;
+
+LEXICON ಅವ/__prn
+%<prn%>%<p3%>%<mf%>%<sg%>%<nom%>:ನೆ # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NounRoot
+ಜೇಮ್ಸ್:ಜೇಮ್ಸ್   ಜೇಮ್ಸ್__np;
+ಮೇರ:ಮೇರ        ಮೇರಿ__np;
 
-house:house RegNounInfl ; ! A noun
+
+ಮನೆ:ಮನೆ        ಮನೆ__n;
+ಉದ್ಯಾನ:ಉದ್ಯಾನ        ಮನೆ__n;   
+ಹವಾಮಾನ:ಹವಾಮಾನ        ಹವಾಮಾನ__n;
+ಹುಡುಗ:ಹುಡುಗ        ಹುಡುಗ__n;
+ಸಹೋದರ:ಸಹೋದರ        ಸಹೋದರ__n; 
+ವರ್ಷ:ವರ್ಷ        ಮನೆ__n;
+ನಾಯಿ:ನಾಯಿ        ಮನೆ__n;
+ಬೆಕ್ಕು:ಬೆಕ್ಕು        ಮನೆ__n;
+ತಾಯಿ:ತಾಯ        ತಾಯ__n;
+ಕಿಟಕಿ:ಕಿಟಕಿ        ಮನೆ__n;
+
+
+ಒಳ್ಳೆಯದು:ಒಳ್ಳೆಯದು        ಒಳ್ಳೆಯದು__adj;
+ತುಂಬಾ:ತುಂಬಾ        ಒಳ್ಳೆಯದು__adj;
+ಬಿಸಿ:ಬಿಸಿ        ಒಳ್ಳೆಯದು__adj;
+ದೊಡ್ಡದು:ದೊಡ್ಡದು        ಒಳ್ಳೆಯದು__adj;
+ಶೀತ:ಶೀತ        ಒಳ್ಳೆಯದು__adj;
+    
+
+ಎಲ್ಲಿ:ಎಲ್ಲಿ        __adv;
+ಇವತ್ತು:ಇವತ್ತು        __adv;
+ನಂತರ:ನಂತರ        __adv;
+ಹೊರಗೆ:ಹೊರಗೆ        __adv;
+    
+
+ಮತ್ತು:ಮತ್ತು        __cnjcoo;
+ಆದರೆ:ಆದರೆ        __cnjcoo;
+
+
+ಇದ್ದಾ:ಇದ್ದಾ        __vaux;
+    
+ಅವರು:ಅವರು        ಅವ/__prn;
+
+
+
 
 
 
