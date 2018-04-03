@@ -3,8 +3,12 @@
 Multichar_Symbols
 
 ! Part of speech categories
-%<n%>     ! Noun
+%<n%>	  ! Noun
+%<v%>     ! Verb
 %<nom%>   ! Nominal
+%<dat%>   ! Dative
+%<gen%>   ! Genitive
+%<ins%>   ! Instrumental
 %<adj%>   ! Adjective
 %<cnjcoo%>! Co-ordinating conjunction
 %<adv%>   ! Adverb
@@ -16,22 +20,30 @@ Multichar_Symbols
 %<sg%>  ! Singular
 
 ! Gender
-%<m%> ! Male
-%<f%> ! Female
-%<nt%>! Neutral
-%<mf%>! Both
+%<m%>  ! Male
+%<f%>  ! Female
+%<nt%> ! Neutral
+%<mf%> ! Male and Female
+%<mfn%>! Male,Female and neutral
+
 
 ! Tense
 %<pres%> ! Present
 %<past%> ! Past
+%<neg%> ! Negative
 
 !Person
 %<p1%> ! 1st Person
 %<p2%> ! 2nd Person
 %<p3%> ! 3rd Person
 
+!Proper Nouns
+%<ant%> ! Anthroponym
+%<top%> ! Toponym
+%<acr%> ! Toponym
 ! Other symbols
 %>      ! Morpheme boundary
+
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -40,12 +52,19 @@ Multichar_Symbols
 
 LEXICON Root
 
-NounRoot ;
+NounRoot;
 
 
 LEXICON ಮನೆ__n
 %<n%>%<nt%>%<sg%>%<nom%>:#;
-%<n%>%<nt%>%<pl%>%<nom%>:%>ಗಳು#;
+%<n%>%<nt%>%<pl%>%<nom%>:ಗಳು#;
+%<n%>%<nt%>%<sg%>%<acc%>:ಯನ್ನು #;
+
+LEXICON ಮುಷ್ಕರ__n
+%<n%>%<mfn%>%<sg%>%<nom%>:#;
+%<n%>%<mfn%>%<sg%>%<dat%>:ಕ್ಕೆ #;
+%<n%>%<mfn%>%<sg%>%<ins%>:ದಿಂದ #;
+
 
 LEXICON ಹವಾಮಾನ__n
 %<n%>%<nt%>%<sg%>%<nom%>: # ;
@@ -60,6 +79,7 @@ LEXICON ಸಹೋದರ__n
 %<n%>%<m%>%<pl%>%<nom%>:ಯರು # ;
 %<n%>%<f%>%<sg%>%<nom%>:ಿ # ;
 %<n%>%<f%>%<pl%>%<nom%>:ಿಯರು # ;
+%<n%>%<mf%>%<pl%>%<gen%>:ರ # ;
 
 LEXICON ತಾಯ__n
 %<n%>%<f%>%<sg%>%<nom%>:ಿ# ;
@@ -80,25 +100,54 @@ LEXICON ಜೇಮ್ಸ್__np
 LEXICON ಮೇರಿ__np
 %<np%>%<ant%>%<f%>%<sg%>%<nom%>: # ;
 
+LEXICON ಬೆಂಗಳೂರು__np
+%<np%>%<top%>%<nt%>%<sg%>%<nom%>: # ;
+
+LEXICON ಬಿಎಂಆರ್‌ಸಿಲ್‌/__np
+%<np%>%<acr%>%<nt%>%<sg%>%<nom%>: # ;
 
 LEXICON __vaux
 %<vaux%>%<pres%>%<p1%>%<m%>%<sg%>:ನೆ # ;
 %<vaux%>%<pres%>%<p1%>%<f%>%<sg%>:ಳೆ # ;
 %<vaux%>%<pres%>%<p1%>%<mf%>%<sg%>:ರೆ # ;
+%<vaux%>%<past%>%<p3%>%<mf%>%<pl%>:ಿರುವ # ;
+%<vaux%>%<fut%>%<neg%>:ಬಾರದು #;
 
 LEXICON ಅವ/__prn
 %<prn%>%<p3%>%<mf%>%<sg%>%<nom%>:ನೆ # ;
+
+LEXICON __prn
+%<prn%>%<p3%>%<mfn%>%<sg%>%<nom%>: # ;
+
+LEXICON this/__prn
+%<prn%>%<p1%>%<nt%>%<sg%>%<nom%>: # ;
+
+LEXICON __det
+%<det%>%<ind%>%<nt%>%<nom%>: # ;
+
+LEXICON __v
+%<v%>%<pres%>%<p3%>: # ;
+%<v%>%<pres%>%<p3%>: # ;
+%<v%>%<past%>%<p3%>:ಿದ # ;
+%<v%>%<past%>%<p3%>:ತ್ತು # ;
+%<v%>%<fut%>%<p3%>:ಲು # ;
+%<v%>%<past%>%<p3%>:ಿದೆ # ;
+%<v%>%<past%>%<p3%>%<pl%>:ಾದರೂ # ;
+
+LEXICON __prepos
+%<pr%>: #;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NounRoot
-ಜೇಮ್ಸ್:ಜೇಮ್ಸ್   ಜೇಮ್ಸ್__np;
-ಮೇರ:ಮೇರ        ಮೇರಿ__np;
+ಜೇಮ್ಸ್:ಜೇಮ್ಸ್    ಜೇಮ್ಸ್__np;
+ಮೇರಿ:ಮೇರಿ        ಮೇರಿ__np;
+ಬೆಂಗಳೂರು:ಬೆಂಗಳೂರು   ಬೆಂಗಳೂರು__np;
+ಬಿಎಂಆರ್‌ಸಿಲ್‌:ಬಿಎಂಆರ್‌ಸಿಲ್‌ ಬಿಎಂಆರ್‌ಸಿಲ್‌/__np;
 
-
-ಮನೆ:ಮನೆ        ಮನೆ__n;
+ಮನೆ:ಮನೆ        		ಮನೆ__n;
 ಉದ್ಯಾನ:ಉದ್ಯಾನ        ಮನೆ__n;   
 ಹವಾಮಾನ:ಹವಾಮಾನ        ಹವಾಮಾನ__n;
 ಹುಡುಗ:ಹುಡುಗ        ಹುಡುಗ__n;
@@ -108,34 +157,57 @@ LEXICON NounRoot
 ಬೆಕ್ಕು:ಬೆಕ್ಕು        ಮನೆ__n;
 ತಾಯಿ:ತಾಯ        ತಾಯ__n;
 ಕಿಟಕಿ:ಕಿಟಕಿ        ಮನೆ__n;
-
+ಮೆಟ್ರೋ:ಮೆಟ್ರೋ	ಮನೆ__n;
+ಸಿಬ್ಬಂದಿ:ಸಿಬ್ಬಂದಿ ಮನೆ__n;
+ಮುನ್ನೆಚ್ಚರಿಕೆ:ಮುನ್ನೆಚ್ಚರಿಕೆ ಮನೆ__n;
+ಪಡೆ:ಪಡೆ ಮನೆ__n;
+ಅವಧಿ:ಅವಧಿ ಮನೆ__n; 
+ಮುಷ್ಕರ:ಮುಷ್ಕರ 	ಮುಷ್ಕರ__n;
+ಸಾರ್ವಜನಿಕ:ಸಾರ್ವಜನಿಕ ಸಹೋದರ__n;
+ಪ್ರಯಾಣೆ:ಪ್ರಯಾಣ ಮುಷ್ಕರ__n;
+ಉದ್ದೇಶದಿಂದ:ಉದ್ದೇಶ ಮುಷ್ಕರ__n;
+ಕ್ರಮ:ಕ್ರಮ ಮನೆ__n;
 
 ಒಳ್ಳೆಯದು:ಒಳ್ಳೆಯದು        ಒಳ್ಳೆಯದು__adj;
 ತುಂಬಾ:ತುಂಬಾ        ಒಳ್ಳೆಯದು__adj;
 ಬಿಸಿ:ಬಿಸಿ        ಒಳ್ಳೆಯದು__adj;
 ದೊಡ್ಡದು:ದೊಡ್ಡದು        ಒಳ್ಳೆಯದು__adj;
 ಶೀತ:ಶೀತ        ಒಳ್ಳೆಯದು__adj;
-    
+ಮತ್ತಷ್ಟು:ಮತ್ತಷ್ಟು     ಒಳ್ಳೆಯದು__adj;
+ಪರ್ಯಾಯ:ಪರ್ಯಾಯ		ಒಳ್ಳೆಯದು__adj;
+ಅನಿರ್ದಿಷ್ಟ:ಅನಿರ್ದಿಷ್ಟ ಒಳ್ಳೆಯದು__adj;
 
 ಎಲ್ಲಿ:ಎಲ್ಲಿ        __adv;
 ಇವತ್ತು:ಇವತ್ತು        __adv;
 ನಂತರ:ನಂತರ        __adv;
 ಹೊರಗೆ:ಹೊರಗೆ        __adv;
-    
+ಬೆನ್ನಲ್ಲೇ:ಬೆನ್ನಲ್ಲೇ  __adv;   
+ ಕ್ರಮವಾಗಿ: ಕ್ರಮವಾಗಿ	__adv;
+ಒಂದೊಮ್ಮೆ :ಒಂದೊಮ್ಮೆ  __adv;
+
 
 ಮತ್ತು:ಮತ್ತು        __cnjcoo;
 ಆದರೆ:ಆದರೆ        __cnjcoo;
 
 
 ಇದ್ದಾ:ಇದ್ದಾ        __vaux;
-    
+ಕೊಂಡು:ಕೊಂಡ __vaux;
+ತೊಂದರೆಯಾಗದು:ತೊಂದರೆಯಾಗ __vaux;
+
 ಅವರು:ಅವರು        ಅವ/__prn;
+ಮತ್ತೂಂದು:ಮತ್ತೂಂದು __prn;
+ಈ:ಈ this/__prn;
 
+ಮುಂದೂಡ:ಮುಂದೂಡ __v;
+ಸಜ್ಜುಗೊಳಿಸ:ಸಜ್ಜುಗೊಳಿಸ __v;
+ಮುಂದಾಗಿದೆ:ಮುಂದಾಗ __v;
+ಎಚ್ಚರ:ಎಚ್ಚೆ __v;
+ಮುಂದ:ಮುಂದ __v;
+ಕೈಗೊಳ್ಳಲಾಗಿ:ಕೈಗೊಳ್ಳಲಾಗ __v;
 
+ಯಾವುದೇ:ಯಾವುದೇ __det;
 
-
-
-
+ಎಂಬ:ಎಂಬ __prepos;
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Lexicon
 ! http://wiki.apertium.org/wiki/Lttoolbox_and_lexc
