@@ -46,7 +46,16 @@ Multichar_Symbols
 ! Other symbols
 %>      ! Morpheme boundary
 
-
+! Punctuation
+%<percent%>   ! Percent
+%<sent%>      ! Sentence marker
+%<guio%>      ! Hyphen
+%<cm%>        ! Comma
+%<apos%>      ! Apostrophe
+%<rquot%>     ! Quote marker (right hand side)
+%<lquot%>     ! Quote marker (left hand side)
+%<rpar%>      ! Parenthetical marker (right hand side)
+%<lpar%>      ! Parenthetical marker (left hand side)
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                       M O R P H O T A C T I C S                         !!!
@@ -143,9 +152,57 @@ LEXICON __vaux
 %<vaux%>%<fut%>%<p1%>%<mf%>%<sg%>:ುದು # ;
 %<vaux%>%<fut%>%<neg%>:ಬಾರದು #;
 
+LEXICON ನಾ/__prn;
+%<prn%>%<p1%>%<mf%>%<sg%>%<nom%>:ನು # ;
+%<prn%>%<p1%>%<mf%>%<sg%>%<acc%>:ನನ್ನು # ;
+%<prn%>%<p1%>%<mf%>%<sg%>%<dat%>:ನಿಗೆ # ;
+%<prn%>%<p1%>%<mf%>%<sg%>%<gen%>:ನ್ನ # ;
+%<prn%>%<p1%>%<mf%>%<sg%>%<loc%>:ನಲ್ಲಿ # ;
+%<prn%>%<p1%>%<mf%>%<sg%>%<ins%>:ನ್ನಿಂದ # ;
+
+%<prn%>%<p1%>%<mf%>%<pl%>%<nom%>:ವು # ;
+%<prn%>%<p1%>%<mf%>%<pl%>%<acc%>:ಮ್ಮನು # ;
+%<prn%>%<p1%>%<mf%>%<pl%>%<dat%>:ನಮಗೆ # ;
+%<prn%>%<p1%>%<mf%>%<pl%>%<gen%>:ಮ್ಮ # ;
+%<prn%>%<p1%>%<mf%>%<pl%>%<loc%>:ಮ್ಮಲ್ಲಿ # ;
+%<prn%>%<p1%>%<mf%>%<pl%>%<ins%>:ಮ್ಮಿಂದ # ;
+
+LEXICON ನೀ/__prn;
+%<prn%>%<p2%>%<mf%>%<sg%>%<nom%>:ನು # ;
+%<prn%>%<p2%>%<mf%>%<sg%>%<acc%>:ನನ್ನು # ;
+%<prn%>%<p2%>%<mf%>%<sg%>%<dat%>:ನಿಗೆ # ;
+%<prn%>%<p2%>%<mf%>%<sg%>%<gen%>:ನ್ನ # ;
+%<prn%>%<p2%>%<mf%>%<sg%>%<loc%>:ನಲ್ಲಿ # ;
+%<prn%>%<p2%>%<mf%>%<sg%>%<ins%>:ನ್ನಿಂದ # ;
+
+%<prn%>%<p2%>%<mf%>%<pl%>%<nom%>:ವು # ;
+%<prn%>%<p2%>%<mf%>%<pl%>%<acc%>:ಮ್ಮನು # ;
+%<prn%>%<p2%>%<mf%>%<pl%>%<dat%>:ನಮಗೆ # ;
+%<prn%>%<p2%>%<mf%>%<pl%>%<gen%>:ಮ್ಮ # ;
+%<prn%>%<p2%>%<mf%>%<pl%>%<loc%>:ಮ್ಮಲ್ಲಿ # ;
+%<prn%>%<p2%>%<mf%>%<pl%>%<ins%>:ಮ್ಮಿಂದ # ;
+
+
 LEXICON ಅವ/__prn
-%<prn%>%<p3%>%<m%>%<sg%>%<nom%>:ನೆ # ;
-%<prn%>%<p3%>%<mf%>%<pl%>%<ins%>:# ;
+%<prn%>%<p3%>%<m%>%<sg%>%<nom%>:ನು # ;
+%<prn%>%<p3%>%<m%>%<sg%>%<acc%>:ನನ್ನು # ;
+%<prn%>%<p3%>%<m%>%<sg%>%<dat%>:ನಿಗೆ # ;
+%<prn%>%<p3%>%<m%>%<sg%>%<gen%>:ನ # ;
+%<prn%>%<p3%>%<m%>%<sg%>%<loc%>:ನಲ್ಲಿ # ;
+%<prn%>%<p3%>%<m%>%<sg%>%<ins%>:ನಿಂದ # ;
+
+%<prn%>%<p3%>%<f%>%<sg%>%<nom%>:ಳು # ;
+%<prn%>%<p3%>%<f%>%<sg%>%<acc%>:ಳನ್ನು # ;
+%<prn%>%<p3%>%<f%>%<sg%>%<dat%>:ಳಿಗೆ # ;
+%<prn%>%<p3%>%<f%>%<sg%>%<gen%>:ಳ # ;
+%<prn%>%<p3%>%<f%>%<sg%>%<loc%>:ಳಲ್ಲಿ # ;
+%<prn%>%<p3%>%<f%>%<sg%>%<ins%>:ಳಿಂದ # ;
+
+%<prn%>%<p3%>%<mf%>%<pl%>%<nom%>:ರು # ;
+%<prn%>%<p3%>%<mf%>%<pl%>%<acc%>:ರನ್ನು # ;
+%<prn%>%<p3%>%<mf%>%<pl%>%<dat%>:ರಿಗೆ # ;
+%<prn%>%<p3%>%<mf%>%<pl%>%<gen%>:ರ # ;
+%<prn%>%<p3%>%<mf%>%<pl%>%<loc%>:ರಲ್ಲಿ # ;
 %<prn%>%<p3%>%<mf%>%<pl%>%<ins%>:ರಿಂದ # ;
 
 LEXICON __prn
@@ -218,6 +275,9 @@ LEXICON __v
 LEXICON __prepos
 %<pr%>: #;
 
+LEXICON __postpos
+%<post%>: #;
+
 LEXICON __num
 %<num%>%<sg%>:#;
 %<num%>%<sp%>:ು #;
@@ -231,14 +291,12 @@ LEXICON __numeral
 %<num%>:#;
 %<num%>%<sg%>%<ins%>:ರಿಂದ #;
 
-LEXICON __separa
-%<sent%>:#;
+ !LEXICON Punctuation
+!===================!
 
-LEXICON __comma
-%<cm%>:#;
 
-LEXICON __exclamation
-%<exclm%>:#;
+
+
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -431,15 +489,17 @@ LEXICON NounRoot
 ಎನ್ನುವ:ಎನ್ನುವ __vaux;
 
 
-
 ಮತ್ತೂಂದು:ಮತ್ತೂಂದು __prn;
 ತಮ್ಮ:ತಮ್ಮ theirs/__prn;
 ಈ:ಈ this/__prn;
 ಆ:ಆ that/__prn;
-ನಮ್ಮ:ನಮ್ಮ ours/__prn;
+!ನಮ್ಮ:ನಮ್ಮ ours/__prn;
 
-ಅವರು:ಅವರು        ಅವ/__prn;
-ರಿಂದ:ರಿಂದ ಅವ/__prn;
+
+ನಾ:ನಾ         ನಾ/__prn;
+ಅವ:ಅವ        ಅವ/__prn;
+
+
 
 
 ಮುಂದೂಡ:ಮುಂದೂಡ __v;
@@ -493,34 +553,73 @@ LEXICON NounRoot
 
 ಯಾವುದೇ:ಯಾವುದೇ __det;
 
+
+ಎಂಬ:ಎಂಬ __postpos;
+ಎಂದು:ಎಂದು __postpos;
+ನಡುವಿನ:ನಡುವಿನ __postpos;
+ನಡುವೆ:ನಡುವೆ __postpos;
+ಸೇರಿದಂತೆ:ಸೇರಿದಂತೆ __postpos;
+ಸೇರಿ:ಸೇರಿ __postpos;
+ಕುರಿತು:ಕುರಿತು __postpos;
+ಹಾಗಿದ್ದರೆ:ಹಾಗಿದ್ದರೆ __postpos;
+ಹೊರಗೆ:ಹೊರಗೆ __postpos;
+ಒಳಗೆ:ಒಳಗೆ __postpos;
+ಮೇಲೆ:ಮೇಲೆ __postpos;
+ಕೆಳಗೆ:ಕೆಳಗೆ __postpos;
+ಕೂಡ:ಕೂಡ __postpos;
+ತನಕ:ತನಕ __postpos;
+ಪರ್ಯಂತರ:ಪರ್ಯಂತರ __postpos;
+ಬಳಿಕ:ಬಳಿಕ __postpos;
+ಮಟ್ಟಿಗೆ:ಮಟ್ಟಿಗೆ __postpos;
+ವರಿಗೆ:ವರಿಗೆ __postpos;
+ಬಗ್ಯೆ:ಬಗ್ಯೆ __postpos;
+ನಿಮಿತ್ತ:ನಿಮಿತ್ತ __postpos;
+ಮುಂಚೆ:ಮುಂಚೆ __postpos;
+ಹೊರ್ತು:ಹೊರ್ತು __postpos;
+ಎದುರು:ಎದುರು __postpos;
+ಮುಂಚೆ:ಮುಂಚೆ __postpos;
+
 ಇವರೆಲ್ಲಾ:ಇವರೆಲ್ಲಾ __prepos;
-ಎಂಬ:ಎಂಬ __prepos;
-ಎಂದು:ಎಂದು __prepos;
-ಮೇಲೆ:ಮೇಲೆ __prepos;
-ನಡುವಿನ:ನಡುವಿನ __prepos;
-ನಡುವೆ:ನಡುವೆ __prepos;
-ಸೇರಿದಂತೆ:ಸೇರಿದಂತೆ __prepos;
-ಸೇರಿ:ಸೇರಿ __prepos;
-ಕುರಿತು:ಕುರಿತು __prepos;
-ಇವೆಲ್ಲಕ್ಕಿಂತಲೂ:ಇವೆಲ್ಲಕ್ಕಿಂತಲೂ __prepos;
-ಉಪ:ಉಪ __prepos;
-ಹಾಗೊಂದು:ಹಾಗೊಂದು __prepos;
-ಹಾಗಿದ್ದರೆ:ಹಾಗಿದ್ದರೆ __prepos;
+ಹಾಗೊಂದು:ಹಾಗೊಂದು __prepos;    !n
 ಅದರಂತೆ:ಅದರಂತೆ __prepos;
+ಇವೆಲ್ಲಕ್ಕಿಂತಲೂ:ಇವೆಲ್ಲಕ್ಕಿಂತಲೂ 
+ತರುವಾಯ:ತರುವಾಯ __prepos;
+ಉಪ:ಉಪ __prepos;
 
 ಒಂದು:ಒಂದು __num;
 ಮೊದಲ:ಮೊದ __num;
-ನೂರು:ನೂರ __num;
-ಎರಡು:ಎರಡ __num;
 ಮೂರು:ಮೂರ __num;
+ಎರಡು:ಎರಡ __num;
+ನೂರು:ನೂರ __num;
 ಲಕ್ಷಾ:ಲಕ್ಷಾ __num;
-:  __num;
+
 <[%0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9]+>  __numeral;
+<[%೦ | ೧ | ೨ | ೩ | ೪ | ೫ | ೬ | ೮ | ೮ | ೬]+>  __numeral;
 
 
-.:. __separa;
-,:, __comma;
-!:! __exclamation;
+%.%<sent%>:%. # ;
+%.%.%.%<sent%>:%.%.%. # ;
+%;%<sent%>:%; # ;
+%:%<sent%>:%: # ;
+%!%<sent%>:%! # ;
+%-%<guio%>:%- # ;
+%х%<guio%>:%- # ;
+%—%<guio%>:%— # ;
+%–%<guio%>:%– # ;
+,%<cm%>:%, # ;
+%?%<sent%>:%? # ;
+%'%<apos%>:%' # ;
+%"%<sent%>:%" # ;
+%«%<lquot%>:%« # ;
+%»%<rquot%>:%» # ;
+%”%<rquot%>:%” # ;
+%“%<lquot%>:%“ # ;
+%(%<lpar%>:%( # ;
+%]%<rpar%>:%] # ;
+%[%<lpar%>:%[ # ;
+%)%<rpar%>:%) # ;
+%\%<sent%>:%\ # ;
+%/%<sent%>:%/ # ;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Lexicon
