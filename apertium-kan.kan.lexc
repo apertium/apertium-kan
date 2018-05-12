@@ -226,8 +226,19 @@ LEXICON __num
 %<num%>%<sg%>%<ord%>:ನೇ #;
 %<num%>%<sg%>%<ord%>:ಲ #;
 
-LEXICON __realnum
+
+LEXICON __numeral
 %<num%>:#;
+%<num%>%<sg%>%<ins%>:ರಿಂದ #;
+
+LEXICON __separa
+%<sent%>:#;
+
+LEXICON __comma
+%<cm%>:#;
+
+LEXICON __exclamation
+%<exclm%>:#;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -415,7 +426,7 @@ LEXICON NounRoot
 
 ಇದ್ದಾ:ಇದ್ದಾ        __vaux;
 ಕೊಂಡು:ಕೊಂಡ __vaux;
-ತೊಂದರೆಯಾಗದು:ತೊಂದರೆಯಾಗ __vaux;
+!ತೊಂದರೆಯಾಗದು:ತೊಂದರೆಯಾಗ __vaux;!wrong
 ಏನ:ಏನ __vaux;
 ಎನ್ನುವ:ಎನ್ನುವ __vaux;
 
@@ -500,12 +511,16 @@ LEXICON NounRoot
 ಒಂದು:ಒಂದು __num;
 ಮೊದಲ:ಮೊದ __num;
 ನೂರು:ನೂರ __num;
-ಎರಡ:ಎರಡ __num;
-ಮೂರು:ಮೂರು __num;
+ಎರಡು:ಎರಡ __num;
+ಮೂರು:ಮೂರ __num;
 ಲಕ್ಷಾ:ಲಕ್ಷಾ __num;
 :  __num;
+<[%0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9]+>  __numeral;
 
 
+.:. __separa;
+,:, __comma;
+!:! __exclamation;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Lexicon
