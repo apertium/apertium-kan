@@ -152,7 +152,7 @@ LEXICON __vaux
 %<vaux%>%<fut%>%<p1%>%<mf%>%<sg%>:ುದು # ;
 %<vaux%>%<fut%>%<neg%>:ಬಾರದು #;
 
-LEXICON ನಾ/__prn;
+LEXICON ನಾ/__prn
 %<prn%>%<p1%>%<mf%>%<sg%>%<nom%>:ನು # ;
 %<prn%>%<p1%>%<mf%>%<sg%>%<acc%>:ನನ್ನು # ;
 %<prn%>%<p1%>%<mf%>%<sg%>%<dat%>:ನಿಗೆ # ;
@@ -167,7 +167,7 @@ LEXICON ನಾ/__prn;
 %<prn%>%<p1%>%<mf%>%<pl%>%<loc%>:ಮ್ಮಲ್ಲಿ # ;
 %<prn%>%<p1%>%<mf%>%<pl%>%<ins%>:ಮ್ಮಿಂದ # ;
 
-LEXICON ನೀ/__prn;
+LEXICON ನೀ/__prn
 %<prn%>%<p2%>%<mf%>%<sg%>%<nom%>:ನು # ;
 %<prn%>%<p2%>%<mf%>%<sg%>%<acc%>:ನನ್ನು # ;
 %<prn%>%<p2%>%<mf%>%<sg%>%<dat%>:ನಿಗೆ # ;
@@ -481,6 +481,7 @@ LEXICON NounRoot
 ಹಾಗೂ:ಹಾಗೂ		__cnjcoo;
 ಆದರೆ:ಆದರೆ        __cnjcoo;
 ವೇಳೆ:ವೇಳೆ 			__cnjcoo;
+ಅಥವ:ಅಥವ 		__cnjcoo;
 
 ಇದ್ದಾ:ಇದ್ದಾ        __vaux;
 ಕೊಂಡು:ಕೊಂಡ __vaux;
@@ -582,7 +583,7 @@ LEXICON NounRoot
 ಇವರೆಲ್ಲಾ:ಇವರೆಲ್ಲಾ __prepos;
 ಹಾಗೊಂದು:ಹಾಗೊಂದು __prepos;    !n
 ಅದರಂತೆ:ಅದರಂತೆ __prepos;
-ಇವೆಲ್ಲಕ್ಕಿಂತಲೂ:ಇವೆಲ್ಲಕ್ಕಿಂತಲೂ 
+ಇವೆಲ್ಲಕ್ಕಿಂತಲೂ:ಇವೆಲ್ಲಕ್ಕಿಂತಲೂ  __prepos;
 ತರುವಾಯ:ತರುವಾಯ __prepos;
 ಉಪ:ಉಪ __prepos;
 
