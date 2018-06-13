@@ -1,0 +1,659 @@
+"<ಉತ್ತರ>"
+	"ಉತ್ತರ" n nt sg nom
+"<ಕೊರಿಯ>"
+	"ಕೊರಿಯ" np top nt sg nom
+"<ನಾಯಕ>"
+	"ನಾಯಕ" n m sg nom
+"<ಕಿಮ್>"
+	"ಕಿಮ್" np ant m sg nom
+‌ 
+"<ಜಾಂಗ್>"
+	"ಜಾಂಗ್" np ant m sg nom
+‌ 
+"<ಉನ್>"
+	"ಉನ್" np cog m sg nom
+‌ 
+"<ಅವರೊಂದಿಗಿನ>"
+	"ಒಂದಿಗೆ" post gen
+		"ಅವ" prn p3 dist mf pl nom
+	"ಒಂದಿಗೆ" post gen
+		"ಅವ" prn p3 dist mf sg hon nom
+"<ಐತಿಹಾಸಿಕ>"
+	"ಐತಿಹಾಸಿಕ" adj
+"<ಶೃಂಗಕ್ಕಾಗಿ>"
+	"ಆಗಿ" post
+		"ಶೃಂಗ" n nt sg dat
+"<ಸಿಂಗಾಪುರಕ್ಕೆ>"
+	"ಸಿಂಗಾಪುರ" np top sg dat
+"<ಬಂದಿರುವ>"
+	"ಬರುವ" v pres p3 sp mfn
+"<ಅಮೆರಿಕದ>"
+	"ಅಮೆರಿಕ" np top sg gen
+"<ಅಧ್ಯಕ್ಷ>"
+	"ಅಧ್ಯಕ್ಷ" n m sg nom
+"<ಡೊನಾಲ್ಡ್>"
+	"ಡೊನಾಲ್ಡ್" np ant m sg nom
+‌ 
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಅವರನ್ನು>"
+	"ಅವ" prn p3 dist mf pl acc
+	"ಅವ" prn p3 dist mf sg hon acc
+  
+"<ಭೇಟಿಯಾಗುವ>"
+	"ಭೇಟಿ" v fut p3 sg mfn
+"<ಮಹದಾಸೆಯೊಂದಿಗೆ>"
+	"ಒಂದಿಗೆ" post
+		"ಮಹದಾಸೆ" n nt sg nom
+"<ಮಲೇಶ್ಯದ>"
+	"ಮಲೇಶ್ಯ" np top sg gen
+"<ಭಾರತ>"
+	"ಭಾರತ" np top sg nom
+"<ಸಂಜಾತ>"
+	"ಸಂಜಾತ" adj
+"<25ರ>"
+	"25" num loc
+"<ಹರೆಯದ>"
+	"ಹರೆಯದ" n nt sg nom
+"<ಮಹಾರಾಜ್>"
+	"ಮಹಾರಾಜ್" n m sg nom
+‌ 
+"<ಮೋಹನ್>"
+	"ಮೋಹನ್" np ant m sg nom
+‌ 
+"<ಎಂಬಾತ>"
+	"ಆತ" prn refl mfn sg nom
+		"ಎಂಬ" part
+"<573>"
+	"573" num
+"<ಡಾಲರ್>"
+	"ಡಾಲರ್" np al m sg nom
+‌ 
+"<ಖರ್ಚು>"
+	"ಖರ್ಚು" n nt sg nom
+"<ಮಾಡಿ>"
+	"ಮಾಡು" v past p1 pl mf
+	"ಮಾಡು" v imp p3 pl mf
+"<ಒಂದು>"
+	"ಒಂದು" num
+"<ದಿನ>"
+	"ದಿನ" n nt sg nom
+"<ಮೊದಲೇ>"
+	"ಮೊದಲೇ" adv
+"<ಸಿಂಗಾಪುರಕ್ಕೆ>"
+	"ಸಿಂಗಾಪುರ" np top sg dat
+"<ಬಂದು>"
+	"ಬರುವ" v pri p3 sg mfn
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಉಳಿಯಲಿದ್ದ>"
+	"ಉಳಿ" v pp p3 sp mfn
+  
+"<ಶಾಂಗ್ರಿಲಾ>"
+	"ಶಾಂಗ್ರಿಲಾ" np al m sg nom
+"<ಹೊಟೇಲ್>"
+	"ಹೊಟೇಲ್" n nt sg nom
+‌
+"<ನಲ್ಲಿ>"
+	"ನಲ್ಲಿ" adv
+	"ನಲ್ಲಿ" nt sg loc
+"<ರೂಮ್>"
+	"ರೂಮ್" n nt sg nom
+‌ 
+"<ಪಡೆದುಕೊಂಡು>"
+	"ಪಡೆ" v refl past p3 sg mfn
+  
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಗಾಗಿ>"
+	"ಗಾಗಿ" nt sg dat
+"<ಹೊಟೇಲ್>"
+	"ಹೊಟೇಲ್" n nt sg nom
+‌ 
+"<ಲಾಬಿಯಲ್ಲಿ>"
+	"ಲಾಬಿ" n nt sg loc
+"<ತಾಸುಗಟ್ಟಲೆ>"
+	"ತಾಸುಗಟ್ಟಲೆ" n nt sg nom
+"<ಕಾದು>"
+	"ಕಾದು" v pii p3 sg mf
+"<ಪ್ರಯೋಜನವಾಗದೆ>"
+	"ಪ್ರಯೋಜನ+ಆಗಿ" vaux past p3 sg mfn neg
+"<ಕೊನೆಗೆ>"
+	"ಕೊನೆಗೆ" adv
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಬಳಸುವ>"
+	"ಬಳಸು" v fut p3 sg nt
+"<ಎಂಟು>"
+	"ಎಂಟು" num
+"<ಟನ್>"
+	"ಟನ್" n nt sg nom
+‌ 
+"<ತೂಕದ>"
+	"ತೂಕ" n nt sg gen
+"<ಬುಲೆಟ್‌ಪ್ರೂಫ್>"
+	"ಬುಲೆಟ್‌ಪ್ರೂಫ್" adj
+	"ಬುಲೆಟ್‌ಪ್ರೂಫ್" n nt sg nom
+"<ಲಿಮೋಸಿನ್>"
+	"ಲಿಮೋಸಿನ್" np al m sg nom
+‌ 
+"<">"
+	""" sent
+"<ದ>"
+	"ದ" nt sg gen
+	"ದ" det def nt nom
+"<ಬೀಸ್ಟ್>"
+	"ಬೀಸ್ಟ್" adj
+‌
+"<'>"
+	"'" apos
+"<ಕಾರಿನೊಂದಿಗೆ>"
+	"ಒಂದಿಗೆ" post
+		"ಕಾರ" n nt sg gen
+"<ಸೆಲ್ಫಿ>"
+	"ಸೆಲ್ಫಿ" n nt sg nom
+"<ತೆಗೆದುಕೊಂಡು>"
+	"ತೆಗೆ" v refl past p3 sg mf
+"<ಅಷ್ಟಕ್ಕೇ>"
+	"ಅಷ್ಟಕ್ಕೇ" adv
+"<ಅನಿವಾರ್ಯವಾಗಿ>"
+	"ಅನಿವಾರ್ಯವಾಗಿ" adv
+"<ತೃಪ್ತಿಪಟ್ಟ>"
+	"*ತೃಪ್ತಿಪಟ್ಟ"
+  
+"<ವಿಲಕ್ಷಣಕಾರಿ>"
+	"ವಿಲಕ್ಷಣಕಾರಿ" adj
+"<ಘಟನೆ>"
+	"ಘಟನೆ" n nt sg nom
+"<ವರದಿಯಾಗಿದೆ>"
+	"ಆಗಿ" vaux past p3 sg nt
+		"ವರದಿ" n nt sg nom
+"<.>"
+	"." sent
+
+"<.>"
+	"." sent
+ 
+
+
+"<">"
+	""" sent
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಅವರನ್ನು>"
+	"ಅವ" prn p3 dist mf pl acc
+	"ಅವ" prn p3 dist mf sg hon acc
+"<ಭೇಟಿಯಾಗುವ>"
+	"ಭೇಟಿ" v fut p3 sg mfn
+"<ಸಾಧ್ಯತೆ>"
+	"ಸಾಧ್ಯತೆ" n nt sg nom
+"<ಶೇ>"
+	"ಶೇ" np acr nt sg nom
+"<.>"
+	"." sent
+
+"<1ರಷ್ಟು>"
+	"1" num perc
+  
+"<ಕೂಡ>"
+	"ಕೂಡ" post
+	"ಕೂಡ" adv
+"<ಇಲ್ಲವೆಂದು>"
+	"ಎಂದು" part
+		"ಇಲ್ಲ" neg
+"<ನನಗೆ>"
+	"ನಾ" prn p1 mf sg dat
+"<ಮೊದಲೇ>"
+	"ಮೊದಲೇ" adv
+"<ಗೊತ್ತಿತ್ತು>"
+	"ಗೊತ್ತ" v past p3 sp mfn
+"<.>"
+	"." sent
+
+"<ಆದರೆ>"
+	"ಆದರೆ" cnjcoo
+	"ಆದರೆ" pr
+"<ಅಕಸ್ಮಾತ್>"
+	"ಅಕಸ್ಮಾತ್" adj
+‌ 
+"<ಅದೃಷ್ಟ>"
+	"ಅದೃಷ್ಟ" n nt sg nom
+"<ಖುಲಾಯಿಸಿದರೆ>"
+	"ಖುಲಾಯಿಸು" v past p3 pl mf cni
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಭೇಟಿ>"
+	"ಭೇಟಿ" n nt sg nom
+"<ಸಾಧ್ಯವಾದೀತು>"
+	"ಆಗಿ" vaux past p3 sg nt
+		"ಸಾಧ್ಯ" n nt sg nom
+"<ಎಂಬ>"
+	"ಎಂಬ" part
+"<ಒಂದು>"
+	"ಒಂದು" num
+"<ಸಣ್ಣ>"
+	"ಸಣ್ಣ" adj
+"<ಆಸೆ>"
+	"ಆಸೆ" n nt sg nom
+"<ಮನದಾಳದಲ್ಲಿ>"
+	"ಮನದಾಳ" n nt sg loc
+  
+"<ಇತ್ತು>"
+	"ಇರುವ" vaux past p3 nt sg
+"<.>"
+	"." sent
+
+"<ಅದಕ್ಕಾಗಿ>"
+	"ಅದು" prn p3 dist nt sg dat
+	"ಅದಕ್ಕಾಗಿ" post
+"<765>"
+	"765" num
+"<ಸಿಂಗಾಪುರ>"
+	"ಸಿಂಗಾಪುರ" np top sg nom
+"<ಡಾಲರ್>"
+	"ಡಾಲರ್" np al m sg nom
+‌ 
+"<(>"
+	"(" lpar
+"<573>"
+	"573" num
+"<ರೂ>"
+	"ರೂ" np acr nt sg nom
+"<.>"
+	"." sent
+
+"<ಅಮೆರಿಕನ್>"
+	"ಅಮೆರಿಕನ್" adj
+‌ 
+"<ಡಾಲರ್>"
+	"ಡಾಲರ್" np al m sg nom
+‌ 
+"<ಅಥವಾ>"
+	"ಅಥವಾ" cnjcoo
+"<38>"
+	"38" num
+"<,>"
+	"," cm
+"<600>"
+	"600" num
+"<ರೂ>"
+	"ರೂ" np acr nt sg nom
+"<.>"
+	"." sent
+
+"<ಅಥವಾ>"
+	"ಅಥವಾ" cnjcoo
+"<2>"
+	"2" num
+"<,>"
+	"," cm
+"<000>"
+	"000" num
+"<ರಿಂಗಿಟ್‌>"
+	"ರಿಂಗಿಟ್‌" np al m sg nom
+"<ಗಿಂತ>"
+	"ಗಿಂತ" post
+"<ಹೆಚ್ಚು>"
+	"ಹೆಚ್ಚು" adj
+"<)>"
+	")" rpar
+"<ಖರ್ಚು>"
+	"ಖರ್ಚು" n nt sg nom
+"<ಮಾಡಿದೆ>"
+	"ಮಾಡು" v past p3 pl nt
+"<.>"
+	"." sent
+
+"<ಇದು>"
+	"ಇದು" prn p3 prox nt sg nom
+"<ನನ್ನ>"
+	"ನಾ" prn p1 mf sg gen
+"<ಮಟ್ಟಿಗೆ>"
+	"ಮಟ್ಟಿಗೆ" post
+"<ದೊಡ್ಡ>"
+	"ದೊಡ್ಡ" adj
+"<ಖರ್ಚೇ>"
+	"ಖರ್ಚೇ" n nt sg nom
+"<ಆದರೂ>"
+	"ಆಗುವ" vaux fut p3 nt sg cni
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಭೇಟಿ>"
+	"ಭೇಟಿ" n nt sg nom
+"<ಅದು>"
+	"ಅದು" prn p3 dist nt sg nom
+"<ತೀರ>"
+	"ತೀರ" adv
+"<ಸಣ್ಣ>"
+	"ಸಣ್ಣ" adj
+"<ಮೊತ್ತವೆಂದು>"
+	"ಎಂದು" part
+		"ಮೊತ್ತ" n nt sg nom
+"<ನನಗೆ>"
+	"ನಾ" prn p1 mf sg dat
+"<ಕೊನೆಗೆ>"
+	"ಕೊನೆಗೆ" adv
+"<ಅನ್ನಿಸಿತು>"
+	"ಅನ್ನಿಸು" v past p3 sg nt
+"<'>"
+	"'" apos
+"<ಎಂದು>"
+	"ಎಂದು" part
+	"ಎಂದರೆ" v pri p3 sg mfn
+"<ಮಹಾರಾಜ್>"
+	"ಮಹಾರಾಜ್" n m sg nom
+‌ 
+"<ಮೋಹನ್>"
+	"ಮೋಹನ್" np ant m sg nom
+‌ 
+"<ಹೇಳಿದರು>"
+	"ಹೇಳು" v past p3 pl mf
+"<.>"
+	"." sent
+
+"<.>"
+	"." sent
+ 
+
+
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಉಳಿದುಕೊಳ್ಳುವ>"
+	"ಉಳಿ" v refl fut p3 sp mfn
+"<ಹೊಟೇಲ್>"
+	"ಹೊಟೇಲ್" n nt sg nom
+‌
+"<ಗೆ>"
+	"ಗೆ" nt sg dat
+"<ತಾಗಿಕೊಂಡೇ>"
+	"ತಾಗಿ" v refl pres p3 sg mfn
+"<ಇರುವ>"
+	"ಇರುವ" vaux pres p3 nt sg
+"<ವಿಭಾಗದಲ್ಲಿ>"
+	"ವಿಭಾಗ" n nt sg loc
+"<ಮೋಹನ್>"
+	"ಮೋಹನ್" np ant m sg nom
+‌ 
+"<ಕೋಣೆ>"
+	"ಕೋಣೆ" n nt sg nom
+"<ಹಿಡಿದಿದ್ದರು>"
+	"ಹಿಡಿ" v past p3 sp mf
+"<.>"
+	"." sent
+
+"<ಬೆಳಗ್ಗೆ>"
+	"ಬೆಳಗ್ಗೆ" n nt sg nom
+"<6>"
+	"6" num
+"<.>"
+	"." sent
+
+"<30ಕ್ಕೆ>"
+	"30" num adv
+"<ಹೊಟೇಲ್>"
+	"ಹೊಟೇಲ್" n nt sg nom
+‌ 
+"<ಲಾಬಿ>"
+	"ಲಾಬಿ" n nt sg nom
+"<ಗೆ>"
+	"ಗೆ" nt sg dat
+"<ಬಂದು>"
+	"ಬರುವ" v pri p3 sg mfn
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಬರುವಿಕೆಯನ್ನು>"
+	"ಬರುವಿಕೆ" n nt sg acc
+"<ಕಾದರು>"
+	"ಕಾದು" v past p3 pl mf
+"<.>"
+	"." sent
+
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಅವರ>"
+	"ಅವ" prn p3 dist mf pl gen
+"<ಬೆಸ್ಟ್>"
+	"ಬೆಸ್ಟ್" adj
+‌ 
+"<ಸೆಲ್ಲರ್>"
+	"ಸೆಲ್ಲರ್" n nt sg nom
+‌ 
+"<">"
+	""" sent
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<:>"
+	":" sent
+"<ದಿ>"
+	"ದಿ" det def nt nom
+"<ಆರ್ಟ್>"
+	"ಆರ್ಟ್" n nt sg nom
+‌ 
+"<ಆಫ್>"
+	"ಆಫ್" pr
+"<ದಿ>"
+	"ದಿ" det def nt nom
+"<ಡೀಲ್>"
+	"ಡೀಲ್" n nt sg nom
+‌
+"<'>"
+	"'" apos
+"<ಪುಸ್ತಕವನ್ನು>"
+	"ಪುಸ್ತಕ" n nt sg acc
+"<ಕೈಯಲ್ಲಿ>"
+	"ಕೈ" n nt sg loc
+"<ಹಿಡಿದುಕೊಂಡು>"
+	"ಹಿಡಿ" v refl past p3 sg mf
+"<ಅದಕ್ಕೆ>"
+	"ಅದು" prn p3 dist nt sg dat
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಹಸ್ತಾಕ್ಷರ>"
+	"ಹಸ್ತಾಕ್ಷರ" n nt sg nom
+"<ಪಡೆಯುವುದು>"
+	"ಪಡೆ" v fut p3 sp mfn
+"<ಮೋಹನ್>"
+	"ಮೋಹನ್" np ant m sg nom
+‌ 
+"<ಅವರ>"
+	"ಅವ" prn p3 dist mf pl gen
+"<ಅಭಿಲಾಷೆಯಾಗಿತ್ತು>"
+	"ಆಗಿ" vaux past p3 sg nt
+		"ಅಭಿಲಾಷೆ" n nt sg nom
+"<.>"
+	"." sent
+
+"<ಆದರೆ>"
+	"ಆದರೆ" cnjcoo
+	"ಆದರೆ" pr
+"<8>"
+	"8" num
+"<ಗಂಟೆಯಾದರೂ>"
+	"ಆಗಿ" vaux past p3 sg mfn cni
+		"ಗಂಟೆ" n nt sg nom
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಸುಳಿವಿಲ್ಲದೆ>"
+	"" neg
+		"ಇಲ್ಲ" past
+			"ಸುಳಿವು" n nt sg nom
+"<ಮೋಹನ್>"
+	"ಮೋಹನ್" np ant m sg nom
+‌
+"<ಗೆ>"
+	"ಗೆ" nt sg dat
+"<ನಿರಾಶೆಯಾಗಿತ್ತು>"
+	"ಆಗಿ" vaux past p3 sg nt
+		"ನಿರಾಶೆ" n nt sg nom
+"<.>"
+	"." sent
+
+"<ಆ>"
+	"ಆ" det p3 dist mfn sg nom
+"<ಹೊತ್ತಿಗಾಗಲೇ>"
+	"ಆಗಲೇ" adv
+		"ಹೊತ್ತು" n nt sg nom
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಅವರು>"
+	"ಅವ" prn p3 dist mf pl nom
+"<ಸೆಂಟೋಸಾ>"
+	"ಸೆಂಟೋಸಾ" np top nt sg nom
+"<ದ್ವೀಪದಲ್ಲಿನ>"
+	"ದ್ವೀಪ" n nt sg loc gen
+"<ಕ್ಯಾಪೆಲಾ>"
+	"ಕ್ಯಾಪೆಲಾ" np al m sg nom
+"<ಹೊಟೇಲ್>"
+	"ಹೊಟೇಲ್" n nt sg nom
+‌ 
+"<ನಲ್ಲಿ>"
+	"ನಲ್ಲಿ" adv
+	"ನಲ್ಲಿ" nt sg loc
+"<ನಡೆಯಲಿದ್ದ>"
+	"ನಡೆ" v pp p3 sp mfn
+"<ಐತಿಹಾಸಿಕ>"
+	"ಐತಿಹಾಸಿಕ" adj
+"<ಶೃಂಗಕ್ಕೆ>"
+	"ಶೃಂಗ" n nt sg dat
+"<ನಿರ್ಗಮಿಸಿಯಾಗಿತ್ತು>"
+	"ನಿರ್ಗಮಿಸ" v past p3 sg mfn
+"<.>"
+	"." sent
+
+"<.>"
+	"." sent
+
+
+
+"<">"
+	""" sent
+"<ಎಲ್ಲರೂ>"
+	"ಎಲ್ಲ" prn p3 mf pl nom
+"<ನನಗೆ>"
+	"ನಾ" prn p1 mf sg dat
+"<ಹೇಳಿದ್ದರು>"
+	"ಹೇಳು" v past p3 pl mf
+"<:>"
+	":" sent
+"<20>"
+	"20" num
+"<ಕಿ.ಮೀ.>"
+	"ಕಿ.ಮೀ." np acr nt sg nom
+"<ಫಾಸಲೆಯಲ್ಲಿ>"
+	"ಫಾಸಲೆ" np top nt sg loc
+"<ಕೂಡ>"
+	"ಕೂಡ" post
+	"ಕೂಡ" adv
+"<ಟ್ರಂಪ್>"
+	"ಟ್ರಂಪ್" np cog m sg nom
+‌ 
+"<ಅವರನ್ನು>"
+	"ಅವ" prn p3 dist mf pl acc
+	"ಅವ" prn p3 dist mf sg hon acc
+"<ಕಾಣುವುದಾಗಲೀ>"
+	"ಆಗಿ" vaux past p3 sg mfn
+		"ಕಾಣು" v past p3 sp mfn
+"<ಅವರ>"
+	"ಅವ" prn p3 dist mf pl gen
+"<ಸನಿಹಕ್ಕೆ>"
+	"ಸನಿಹ" n nt sg dat
+"<ಹೋಗುವುದಾಗಲೀ>"
+	"ಆಗಿ" vaux past p3 sg mfn
+		"ಹೋಗು" v fut p3 sg mfn
+"<ಅಸಾಧ್ಯ>"
+	"ಅಸಾಧ್ಯ" n nt sg nom
+"<ಎಂದು>"
+	"ಎಂದು" part
+	"ಎಂದರೆ" v pri p3 sg mfn
+"<.>"
+	"." sent
+
+"<ಆದರೆ>"
+	"ಆದರೆ" cnjcoo
+	"ಆದರೆ" pr
+"<ಕೆಲವೊಮ್ಮೆ>"
+	"ಕೆಲವೊಮ್ಮೆ" adj
+"<ಅಸಾಧ್ಯವಾದದ್ದು>"
+	"ಆಗಿ" vaux past p3 sg nt
+		"ಅಸಾಧ್ಯ" n nt sg nom
+"<ಸಾಧ್ಯವಾಗುವುದಿದೆಯಲ್ಲ>"
+	"ಇದೆ" vaux past p3 sg nt affi
+		"ಆಗಿ" vaux fut p3 sg mfn
+			"ಸಾಧ್ಯ" n nt sg nom
+"<->"
+	"-" guio
+	"х" guio
+"<ಅಂತಹ>"
+	"ಅಂತಹ" post
+"<ಒಂದು>"
+	"ಒಂದು" num
+"<ಕ್ಷಣಕ್ಕಾಗಿ>"
+	"ಆಗಿ" post
+		"ಕ್ಷಣ" n nt sg dat
+"<ನಾನು>"
+	"ನಾ" prn p1 mf sg nom
+"<ಆಸೆ>"
+	"ಆಸೆ" n nt sg nom
+"<ಪಡುತ್ತಿದ್ದೆ>"
+	"ಪಡು" vaux past p1 sg mf
+"<'>"
+	"'" apos
+"<ಎಂದು>"
+	"ಎಂದು" part
+	"ಎಂದರೆ" v pri p3 sg mfn
+"<ಮೋಹನ್>"
+	"ಮೋಹನ್" np ant m sg nom
+‌ 
+"<ನಿರಾಶೆಯಿಂದ>"
+	"ನಿರಾಶೆ" n nt sp ins
+"<ಹೇಳಿದರು>"
+	"ಹೇಳು" v past p3 pl mf
+"<.>"
+	"." sent
+  
+
+"<ಮೋಹನ್>"
+	"ಮೋಹನ್" np ant m sg nom
+‌ 
+"<ಅವರು>"
+	"ಅವ" prn p3 dist mf pl nom
+"<ತನ್ನ>"
+	"ತಾ" prn refl mfn sg gen
+"<ತಂದೆ>"
+	"ತಂದೆ" n nt sg nom
+	"ತಂದೆ" n m sg nom
+"<ನಡೆಸುತ್ತಿರುವ>"
+	"ನಡೆ" v pres p3
+"<ಕನ್ಸಲ್ಟೆನ್ಸಿ>"
+	"ಕನ್ಸಲ್ಟೆನ್ಸಿ" n nt sg nom
+"<ಸಂಸ್ಥೆಯಲ್ಲಿ>"
+	"ಸಂಸ್ಥೆ" n nt sg loc
+"<ಕನ್ಸಲ್ಟೆಂಟ್>"
+	"ಕನ್ಸಲ್ಟೆಂಟ್" n nt sg nom
+‌ 
+"<ಆಗಿ>"
+	"ಆಗುವ" vaux past p3 nt sg
+"<ದುಡಿಯುತ್ತಿದ್ದಾರೆ>"
+	"ದುಡಿ" v pres p3 pl mf
+"<.>"
+	"." sent
+
+"<.>"
+	"." sent
+ 
+
+
