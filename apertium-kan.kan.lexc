@@ -149,14 +149,14 @@ LEXICON ಮನೆ__n!house
 %<n%>%<nt%>%<pl%>%<nom%>:ಗಳ ashtu ;
 
 
-%<n%>%<nt%>%<sg%>%<nom%>:ಯ oo__adv;
-%<n%>%<nt%>%<sg%>%<acc%>:ಯನ್ನ oo__adv;
-%<n%>%<nt%>%<pl%>%<acc%>:ಗಳನ್ನ oo__adv;
-%<n%>%<nt%>%<pl%>%<dat%>:ಗಳಿಗ oo__adv;
-%<n%>%<nt%>%<sg%>%<loc%>:ಯಲ್ಲಿಯ oo__adv;
-%<n%>%<nt%>%<pl%>%<loc%>:ಗಳಲ್ಲಿಯ oo__adv;
+%<n%>%<nt%>%<sg%>%<nom%>:ಯ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<acc%>:ಯನ್ನ oo__inc_clit;
+%<n%>%<nt%>%<pl%>%<acc%>:ಗಳನ್ನ oo__inc_clit;
+%<n%>%<nt%>%<pl%>%<dat%>:ಗಳಿಗ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<loc%>:ಯಲ್ಲಿಯ oo__inc_clit;
+%<n%>%<nt%>%<pl%>%<loc%>:ಗಳಲ್ಲಿಯ oo__inc_clit;
 %<n%>%<nt%>%<sg%>%<nom%>:yattu ;
-%<n%>%<nt%>%<pl%>%<acc%>%+ಅನುಭವಿಸು%<v%>%<fut%>%<sg%>%<mfn%>:ಗಳನ್ನನುಭವಿಸಲ oo__adv;
+%<n%>%<nt%>%<pl%>%<acc%>%+ಅನುಭವಿಸು%<v%>%<fut%>%<sg%>%<mfn%>:ಗಳನ್ನನುಭವಿಸಲ oo__inc_clit;
 
 %<n%>%<nt%>%<sg%>%<nom%>:ಯ endare__part ;
 %<n%>%<nt%>%<sg%>%<nom%>:ವ illa ;
@@ -195,7 +195,7 @@ LEXICON ವಿದೇಶೀ__n			!Same as Mane,but diff gender !videshi
 
 %<n%>%<nt%>%<sg%>%<nom%>:ulla ;
 %<n%>%<mf%>%<sg%>%<nom%>:parti ;
-%<n%>%<mf%>%<sg%>%<nom%>:ಯ oo__adv ;
+%<n%>%<mf%>%<sg%>%<nom%>:ಯ oo__inc_clit ;
 %<n%>%<mf%>%<sg%>%<nom%>:aagi__com ;
 
 
@@ -223,7 +223,7 @@ LEXICON negation
 LEXICON negation2
 +ಇಲ್ಲ%<adv%>%<pres%>%<neg%>:ವಿಲ್ಲ #;
 +ಇಲ್ಲ%<adv%>%<neg%>:ವಿಲ್ಲದೆ #;!ದೆ split more?
-+ಇಲ್ಲ%<adv%>%<neg%>:ವಿಲ್ಲದೆಯ oo__adv;
++ಇಲ್ಲ%<adv%>%<neg%>:ವಿಲ್ಲದೆಯ oo__inc_clit;
 
 LEXICON illa
 +ಇಲ್ಲ%<part%>%<neg%>:ಿಲ್ಲ #;
@@ -253,16 +253,16 @@ LEXICON 			ನೀರು__n!water
 %<n%>%<nt%>%<pl%>%<ins%>:ುಗಳಿನಿಂದ #;
 %<n%>%<nt%>%<pl%>%<ins%>:ುಗಳಿಂದ #;
 
-%<n%>%<nt%>%<sg%>%<nom%>:oo__adv;
-%<n%>%<nt%>%<pl%>%<nom%>:ುಗಳ oo__adv;
-%<n%>%<nt%>%<sg%>%<dat%>:ಿಗ oo__adv;
-%<n%>%<nt%>%<pl%>%<dat%>:ುಗಳಿಗ oo__adv;
-%<n%>%<nt%>%<sg%>%<acc%>:ನ್ನ oo__adv;
-%<n%>%<nt%>%<pl%>%<acc%>:ುಗಳನ್ನ oo__adv;
-%<n%>%<nt%>%<sg%>%<loc%>:ಿನಲ್ಲ oo__adv;
-%<n%>%<nt%>%<sg%>%<loc%>:ುಗಳಲ್ಲ oo__adv;
-%<n%>%<nt%>%<sg%>%<ins%>:ಿನಿಂದ oo__adv;
-%<n%>%<nt%>%<sg%>%<ins%>:ುಗಳಿನಿಂದ oo__adv;
+%<n%>%<nt%>%<sg%>%<nom%>:oo__inc_clit;
+%<n%>%<nt%>%<pl%>%<nom%>:ುಗಳ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<dat%>:ಿಗ oo__inc_clit;
+%<n%>%<nt%>%<pl%>%<dat%>:ುಗಳಿಗ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<acc%>:ನ್ನ oo__inc_clit;
+%<n%>%<nt%>%<pl%>%<acc%>:ುಗಳನ್ನ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<loc%>:ಿನಲ್ಲ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<loc%>:ುಗಳಲ್ಲ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<ins%>:ಿನಿಂದ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<ins%>:ುಗಳಿನಿಂದ oo__inc_clit;
 
 %<n%>%<nt%>%<sg%>%<nom%>:aagi__com ;
 %<n%>%<nt%>%<sg%>%<gen%>:ಿನ ondige ;
@@ -415,17 +415,17 @@ LEXICON 			ಮುಷ್ಕರ__n 		!mskara
 %<n%>%<nt%>%<sg%>%<nom%>:negation2;
 
 
-%<n%>%<nt%>%<sg%>%<nom%>:ವ oo__adv;
-%<n%>%<nt%>%<pl%>%<nom%>:ಗಳ oo__adv;
-%<n%>%<nt%>%<sg%>%<dat%>:ಕ್ಕ oo__adv ;
-%<n%>%<nt%>%<pl%>%<dat%>:ಗಳಿಗ oo__adv;
-%<n%>%<nt%>%<sg%>%<acc%>:ವನ್ನ oo__adv;
-%<n%>%<nt%>%<pl%>%<acc%>:ಗಳನ್ನ oo__adv;
-%<n%>%<nt%>%<sg%>%<ins%>:ದಿಂದಲ oo__adv;
-%<n%>%<nt%>%<pl%>%<loc%>:ಗಳಲ್ಲಿಯ oo__adv ;
-%<n%>%<nt%>%<sg%>%<loc%>:ದಲ್ಲಿಯ oo__adv	;
-%<n%>%<nt%>%<pl%>%<loc%>:ಗಳಲ್ಲಿಯ oo__adv;
-%<n%>%<nt%>%<sg%>%<loc%>:ದಲ್ಲ oo__adv ;
+%<n%>%<nt%>%<sg%>%<nom%>:ವ oo__inc_clit;
+%<n%>%<nt%>%<pl%>%<nom%>:ಗಳ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<dat%>:ಕ್ಕ oo__inc_clit ;
+%<n%>%<nt%>%<pl%>%<dat%>:ಗಳಿಗ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<acc%>:ವನ್ನ oo__inc_clit;
+%<n%>%<nt%>%<pl%>%<acc%>:ಗಳನ್ನ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<ins%>:ದಿಂದಲ oo__inc_clit;
+%<n%>%<nt%>%<pl%>%<loc%>:ಗಳಲ್ಲಿಯ oo__inc_clit ;
+%<n%>%<nt%>%<sg%>%<loc%>:ದಲ್ಲಿಯ oo__inc_clit	;
+%<n%>%<nt%>%<pl%>%<loc%>:ಗಳಲ್ಲಿಯ oo__inc_clit;
+%<n%>%<nt%>%<sg%>%<loc%>:ದಲ್ಲ oo__inc_clit ;
 
 %<n%>%<nt%>%<sg%>%<nom%>:ವ ide__vaux;
 %<n%>%<nt%>%<sg%>%<nom%>:ide__vaux ;
@@ -445,7 +445,7 @@ LEXICON 			ಮುಷ್ಕರ__n 		!mskara
 
 %<n%>%<mf%>%<pl%>%<nom%>%+ಮಾಡು%<v%>%<inf%>%<p3%>%<sg%>%<mfn%>:ಮಾಡಲ ide__vaux;
 %<n%>%<mf%>%<pl%>%<nom%>%+ಮಾಡು%<v%>%<inf%>%<p3%>%<sg%>%<mfn%>:ಮಾಡುವ #;
-%<n%>%<nt%>%<pl%>%<dat%>%+ಅನುಗುಣವಾಗಿ%<adv%>:ಗಳಿಗನುಗುಣವಾಗಿಯ oo__adv ;
+%<n%>%<nt%>%<pl%>%<dat%>%+ಅನುಗುಣವಾಗಿ%<adv%>:ಗಳಿಗನುಗುಣವಾಗಿಯ oo__inc_clit ;
 %<n%>%<nt%>%<sg%>%<gen%>%+ಆಗಮನ%<n%>%<nt%>%<sg%>%<nom%>:ದಾಗಮನ aagi__com;
 %<n%>%<nt%>%<sg%>%<nom%>%+ಅಭಿಪ್ರಾಯ%<n%>%<nt%>%<sg%>%<nom%>:ಾಭಿಪ್ರಾಯ #;
 
@@ -489,7 +489,7 @@ LEXICON 			ಅಣು__n
 %<n%>%<nt%>%<sg%>%<ins%>:ವಿಂದ #;
 %<n%>%<nt%>%<pl%>%<ins%>:ಗಳಿಂದ #;
 
-%<n%>%<nt%>%<sg%>%<nom%>%<emph%>:ವ oo__adv;
+%<n%>%<nt%>%<sg%>%<nom%>%<emph%>:ವ oo__inc_clit;
 %<n%>%<nt%>%<sg%>%<nom%>%<emph%>:aagi__com;
 %<n%>%<nt%>%<sg%>%<nom%>:ವ endare__part;
 
@@ -500,7 +500,7 @@ LEXICON ಹುಡುಗ__n
 %<n%>%<m%>%<sg%>%<nom%>:ನು # ;
 %<n%>%<m%>%<sg%>%<nom%>%<hon%>:ಯವರು # ;
 %<n%>%<m%>%<pl%>%<nom%>:ರು # ;
-%<n%>%<m%>%<pl%>%<nom%>:ರ oo__adv;
+%<n%>%<m%>%<pl%>%<nom%>:ರ oo__inc_clit;
 %<n%>%<m%>%<sg%>%<gen%>:ನ # ;
 %<n%>%<m%>%<pl%>%<gen%>:ರ # ;
 %<n%>%<m%>%<sg%>%<dat%>:ನಿಗೆ # ;
@@ -516,7 +516,7 @@ LEXICON ಹುಡುಗ__n
 %<n%>%<m%>%<sg%>%<nom%>:ನ aagi__com ;
 %<n%>%<m%>%<pl%>%<nom%>:ರ aagi__com  ;
 
-%<n%>%<m%>%<sg%>%<dat%>:ನಿಗ oo__adv ;
+%<n%>%<m%>%<sg%>%<dat%>:ನಿಗ oo__inc_clit ;
 
 
 LEXICON ಜನರು__n
@@ -622,13 +622,13 @@ LEXICON ಒಳ್ಳೆಯದು__adj
 %<adj%>: # ;
 %<adj%>%<nom%>:ರು # ;
 %<adj%>%<emph%>:ದೇ #;
-%<adj%>: ವ oo__adv ;
+%<adj%>: ವ oo__inc_clit ;
 %<adj%>: kondu ;
 %<adj%>: aagi__com ;
 %<adj%>: ide__vaux ;
 %<adj%>: Golisu__v ;
 %<adj%>%+ಅನುಭವ%<n%>%<nt%>%<sg%>%<dat%>:ಾನುಭವಕ್ಕೆ #;
-%<adj%>%+ಅಭಿವೃದ್ಧಿ%<n%>%<nt%>%<sg%>%<dat%>:ಾಭಿವೃದ್ದಿಗ oo__adv;
+%<adj%>%+ಅಭಿವೃದ್ಧಿ%<n%>%<nt%>%<sg%>%<dat%>:ಾಭಿವೃದ್ದಿಗ oo__inc_clit;
 %<adj%>%+ಪರಿಮಿತಿ%<n%>%<nt%>%<sg%>%<nom%>:ಪರಿಮಿತಿಯ ulla;
 
 
@@ -651,7 +651,7 @@ LEXICON __adv
 %<adv%>: # ;
 %<adv%>: ide__vaux ;
 %<adv%>%<loc%>: ಯಲ್ಲಿ #;
-%<adv%>%<loc%>: ಯಲ್ಲಿಯ oo__adv;
+%<adv%>%<loc%>: ಯಲ್ಲಿಯ oo__inc_clit;
 
 LEXICON ಒಳಗೆ__adv
 %<adv%>:ೆ # ;
@@ -703,7 +703,7 @@ LEXICON 		ಹಿಂದೆ__post
 %<post%>%<emph%>:ೆಯೇ # ;
 %<post%>%<dat%>:ೆಕ್ಕೆ # ;!ಹಿಂದಿನಿಂದಲೂ
 %<post%>%<ins%>:ಿನಿಂದ # ;!ಹಿಂದ
-%<post%>%<ins%>:ಿನಿಂದಲ oo__adv ;!ಹಿಂದ
+%<post%>%<ins%>:ಿನಿಂದಲ oo__inc_clit ;!ಹಿಂದ
 
 
 
@@ -715,7 +715,7 @@ LEXICON 		ಕಾಲಕಾಲ__adv
 
 LEXICON ಅಲ್ಲಿ__adv
 %<adv%>:ಲಿ # ;
-%<adv%>:ಲ oo__adv ;
+%<adv%>:ಲ oo__inc_clit ;
 %<adv%>%<emph%>:ಲಿಯೇ # ;
 %<adv%>%<emph%>:ಲೇ # ;
 %<adv%>%<gen%>:ಲಿಯ # ;
@@ -723,7 +723,7 @@ LEXICON ಅಲ್ಲಿ__adv
 %<adv%>%<loc%>:ಲಿಂದ # ;
 %<adv%>%<dat%>:ಲಿಗೆ # ;
 %<adv%>:ಲಿ ide__vaux;
-%<adv%>:ಲ oo__adv  ;
+%<adv%>:ಲ oo__inc_clit  ;
 
 !ಮೇಲಿರುವ 
 
@@ -757,11 +757,11 @@ LEXICON allade
 LEXICON ನಡುವೆ__adv
 %<adv%>:ೆ # ;
 %<adv%>%<gen%>:ಿನ # ;
-%<adv%>:ೆಯ oo__adv ;
+%<adv%>:ೆಯ oo__inc_clit ;
 
 LEXICON ನಂತರ__adv
 %<adv%>: # ;
-%<adv%>:ವ oo__adv;
+%<adv%>:ವ oo__inc_clit;
 %<adv%>%<emph%>:ವೇ #;
 %<adv%>%<gen%>:ದ # ;
 %<adv%>%<loc%>:ದಲ್ಲಿ # ;
@@ -796,7 +796,7 @@ LEXICON __cnjcoo
 %<cnjcoo%>: # ;
 
 LEXICON and__cnjcoo
-%<cnjcoo%>: oo__adv ;
+%<cnjcoo%>: oo__inc_clit ;
 
 LEXICON cozof__cnjcoo
 %<cnjcoo%>: # ;
@@ -963,7 +963,7 @@ LEXICON ondige2
 LEXICON odane
 %+ಒಡನೆ%<post%>:ೊಡನೆ # ;!ಡಗೂಡಿ
 %+ಒಡನೆ%<post%>:ೊಡಗೂಡಿ # ;
-%+ಒಡನೆ%<post%>:ೊಡಗೂಡಿಯ oo__adv ;
+%+ಒಡನೆ%<post%>:ೊಡಗೂಡಿಯ oo__inc_clit ;
 
 LEXICON ಅವ/__prn
 %<prn%>%<p3%>%<dist%>%<m%>%<sg%>%<nom%>: # ;
@@ -987,7 +987,7 @@ LEXICON ಅವ/__prn
 %<prn%>%<p3%>%<dist%>%<mf%>%<sg%>%<hon%>%<nom%>:ರ ondige  ;
 
 %<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<nom%>:ರು # ;
-%<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<nom%>:ವರ oo__adv ;
+%<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<nom%>:ವರ oo__inc_clit ;
 %<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<nom%>:ವರುಗಳು #;
 %<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<nom%>%<emph%>:ರೇ # ;
 %<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<acc%>:ರನ್ನು # ;
@@ -1000,13 +1000,13 @@ LEXICON ಅವ/__prn
 %<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<ins%>:ರಿಂದ # ;
 
 %<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<gen%>%<emph%>:ರದೇ # ;
-%<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<nom%>%+ಎರಡು%<num%>:ರಿಬ್ಬರ oo__adv;
+%<prn%>%<p3%>%<dist%>%<mf%>%<pl%>%<nom%>%+ಎರಡು%<num%>:ರಿಬ್ಬರ oo__inc_clit;
 
 LEXICON ಇವ/__prn
 %<prn%>%<p3%>%<m%>%<sg%>%<nom%>%<prox%>:ನು # ;
 %<prn%>%<p3%>%<m%>%<sg%>%<acc%>%<prox%>:ನ್ನನು # ;
 %<prn%>%<p3%>%<m%>%<sg%>%<acc%>%<prox%>:ನನ್ನು # ;
-%<prn%>%<p3%>%<m%>%<sg%>%<acc%>%<prox%>:ನ್ನ oo__adv ;!
+%<prn%>%<p3%>%<m%>%<sg%>%<acc%>%<prox%>:ನ್ನ oo__inc_clit ;!
 %<prn%>%<p3%>%<m%>%<sg%>%<dat%>%<prox%>:ನಿಗೆ # ;
 %<prn%>%<p3%>%<m%>%<sg%>%<gen%>%<prox%>:ನ # ;
 %<prn%>%<p3%>%<m%>%<sg%>%<loc%>%<prox%>:ನಲ್ಲಿ # ;
@@ -1023,7 +1023,7 @@ LEXICON ಇವ/__prn
 %<prn%>%<mf%>%<pl%>%<nom%>%<p3%>%<prox%>:ರು #;
 %<prn%>%<mf%>%<pl%>%<nom%>%<p3%>%<prox%>%<emph%>:ರೇ #;
 %<prn%>%<mf%>%<pl%>%<nom%>%<p3%>%<prox%>:ರುಗಳು #;
-%<prn%>%<mf%>%<pl%>%<nom%>%<p3%>%<prox%>:ರ oo__adv ;
+%<prn%>%<mf%>%<pl%>%<nom%>%<p3%>%<prox%>:ರ oo__inc_clit ;
 %<prn%>%<mf%>%<pl%>%<acc%>%<p3%>%<prox%>:ರನ್ನು # ;
 %<prn%>%<mf%>%<pl%>%<dat%>%<p3%>%<prox%>:ರಿಗೆ # ;
 %<prn%>%<mf%>%<pl%>%<gen%>%<p3%>%<prox%>:ರ # ;
@@ -1086,14 +1086,14 @@ LEXICON ತಾ/__prn
 %<prn%>%<refl%>%<mfn%>%<pl%>%<loc%>:ಮ್ಮಲ್ಲಿ # ;
 %<prn%>%<refl%>%<mfn%>%<pl%>%<ins%>:ಮ್ಮಿಂದ # ;
 
-%<prn%>%<refl%>%<mfn%>%<sg%>%<dat%>:ನಗ oo__adv;
+%<prn%>%<refl%>%<mfn%>%<sg%>%<dat%>:ನಗ oo__inc_clit;
 
 %<prn%>%<refl%>%<mfn%>%<sg%>%<nom%>%+ಒಬ್ಬ%<prn%>:ಾನೊಬ್ಬ # ;
 
 LEXICON ಅದು/__prn
 %<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<nom%>:ವು # ;!
-%<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<nom%>:ವ oo__adv ;
-%<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<nom%>:ವರ oo__adv ;
+%<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<nom%>:ವ oo__inc_clit ;
+%<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<nom%>:ವರ oo__inc_clit ;
 %<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<nom%>:ವರುಗಳು #;
 %<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<nom%>%+also%<adv%>:ವೂಗಳು #;
 %<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<nom%>:ವುಗಳು #;
@@ -1110,19 +1110,19 @@ LEXICON ಅದು/__prn
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<acc%>%<emph%>:ದನ್ನೇ # ;!ದನ್ನು
 %<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<dat%>:ವುಗಳಿಗೆ #;
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<dat%>:ದಕ್ಕೆ # ;!
-%<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<dat%>:ದಕ್ಕ oo__adv ;!ಅದಕ್ಕೂ
+%<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<dat%>:ದಕ್ಕ oo__inc_clit ;!ಅದಕ್ಕೂ
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<dat%>:ದಕ್ಕಾಗಿ # ;
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<gen%>:ದರ # ;
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<gen%>:ವುಗಳ # ;
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<loc%>:ದರಲ್ಲಿ # ;
-%<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<loc%>:ದರಲ್ಲ oo__adv ;
+%<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<loc%>:ದರಲ್ಲ oo__inc_clit ;
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<loc%>%<gen%>:ದರಲ್ಲಿನ # ;
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<ins%>:ದರಿಂದ # ;
 
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<nom%>:ದ kinta ;
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<nom%>:ದಾದ # ;!?
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<nom%>:ದ ondu ;
-%<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<nom%>:ದ oo__adv ;
+%<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<nom%>:ದ oo__inc_clit ;
 %<prn%>%<p3%>%<dist%>%<nt%>%<pl%>%<nom%>:ವುಗಳ endare__part ;
 !%<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<nom%>:ದ್ದ r__inda ;!aadarindale
 %<prn%>%<p3%>%<dist%>%<nt%>%<sg%>%<gen%>:ದರ ondige ;
@@ -1148,7 +1148,7 @@ LEXICON ಇದು/__prn
 %<prn%>%<p3%>%<prox%>%<nt%>%<sg%>%<nom%>%<emph%>:ದೇ # ;
 %<prn%>%<p3%>%<prox%>%<nt%>%<sg%>%<nom%>%<emph%>:ದೂ # ;
 %<prn%>%<p3%>%<prox%>%<nt%>%<sg%>%<acc%>:ದನ್ನು # ;
-%<prn%>%<p3%>%<prox%>%<nt%>%<sg%>%<acc%>:ದನ್ನ oo__adv ;
+%<prn%>%<p3%>%<prox%>%<nt%>%<sg%>%<acc%>:ದನ್ನ oo__inc_clit ;
 %<prn%>%<p3%>%<prox%>%<nt%>%<sg%>%<acc%>%<emph%>:ದನ್ನೇ #;
 %<prn%>%<p3%>%<prox%>%<nt%>%<pl%>%<acc%>:ವನ್ನು # ;
 %<prn%>%<p3%>%<prox%>%<nt%>%<sg%>%<dat%>:ದಕ್ಕೆ  # ;
@@ -1175,7 +1175,7 @@ LEXICON ಇದು/__prn
 %<prn%>%<p3%>%<prox%>%<nt%>%<sg%>%<nom%>:ದ ante  ;
 
 
-%<prn%>%<p3%>%<prox%>%<nt%>%<pl%>%<nom%>%+ಎಲ್ಲ%<adj%>:ವೆಲ್ಲವ oo__adv;
+%<prn%>%<p3%>%<prox%>%<nt%>%<pl%>%<nom%>%+ಎಲ್ಲ%<adj%>:ವೆಲ್ಲವ oo__inc_clit;
 %<prn%>%<p3%>%<prox%>%<nt%>%<pl%>%<nom%>%+ಎಲ್ಲ%<adj%>:ವೆಲ್ಲ kinta ;
 %<prn%>%<p3%>%<prox%>%<nt%>%<pl%>%<nom%>%+ಎಲ್ಲ%<adj%>:ವೆಲ್ಲ # ;
 
@@ -1211,9 +1211,9 @@ LEXICON 			ಕೆಲವು__prn
 LEXICON 			ಇಬ್ಬರು__prn
 %<prn%>%<p3%>%<mf%>%<pl%>%<nom%>:ು # ;
 %<prn%>%<p3%>%<mf%>%<pl%>%<gen%>: # ;
-%<prn%>%<p3%>%<mf%>%<pl%>%<nom%>: oo__adv ;
-%<prn%>%<p3%>%<mf%>%<pl%>%<dat%>:ಿಗ oo__adv ;
-%<prn%>%<p3%>%<mf%>%<pl%>%<nom%>:ಾದರ oo__adv ;
+%<prn%>%<p3%>%<mf%>%<pl%>%<nom%>: oo__inc_clit ;
+%<prn%>%<p3%>%<mf%>%<pl%>%<dat%>:ಿಗ oo__inc_clit ;
+%<prn%>%<p3%>%<mf%>%<pl%>%<nom%>:ಾದರ oo__inc_clit ;
 
 
 
@@ -1221,7 +1221,7 @@ LEXICON 			ಯಾವ__prn
 %<prn%>%<interr%>%<mfn%>%<sp%>%<nom%>: # ;
 %<prn%>%<rel%>%<mfn%>%<sp%>%<nom%>: # ;
 %<prn%>%<rel%>%<m%>%<sg%>%<acc%>:ನನ್ನು # ;
-%<prn%>%<rel%>%<m%>%<sg%>%<acc%>:ನನ್ನ oo__adv ;
+%<prn%>%<rel%>%<m%>%<sg%>%<acc%>:ನನ್ನ oo__inc_clit ;
 !%<det%>%<interr%>%<mfn%>%<sp%>%<nom%>: # ;
 %<prn%>%<interr%>%<nt%>%<sg%>%<nom%>:ುದು # ;!ಯಾವನನ್ನೂ
 
@@ -1239,7 +1239,7 @@ LEXICON 			ಮುಂತಾದ__prn
 
 
 
-%<prn%>%<p3%>%<nt%>%<pl%>%<nom%>:ವ oo__adv ;
+%<prn%>%<p3%>%<nt%>%<pl%>%<nom%>:ವ oo__inc_clit ;
 
 
 LEXICON 			ಏನು__prn
@@ -1251,9 +1251,9 @@ LEXICON 			ಏನು__prn
 
 
 LEXICON  			ಎಲ್ಲ__prn
-%<prn%>%<p3%>%<mf%>%<pl%>%<nom%>:ರ oo__adv ;
-%<prn%>%<p3%>%<mf%>%<nt%>%<nom%>:ವ oo__adv ;
-%<prn%>%<p3%>%<mf%>%<pl%>%<dat%>:ರಿಗ oo__adv ;
+%<prn%>%<p3%>%<mf%>%<pl%>%<nom%>:ರ oo__inc_clit ;
+%<prn%>%<p3%>%<mf%>%<nt%>%<nom%>:ವ oo__inc_clit ;
+%<prn%>%<p3%>%<mf%>%<pl%>%<dat%>:ರಿಗ oo__inc_clit ;
 %<prn%>%<p3%>%<mf%>%<pl%>%<gen%>:ರ # ;
 %<prn%>%<p3%>%<nt%>%<pl%>%<nom%>: # ;
 %<prn%>%<p3%>%<nt%>%<pl%>%<acc%>:ವನ್ನೂ # ;
@@ -1276,7 +1276,7 @@ LEXICON this_much__det
 
 LEXICON which__det
 %<det%>%<def%>%<mfn%>%<sp%>%<nom%>:ು # ;
-%<det%>%<def%>%<mfn%>%<sp%>%<nom%>:ುದ oo__adv ;
+%<det%>%<def%>%<mfn%>%<sp%>%<nom%>:ುದ oo__inc_clit ;
 %<det%>%<def%>%<mfn%>%<sp%>%<nom%>%<emph%>:ದೇ # ;
 %<det%>%<def%>%<mfn%>%<sp%>%<nom%>:ುದೆ #;!ಯಾವುದಾದರೊಂದು
 %<det%>%<def%>%<mfn%>%<sp%>%<nom%>:ುದಾದರ ondu ;
@@ -1316,9 +1316,9 @@ LEXICON 			ಪ್ರತಿ__def/det
 %<det%>%<def%>%<mfn%>%<nom%>%<emph%>:ೀ  # ;
 %<det%>%<def%>%<nt%>%<nom%>:ಿಯೊಂದು  # ;
 %<det%>%<def%>%<m%>%<nom%>:ಿಯೊಬ್ಬ  # ;
-%<det%>%<def%>%<m%>%<nom%>:ಿಯೊಬ್ಬನ oo__adv  ;
+%<det%>%<def%>%<m%>%<nom%>:ಿಯೊಬ್ಬನ oo__inc_clit  ;
 %<det%>%<def%>%<m%>%<dat%>:ಿಯೊಬ್ಬನಿಗು # ;
-%<det%>%<def%>%<m%>%<dat%>:ಿಯೊಬ್ಬನಿಗ oo__adv ;
+%<det%>%<def%>%<m%>%<dat%>:ಿಯೊಬ್ಬನಿಗ oo__inc_clit ;
 %<det%>%<def%>%<mfn%>%<nom%>%+ಸಂಸ್ಥಾನ%<n%>%<nt%>%<sg%>%<gen%>:ಿಸಂಸ್ಥಾನದ # ;
 %<det%>%<def%>%<mfn%>%<nom%>%+ರಾಷ್ಟ್ರ%<n%>%<nt%>%<sg%>%<gen%>:ಿರಾಷ್ಟ್ರದ # ;
 
@@ -1392,10 +1392,10 @@ LEXICON 				ಬಾ__v
 %<v%>%<past%>%<p3%>%<pl%>%<mf%>:ಂದರು # ;
 %<v%>%<past%>%<p3%>%<pl%>%<mf%>:ಂದಿರ bahudu ;
 %<v%>%<fut%>%<p3%>%<sp%>%<nt%>:ರ bahudu ;
-%<v%>%<past%>%<p3%>%<pl%>%<mf%>:ಂದರ oo__adv ;
+%<v%>%<past%>%<p3%>%<pl%>%<mf%>:ಂದರ oo__inc_clit ;
 %<v%>%<past%>%<p3%>%<sg%>%<mfn%>:ಂದಿದ # ;
 %<v%>%<past%>%<p3%>%<pl%>%<mf%>:ಂದಿದ್ದರೆ # ;
-%<v%>%<past%>%<p3%>%<pl%>%<mf%>:ಂದಿದ್ದರ oo__adv ;
+%<v%>%<past%>%<p3%>%<pl%>%<mf%>:ಂದಿದ್ದರ oo__inc_clit ;
 %<v%>%<past%>%<p3%>%<pl%>%<nt%>:ಂದಿದ್ದು # ;
 %<v%>%<fut%>%<p3%>%<sp%>%<nt%>:ರ loo ;
 %<v%>%<past%>%<p3%>%<sg%>%<nt%>:ಂದಿದೆ # ;
@@ -1512,7 +1512,7 @@ LEXICON 				ಪಡೆ__v
 %<v%>%<fut%>%<p3%>%<sg%>%<mfn%>				:ಯ beku  ;!ಕರೆಯಲ್ಪಡುತ್ತದೆ
 %<v%>%<fut%>%<p3%>%<sg%>%<mfn%>				:ಯಲ್ ಪಡು__vaux  ;!ಕರೆ
 %<v%>%<past%>%<p3%>%<pl%>%<mf%>				:ದವರ aagi__com ;
-%<v%>%<pres%>%<p3%>%<sg%>%<nt%>				:ಯಲೋಸುಗವ oo__adv ;
+%<v%>%<pres%>%<p3%>%<sg%>%<nt%>				:ಯಲೋಸುಗವ oo__inc_clit ;
 
 %<v%>%<cause%>%<pres%>%<p3%>%<sg%>%<nt%>	:ಸಿದರು #;
 %<v%>%<cause%>%<pres%>%<p3%>%<sg%>%<nt%>	:ಸಿದರು #;
@@ -1582,7 +1582,7 @@ LEXICON 	 			aagi__vaux				!aagi
 %+ಆಗಿ%<vaux%>%<pres%>%<p3%>%<sg%>%<nt%>:ಾಗಿ # ;
 %+ಆಗಿ%<vaux%>%<pres%>%<p3%>%<sg%>%<nt%>:ಾಗಿರ beku ;
 %+ಆಗಿ%<vaux%>%<fut%>%<p3%>%<sg%>%<nt%>:ಾಗುವ varege__postpos ;!
-%+ಆಗಿ%<vaux%>%<pres%>%<p3%>%<sg%>%<nt%>:ಾಗಿಯ oo__adv ;
+%+ಆಗಿ%<vaux%>%<pres%>%<p3%>%<sg%>%<nt%>:ಾಗಿಯ oo__inc_clit ;
 %+ಆಗಿ%<vaux%>%<pres%>%<p3%>%<sg%>%<nt%>:ಾಗಿ __emph ;
 %+ಆಗಿ%<vaux%>%<fut%>%<p3%>%<sg%>%<mfn%>:ಾಗ loo ;
 %+ಆಗಿ%<vaux%>%<fut%>%<p3%>%<sg%>%<mfn%>:ಾಗ bahudu ;
@@ -1676,7 +1676,7 @@ LEXICON 				ಬೇಕು__v
 %<v%>%<npst%>%<p3%>%<sg%>%<nt%>			:ಾಗುತ್ತದೆ # ;!non past
 %<v%>%<past%>%<p3%>%<sg%>%<nt%>			:ಾಯಿತು # ;!non past
 %<v%>%<inf%>%<p3%>%<sp%>%<mfn%>			:ಿತ್ತು 	# ;
-%<v%>%<inf%>%<p3%>%<sp%>%<mfn%>			:ಾದರ oo__adv ;
+%<v%>%<inf%>%<p3%>%<sp%>%<mfn%>			:ಾದರ oo__inc_clit ;
 %<v%>%<past%>%<p3%>%<sg%>%<nt%>			:ಾಗಿದೆ		# ;!ಾಗಿರುತ್ತದೆ
 %<v%>%<past%>%<p3%>%<sg%>%<nt%>			:ಾಗಿ		# ;!
 %<v%>%<past%>%<p3%>%<sg%>%<nt%>			:ಾಗಿರುತ್ತದೆ	# ;!
@@ -1851,7 +1851,7 @@ LEXICON 				ಹೋದ__v
 
 LEXICON 				loo
 %+to%<adv%>:ಲು #;
-%+to%<adv%>:ಲ oo__adv;
+%+to%<adv%>:ಲ oo__inc_clit;
 !%+to%<adv%>%<neg%>:ಲಾಗದು #;
 
 LEXICON 				o-clit
@@ -1861,7 +1861,6 @@ LEXICON 				o-clit
 LEXICON  				ಮಾಡು__infx
 %<imp%>%<p3%>%<sg%>%<mf%>: # ;
 %<imp%>%<p3%>%<sg%>%<mf%>:ು # ;!ಆಡಲು
-%<imp%>%<p3%>%<sg%>%<mf%>: # ;!ಆಡಲು
 %<imp%>%<p3%>%<sg%>%<mf%>%<hon%>:ಿರೆ # ;
 %<past%>%<p3%>%<pl%>%<nt%>:ಿದವು # ;
 %<fut%>%<p3%>%<sg%>%<m%>:ುತ್ತಾನೆ # ;!
@@ -1906,7 +1905,7 @@ LEXICON  				ಮಾಡು__infx
 %<ger%>%<gen%>:ುವುದರ # ; 
 %<ger%>%<nom%>:ುವುದ 	illa ; 
 %<ger%>%<acc%>:ುವುದನ್ನು # ; 
-%<ger%>%<acc%>:ುವುದನ್ನ oo__adv ; 
+%<ger%>%<acc%>:ುವುದನ್ನ oo__inc_clit ; 
 %<ger%>%<loc%>:ುವುದರಲ್ಲಿ # ; 
 
 
@@ -1955,7 +1954,7 @@ LEXICON  				ಮಾಡು__infx
 %<neg%>%<p3%>%<sg%>%<mf%>: ante ;
 %<past%>%<p3%>%<sg%>%<mf%>:ಿ ante ;
 %<imp%>%<p3%>%<sg%>%<mf%>%<hon%>:ಿರೆ parti ;
-%<fut%>%<p3%>%<sg%>%<mf%>:ಲೆಂಬುದಾಗಿಯ oo__adv ;
+%<fut%>%<p3%>%<sg%>%<mf%>:ಲೆಂಬುದಾಗಿಯ oo__inc_clit ;
 %<neg%>:ಬಾರದು #;
 
 %<past%>%<prn%>%<nom%>:ಿದವರು # ; !ಮಾಡುವವರು
@@ -2033,7 +2032,7 @@ LEXICON __vaux
 
 LEXICON r__inda
 %+ಇಂದ%<post%>:ರಿಂದ #;
-%+ಇಂದ%<post%>:ರಿಂದಲ oo__adv;
+%+ಇಂದ%<post%>:ರಿಂದಲ oo__inc_clit;
 %+ಇಂದ%<post%>%<emph%>:ರಿಂದಲೇ #;
 
 LEXICON n__inda
@@ -2055,7 +2054,7 @@ LEXICON bahudu
 LEXICON beku  			!presumtive
 %+ಬೇಕು%<prsm%>:ಬೇಕು # ;
 %+ಬೇಕು%<prsm%>:ಬೇಕೆಂದು # ;
-%+ಬೇಕು%<prsm%>:ಬೇಕೆಂದ oo__adv ;!ಬೇಕೆಂದೂ
+%+ಬೇಕು%<prsm%>:ಬೇಕೆಂದ oo__inc_clit ;!ಬೇಕೆಂದೂ
 %+ಬೇಕು%<prsm%>%<cni%>:ಬೇಕಾದರೆ # ;
 %+ಬೇಕು%<prsm%>:ಬೇಕಾದ # ;!
 %+ಬೇಕು%<prsm%>:ಬೇಕಾಗುತ್ತದೆ # ;!
@@ -2136,8 +2135,8 @@ LEXICON ಅಂತ__part
 
 
 
-LEXICON oo__adv!oo
-%+also%<adv%>:ೂ #;
+LEXICON oo__inc_clit!oo
+%+also%<clit%>:ೂ #;!inclusive clitic
 :ು #;
 
 LEXICON only__adv
@@ -2146,7 +2145,7 @@ LEXICON only__adv
 LEXICON ಎಂದು__part
 %<part%>:ು #;
 %<part%>%<emph%>:ೇ #;!emph is correct?
-%<part%>%<adv%>:oo__adv ;
+%<part%>%<adv%>:oo__inc_clit ;
 
 
 
@@ -2170,38 +2169,38 @@ LEXICON ಎಂಬ__part ! ಎ೦ಬ__part
 %<part%>%<gen%>:ುದರ #;
 %<part%>%<dat%>:ುದಕ್ಕೆ #;
 %<part%>:ುದಾಗಿ __emph;
-%<part%>:ುದಾಗಿಯ oo__adv;
+%<part%>:ುದಾಗಿಯ oo__inc_clit;
 
 LEXICON varege__postpos
 %+ವರೆಗೆ%<post%>:ವರೆಗೆ #;
-%+ವರೆಗೆ%<post%>:ವರೆಗ oo__adv;
+%+ವರೆಗೆ%<post%>:ವರೆಗ oo__inc_clit;
 
 LEXICON  ವರೆಗೆ__postpos
 %<post%>:ೆ #;
-%<post%>:oo__adv ;
+%<post%>:oo__inc_clit ;
 %<post%>:ಿನ #;
 
 LEXICON loo__postpos
 %<post%>:# ;
-%<post%>:ಲ oo__adv ;
+%<post%>:ಲ oo__inc_clit ;
 
 LEXICON __postpos
 %<post%>: #;
 %<post%>: aagi__com;
 %<post%>: ide__vaux;
-%<post%>: ವ oo__adv;
+%<post%>: ವ oo__inc_clit;
 
 LEXICON ve__postpos
 %<post%>: #;
 %<post%>: aagi__com;
 %<post%>: ide__vaux;
-%<post%>: ವ oo__adv;
+%<post%>: ವ oo__inc_clit;
 %<post%>:ವೇ #;
 
 LEXICON out__postpos
 %<post%>: #;
 %<post%>:ಗಿನಿಂದ #;
-%<post%>:ಗ oo__adv;
+%<post%>:ಗ oo__inc_clit;
 %<post%>:ಗೆ #;!ಕೆಳಗಿನವು
 %<post%>%+ಅವ%<prn%>:ಗಿನವು #;!ಕೆಳ
 
@@ -2226,7 +2225,7 @@ LEXICON __num
 %<num%>%<emph%>:ೂ #;!ದ
 %<num%>%<ord%>:ನೇಯ #;
 %<num%>%<ins%>:ರಿಂದ #;
-%<num%>%<loc%>:ರಲ್ಲ oo__adv ;
+%<num%>%<loc%>:ರಲ್ಲ oo__inc_clit ;
 %<num%>%<acc%>:ನ್ನು #;
 %<num%>%<acc%>%<emph%>:ನ್ನೂ #;
 %<num%>%<emph%>:ೇ #;
@@ -2264,7 +2263,7 @@ LEXICON __numeral
 %<num%>%<ins%>:ರಿಂದ #;
 %<num%>%<perc%>:ರಷ್ಟು #;
 %<num%>%<adv%>:ಕ್ಕೆ #;
-%<num%>%<adv%>:ಕ್ಕ oo__adv;
+%<num%>%<adv%>:ಕ್ಕ oo__inc_clit;
 %<num%>:ದ ashtu ;
 %<num%>%<gen%>:ದ #;
 
@@ -2272,7 +2271,7 @@ LEXICON __numeral
 
 LEXICON parti
 %+ಎಂದು%<part%>:ವೆಂದು #;
-%+ಎಂದು%<part%>:ವೆಂದ oo__adv;
+%+ಎಂದು%<part%>:ವೆಂದ oo__inc_clit;
 %+ಎಂದು%<part%>:ಯೆಂದು #;
 %+ಎಂದು%<part%>:ಂದು #;
 
@@ -2592,7 +2591,7 @@ LEXICON NounRoot
 ಬ್ಯಾಬೇಜ್:ಬ್ಯಾಬೇಜ್ 				cog__np;
 ಚಿ:ಚಿ                           	cog__np;
 ಡೊ:ಡೊ                          cog__np;
-ಬಾಬು:ಬಾಬ                        cog__np;
+ಬಾಬು:ಬಾಬು                        cog__np;
 
 
 !surnames!cog
@@ -2940,79 +2939,175 @@ US:US 							Acronym‌/__np;
 
 
 <[%a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z]+> 	__eng;
-a 				__eng;
-the 			__eng;
-The 			__eng;
-their 			__eng;
-of 				__eng;
-for 			__eng;
-and 			__eng;
-in 				__eng;
-to 				__eng;
-À 				__eng;
-is 				__eng;
-I 				__eng;
-II 				__eng;!num
-on 				__eng;
-br 				__eng;!break
-as 				__eng;
-that 			__eng;
-was 			__eng;
-with 			__eng;
-by 				__eng;
-poem 			__eng;
-C 				__eng;
-from 			__eng;
-DNA 			__eng;!abbr
-WWE 			__eng;	
-U.S				__eng;
-U.% S			__eng;
-UK 				__eng;
-TV 				__eng;
-or 				__eng;
-DVD:DVD 		__eng;
-EU:EU 			__eng;
-Nokia:Nokia 	__eng;
-H-1B:H-1B 		__eng;
-ODI:ODI 		__eng;
-BMW:BMW 		__eng;
-CEO:CEO 		__eng;
-É:É 			__eng;
-B:B 			__eng;
-RFC:RFC         __eng;
-PBX:PBX         __eng;
-LP:LP           __eng;
-MP:MP 			__eng;
-SEZ:SEZ         __eng;                                        
-NTFS:NTFS       __eng;                                          
-Inc:Inc         __eng;                                        
-GA:GA           __eng;                                      
-ACT:ACT         __eng;                                        
-!(1942):(1942)  __eng;                                              
-PC:PC 			__eng;   
-OS:OS 			__eng;   			
-UI:UI           __eng;                                    
-ISP:ISP         __eng;
-IQ:IQ           __eng;
-IDE:IDE         __eng;
-formula_13:formula_13                            __eng;
-V6:V6           __eng;
-mRNA:mRNA       __eng;    
-Siemens:Siemens __eng;
-RIAA:RIAA       __eng;  
-RFID:RFID       __eng;     
-BAFTA:BAFTA     __eng;  
-NWA:NWA         __eng;
-CFC:CFC         __eng;
-FIFA:FIFA       __eng;
-IBM:IBM 		__eng;        
-IP:IP           __eng; 
-ABC:ABC         __eng; 
-NBA:NBA         __eng; 
-WCW:WCW         __eng; 
-SMS:SMS         __eng; 
-CO2:CO2         __eng; 
-USA:USA         __eng; 
+a 												__eng;
+the 											__eng;
+The 											__eng;
+their 											__eng;
+of 												__eng;
+for 											__eng;
+and 											__eng;
+in 												__eng;
+to 												__eng;
+À 												__eng;
+is 												__eng;
+I 												__eng;
+II 												__eng;!num
+on 												__eng;
+br 												__eng;!break
+as 												__eng;
+that 											__eng;
+was 											__eng;
+with 											__eng;
+by 												__eng;
+poem 											__eng;
+C 												__eng;
+from 											__eng;
+DNA 											__eng;!abbr
+WWE 											__eng;	
+U.S												__eng;
+U.% S											__eng;
+UK 												__eng;
+TV 												__eng;
+or 												__eng;
+DVD:DVD 										__eng;
+EU:EU 											__eng;
+Nokia:Nokia 									__eng;
+H-1B:H-1B 										__eng;
+ODI:ODI 										__eng;
+BMW:BMW 										__eng;
+CEO:CEO 										__eng;
+É:É 											__eng;
+B:B 											__eng;
+RFC:RFC         								__eng;
+PBX:PBX         								__eng;
+LP:LP           								__eng;
+MP:MP 											__eng;
+SEZ:SEZ         								__eng;                                        
+NTFS:NTFS       								__eng;                                          
+Inc:Inc         								__eng;                                        
+GA:GA           								__eng;                                      
+ACT:ACT         								__eng;                                        
+!1942:1942  								__eng;                                              
+PC:PC 											__eng;   
+OS:OS 											__eng;   			
+UI:UI           								__eng;                                    
+ISP:ISP         								__eng;
+IQ:IQ           								__eng;
+IDE:IDE         								__eng;
+formula_13:formula_13                           __eng;
+V6:V6           								__eng;
+mRNA:mRNA       								__eng;    
+Siemens:Siemens 								__eng;
+RIAA:RIAA       								__eng;  
+RFID:RFID       								__eng;     
+BAFTA:BAFTA     								__eng;  
+NWA:NWA         								__eng;
+CFC:CFC         								__eng;
+FIFA:FIFA       								__eng;
+IBM:IBM 										__eng;        
+IP:IP           								__eng; 
+ABC:ABC         								__eng; 
+NBA:NBA         								__eng; 
+WCW:WCW         								__eng; 
+SMS:SMS         								__eng; 
+CO2:CO2         								__eng; 
+USA:USA         								__eng; 
+α:α                             					ಮುಷ್ಕರ__n;
+BC:BC                             				ಮುಷ್ಕರ__n;
+
+MBA:MBA 										ಮುಷ್ಕರ__n;
+MP3:MP3 										ಮುಷ್ಕರ__n;
+CD:CD 											ಮುಷ್ಕರ__n;
+UFO:UFO 											ಮುಷ್ಕರ__n;
+RNA:RNA 											ಮುಷ್ಕರ__n;
+MIT:MIT 										ಮುಷ್ಕರ__n;
+CPU:CPU 										ಮುಷ್ಕರ__n;
+LCD:LCD 										ಮುಷ್ಕರ__n;
+TEM:TEM                                                 ಮುಷ್ಕರ__n;
+API:API                                                 ಮುಷ್ಕರ__n;
+AG:AG                                                 ಮುಷ್ಕರ__n;
+URL:URL                                                 ಮುಷ್ಕರ__n;
+SAN:SAN                                                 ಮುಷ್ಕರ__n;
+SI:SI                                                 ಮುಷ್ಕರ__n;
+LCA:LCA                                                 ಮುಷ್ಕರ__n;
+DJ:DJ                                                 ಮುಷ್ಕರ__n;
+IPO:IPO                                                 ಮುಷ್ಕರ__n;
+SEC:SEC                                                 ಮುಷ್ಕರ__n;
+CPI:CPI                                                 ಮುಷ್ಕರ__n;
+MC:MC                                                 ಮುಷ್ಕರ__n;
+A380:A380                                                 ಮುಷ್ಕರ__n;
+SSRI:SSRI                                                 ಮುಷ್ಕರ__n;
+Wi-Fi:Wi-Fi                                                 ಮುಷ್ಕರ__n;
+MT:MT                                                 ಮುಷ್ಕರ__n;
+LED:LED                                                 ಮುಷ್ಕರ__n;
+GMO:GMO                                                 ಮುಷ್ಕರ__n;
+etc.:etc.                                                 ಮುಷ್ಕರ__n;
+DBMS:DBMS                                                 ಮುಷ್ಕರ__n;
+PCB:PCB                                                 ಮುಷ್ಕರ__n;
+NGO:NGO                                                 ಮುಷ್ಕರ__n;
+ESPN:ESPN                                                 ಮುಷ್ಕರ__n;
+CDO:CDO                                                 ಮುಷ್ಕರ__n;
+GHG:GHG                                                 ಮುಷ್ಕರ__n;
+K:K                             ಮುಷ್ಕರ__n;
+pH:pH                             ಮುಷ್ಕರ__n;
+FM:FM                             ಮುಷ್ಕರ__n;
+NASA:NASA                             ಮುಷ್ಕರ__n;
+SS:SS                             ಮುಷ್ಕರ__n;
+IMF:IMF                             ಮುಷ್ಕರ__n;
+NSA:NSA                             ಮುಷ್ಕರ__n;
+UCLA:UCLA                             ಮುಷ್ಕರ__n;
+Technology:Technology                             ಮುಷ್ಕರ__n;
+PRC:PRC                             ಮುಷ್ಕರ__n;
+MTPA:MTPA                             ಮುಷ್ಕರ__n;
+km²:km²                             ಮುಷ್ಕರ__n;
+DSL:DSL                             ಮುಷ್ಕರ__n;
+CPC:CPC                             ಮುಷ್ಕರ__n;
+Co.:Co.                             ಮುಷ್ಕರ__n;
+U.K.:U.K.                             ಮುಷ್ಕರ__n;
+PhD:PhD                             ಮುಷ್ಕರ__n;
+MAC:MAC                             ಮುಷ್ಕರ__n;
+function:function                             ಮುಷ್ಕರ__n;
+formula_32:formula_32                             ಮುಷ್ಕರ__n;
+formula_16:formula_16                             ಮುಷ್ಕರ__n;
+ಎ380:ಎ380                             ಮುಷ್ಕರ__n;
+rpm:rpm                             ಮುಷ್ಕರ__n;
+A.D.:A.D.                             ಮುಷ್ಕರ__n;
+UNICEF:UNICEF                             ಮುಷ್ಕರ__n;
+Council:Council                             ಮುಷ್ಕರ__n;
+ATM:ATM                             ಮುಷ್ಕರ__n;
+UNICEF:UNICEF                             ಮುಷ್ಕರ__n;
+Council:Council                             ಮುಷ್ಕರ__n;
+ATM:ATM                             ಮುಷ್ಕರ__n;
+Award:Award                             ಮುಷ್ಕರ__n;
+Ω:Ω                             ಮುಷ್ಕರ__n;
+UTC:UTC                             ಮುಷ್ಕರ__n;
+LG:LG                             ಮುಷ್ಕರ__n;
+HSV-1:HSV-1                             ಮುಷ್ಕರ__n;
+CE:CE                             ಮುಷ್ಕರ__n;
+CCD:CCD                             ಮುಷ್ಕರ__n;
+USD:USD                             ಮುಷ್ಕರ__n;
+BCE:BCE                             ಮುಷ್ಕರ__n;
+AM:AM                             ಮುಷ್ಕರ__n;
+NATO:NATO                             ಮುಷ್ಕರ__n;
+HPV:HPV                             ಮುಷ್ಕರ__n;
+AMRO:AMRO                             ಮುಷ್ಕರ__n;
+US$:US$                             ಮುಷ್ಕರ__n;
+km:km                             ಮುಷ್ಕರ__n;
+ID:ID                             ಮುಷ್ಕರ__n;
+mm:mm                             ಮುಷ್ಕರ__n;
+EMI:EMI                             ಮುಷ್ಕರ__n;
+EP:EP                             ಮುಷ್ಕರ__n;
+LDL:LDL                             ಮುಷ್ಕರ__n;
+NH:NH                             ಮುಷ್ಕರ__n;
+A320:A320                             ಮುಷ್ಕರ__n;
+GE:GE                             ಮುಷ್ಕರ__n;
+GB:GB                             ಮುಷ್ಕರ__n;
+Maps:Maps                             ಮುಷ್ಕರ__n;
+IUCN:IUCN                             ಮುಷ್ಕರ__n;
+UK:UK                             ಮುಷ್ಕರ__n;
+SAM:SAM                             ಮುಷ್ಕರ__n;
+IC:IC                             ಮುಷ್ಕರ__n;
+A330-200:A330-200                             ಮುಷ್ಕರ__n;
 
 ನೀರು:ನೀರ 						ನೀರು__n;
 ವಾಯು:ವಾಯ 						ನೀರು__n;
@@ -3202,7 +3297,7 @@ USA:USA         __eng;
 !ದೊ:ದ                               ನೀರು__n;
 !ಹಕ್ಕು:ಹಕ್ಕ                               ನೀರು__n;
 ಸಾಲೂ:ಸಾಲ                               ನೀರು__n;
-(ಮರು:(ಮರ                               ನೀರು__n;
+ಮರು:ಮರ                               ನೀರು__n;
 ಭಾವು:ಭಾವ                               ನೀರು__n;
 ದಾರು:ದಾರ                               ನೀರು__n;
 ಕುಲು:ಕುಲ                               ನೀರು__n;
@@ -3651,7 +3746,7 @@ USA:USA         __eng;
 ಒಳಹರಿವು:ಒಳಹರಿವ                               ನೀರು__n;
 ಉಳ್ಳವರು:ಉಳ್ಳವರ                               ನೀರು__n;
 ಹೊನಲು:ಹೊನಲ                               ನೀರು__n;
-(ಹಿಂದೂ:(ಹಿಂದ                               ನೀರು__n;
+ಹಿಂದೂ:ಹಿಂದ                               ನೀರು__n;
 ಸಮತಟ್ಟು:ಸಮತಟ್ಟ                               ನೀರು__n;
 ವೀರ್ಯಾಣು:ವೀರ್ಯಾಣ                               ನೀರು__n;
 ಮೋಜು:ಮೋಜ                               ನೀರು__n;
@@ -3678,7 +3773,7 @@ USA:USA         __eng;
 ಒಡ್ಡು:ಒಡ್ಡ                               ನೀರು__n;
 ಇಂಗು:ಇಂಗ                               ನೀರು__n;
 ಅಳಿಲು:ಅಳಿಲ                               ನೀರು__n;
-(ಅವು:(ಅವ                               ನೀರು__n;
+ಅವು:ಅವ                               ನೀರು__n;
 ಶೇಕಡವಾರು:ಶೇಕಡವಾರ                               ನೀರು__n;
 ಲಂಗರು:ಲಂಗರ                               ನೀರು__n;
 ಭಿಕ್ಷು:ಭಿಕ್ಷ                               ನೀರು__n;
@@ -3868,7 +3963,7 @@ USA:USA         __eng;
 ಸೀಸನ್ನು:ಸೀಸನ್ನ                               ನೀರು__n;
 ಮದ್ದುಗುಂಡು:ಮದ್ದುಗುಂಡ                               ನೀರು__n;
 ಪ್ರೊಟೀನು:ಪ್ರೊಟೀನ                               ನೀರು__n;
-(ನೀರು:(ನೀರ                               ನೀರು__n;
+ನೀರು:ನೀರ                               ನೀರು__n;
 ನಟರೂ:ನಟರ                               ನೀರು__n;
 ತಾರೀಕು:ತಾರೀಕ                               ನೀರು__n;
 ತಾಯ್ನಾಡು:ತಾಯ್ನಾಡ                               ನೀರು__n;
@@ -3946,7 +4041,7 @@ USA:USA         __eng;
 ತೋಪು:ತೋಪ                               ನೀರು__n;
 ತೆರಪು:ತೆರಪ                               ನೀರು__n;
 ತುಪ್ಪುಳು:ತುಪ್ಪುಳ                               ನೀರು__n;
-(ತಮಿಳು:(ತಮಿಳ                               ನೀರು__n;
+ತಮಿಳು:ತಮಿಳ                               ನೀರು__n;
 ಡಾಂಬರು:ಡಾಂಬರ                               ನೀರು__n;
 ಟ್ರೇನು:ಟ್ರೇನ                               ನೀರು__n;
 ಜೀತದಾಳು:ಜೀತದಾಳ                               ನೀರು__n;
@@ -4054,7 +4149,7 @@ USA:USA         __eng;
 ಗುಂಪೂ:ಗುಂಪ                               ನೀರು__n;
 ಕ್ರೀಡಾಳುಗಳು:ಕ್ರೀಡಾಳುಗಳ                               ನೀರು__n;
 ಕ್ರೀಡಾಋತುವು:ಕ್ರೀಡಾಋತುವ                               ನೀರು__n;
-(ಕಾನೂನು:(ಕಾನೂನ                               ನೀರು__n;
+ಕಾನೂನು:ಕಾನೂನ                               ನೀರು__n;
 ಕಲ್ಲುಪ್ಪು:ಕಲ್ಲುಪ್ಪ                               ನೀರು__n;
 ಉಮ್ಮತ್ತೂರು:ಉಮ್ಮತ್ತೂರ                               ನೀರು__n;
 ಇಕ್ಕಟ್ಟು:ಇಕ್ಕಟ್ಟ                               ನೀರು__n;
@@ -4062,7 +4157,7 @@ USA:USA         __eng;
 ಅರಕಲಗೂಡು:ಅರಕಲಗೂಡ                               ನೀರು__n;
 ಹೋಟೆಲು:ಹೋಟೆಲ                               ನೀರು__n;
 ಹಳದಿ-ಹಸಿರು:ಹಳದಿ-ಹಸಿರ                               ನೀರು__n;
-!(ಹಕ್ಕು:(ಹಕ್ಕ                               	 ನೀರು__n;
+!ಹಕ್ಕು:ಹಕ್ಕ                               	 ನೀರು__n;
 ಮೂಲಹಕ್ಕು:ಮೂಲಹಕ್ಕ 						 	 ನೀರು__n; 	
 ಬೆಕ್ಕು:ಬೆಕ್ಕು       							ನೀರು__n; 	
 ಪದವಿಯಂಥವು:ಪದವಿಯಂಥವ 						ನೀರು__n;
@@ -4286,7 +4381,6 @@ USA:USA         __eng;
 ಪೊಲೀಸ:ಪೊಲೀಸ 					ಜನರು__n;
 ಬೆಂಬಲಿಗ:ಬೆಂಬಲಿಗ 					ಜನರು__n;
 ಚಿಕಿತ್ಸಕ:ಚಿಕಿತ್ಸಕ 					ಜನರು__n;
-ಶತ್ರು:ಶತ್ರ						ಜನರು__n;
 
 
 
@@ -4323,6 +4417,7 @@ USA:USA         __eng;
 ಮಾತಾಪಿತೃ:ಮಾತಾಪಿತೃ 				ವಿದೇಶೀ__n;
 ವ್ಯಾಪಾರೀ:ವ್ಯಾಪಾರೀ 				ವಿದೇಶೀ__n;
 ಸ್ವದೇಶಿ:ಸ್ವದೇಶಿ 					ವಿದೇಶೀ__n;
+ಶತ್ರು:ಶತ್ರು						ವಿದೇಶೀ__n;
 
 
 ಸ್ವತಃ:ಸ್ವತಃ   					ಸ್ವತಃ__n;
@@ -4366,6 +4461,7 @@ USA:USA         __eng;
 ದೇವತೆ:ದೇವತೆ 						ಮಹಿಳೆ__n;
 ಸಹೋದರಿ:ಸಹೋದರಿ 					ಮಹಿಳೆ__n;
 ನಾಯಕಿ:ನಾಯಕಿ 					ಮಹಿಳೆ__n;
+ತಂಗಿ:ತಂಗಿ                        ಮಹಿಳೆ__n;
 
 
 !pl?
@@ -4375,7 +4471,6 @@ USA:USA         __eng;
 ಹೆಂಗಸು:ಹೆಂಗಸ 						women__n;
 ಹೆಣ್ಣು:ಹೆಣ್ಣ 						women__n;
 ಕ್ವೀನ್:ಕ್ವೀನ್ 					women__n;
-ತಂಗಿ:ತಂಗಿ                        women__n;
 
 
 ಅಣು:ಅಣು 						ಅಣು__n;
@@ -5050,7 +5145,7 @@ USA:USA         __eng;
 ದಕ್ಷತೆ:ದಕ್ಷತೆ					ಮನೆ__n;
 ಕ್ಷಿಪಣಿ:ಕ್ಷಿಪಣಿ					ಮನೆ__n;
 ಊಹೆ:ಊಹೆ					ಮನೆ__n;
-'ಶ್ರೀ:ಶ್ರೀ					ಮನೆ__n;
+ಶ್ರೀ:ಶ್ರೀ					ಮನೆ__n;
 ಮಹರ್ಷಿ:ಮಹರ್ಷಿ					ಮನೆ__n;
 ಪದಾತಿ:ಪದಾತಿ					ಮನೆ__n;
 ದಾಖಲಾತಿ:ದಾಖಲಾತಿ					ಮನೆ__n;
@@ -5545,7 +5640,7 @@ USA:USA         __eng;
 ಗ್ರಂಥರಚನೆ:ಗ್ರಂಥರಚನೆ                                ಮನೆ__n;
 ಗೂಢಚರ್ಯೆ:ಗೂಢಚರ್ಯೆ                                ಮನೆ__n;
 ಗುರುತುಪಟ್ಟಿ:ಗುರುತುಪಟ್ಟಿ                                ಮನೆ__n;
-(ಗಾಳಿ:(ಗಾಳಿ                                ಮನೆ__n;
+ಗಾಳಿ:ಗಾಳಿ                                ಮನೆ__n;
 ಕ್ಯಾಥಿ:ಕ್ಯಾಥಿ                                ಮನೆ__n;
 ಕೆರಿ:ಕೆರಿ                                ಮನೆ__n;
 ಕಾವಿ:ಕಾವಿ                                ಮನೆ__n;
@@ -5591,7 +5686,7 @@ USA:USA         __eng;
 ಪುಣ್ಯಭೂಮಿ:ಪುಣ್ಯಭೂಮಿ                                ಮನೆ__n;
 ಪಿಹೆಚ್‌ಡಿ:ಪಿಹೆಚ್‌ಡಿ                                ಮನೆ__n;
 ಪಾಲುಗಾರಿಕೆ:ಪಾಲುಗಾರಿಕೆ                                ಮನೆ__n;
-'ಪಾರ್ಸಿ:'ಪಾರ್ಸಿ                                ಮನೆ__n;
+ಪಾರ್ಸಿ:ಪಾರ್ಸಿ                                ಮನೆ__n;
 ನರಬಲಿ:ನರಬಲಿ                                ಮನೆ__n;
 ನಡುಗೆರೆ:ನಡುಗೆರೆ                                ಮನೆ__n;
 ದುರ್ವಾಸನೆ:ದುರ್ವಾಸನೆ                                ಮನೆ__n;
@@ -5926,7 +6021,7 @@ X-ರೇ:X-ರೇ                                ಮನೆ__n;
 ಮಟ್ಟಿ:ಮಟ್ಟಿ                                ಮನೆ__n;
 ಭ್ರಮಣೆ:ಭ್ರಮಣೆ                                ಮನೆ__n;
 ಭೂವಿವರಣೆ:ಭೂವಿವರಣೆ                                ಮನೆ__n;
-(ಭೂಮಿ:(ಭೂಮಿ                                ಮನೆ__n;
+ಭೂಮಿ:ಭೂಮಿ                                ಮನೆ__n;
 ಭೂದೇವಿ:ಭೂದೇವಿ                                ಮನೆ__n;
 ಬ್ರಾಂಡಿ:ಬ್ರಾಂಡಿ                                ಮನೆ__n;
 ಬೂದಿಕೋಟೆ:ಬೂದಿಕೋಟೆ                                ಮನೆ__n;
@@ -6050,6 +6145,7 @@ X-ರೇ:X-ರೇ                                ಮನೆ__n;
 ಬಲಗೈ:ಬಲಗೈ 									ಮನೆ__n;!Right hand
 ತೆರೆ:ತೆರೆ 										ಮನೆ__n;	
 ಪತ್ತಿನ:ಪತ್ತಿನ 								ಮನೆ__n;
+ಅಧ್ಯಕ್ಷತೆ:ಅಧ್ಯಕ್ಷತೆ              				ಮನೆ__n;
 
 !ma_noun
 ಹೈನುಗಾರಿಕೆ:ಹೈನುಗಾರಿಕೆ 			ಮನೆ__n;!ger
@@ -8307,7 +8403,7 @@ V-ಅವಳಿ/ಟ್ವಿನ್‌‌:V-ಅವಳಿ/ಟ್ವಿನ್‌‌ 
 ಮೆಮೊರಿ:ಮೆಮೊರಿ                                ಮನೆ__n;
 ಮುಖರ್ಜಿ:ಮುಖರ್ಜಿ                                ಮನೆ__n;
 ತಾಳಿ:ತಾಳಿ                                ಮನೆ__n;
-'ಶ್ರೀ:'ಶ್ರೀ                                ಮನೆ__n;
+ಶ್ರೀ:ಶ್ರೀ                                ಮನೆ__n;
 ಭರ್ತಿ:ಭರ್ತಿ                                ಮನೆ__n;
 ಗರ್ಭಿಣಿ:ಗರ್ಭಿಣಿ                                ಮನೆ__n;
 ಪ್ರಾಧಾನ್ಯತೆ:ಪ್ರಾಧಾನ್ಯತೆ                                ಮನೆ__n;
@@ -8430,7 +8526,7 @@ V-ಅವಳಿ/ಟ್ವಿನ್‌‌:V-ಅವಳಿ/ಟ್ವಿನ್‌‌ 
 ಅಸ್ಸಾಮೀ:ಅಸ್ಸಾಮೀ                                ಮನೆ__n;
 ಸಹಾನುಭೂತಿ:ಸಹಾನುಭೂತಿ                                ಮನೆ__n;
 ಪದ್ಮಾವತಿ:ಪದ್ಮಾವತಿ                                ಮನೆ__n;
-(ಜನವರಿ:(ಜನವರಿ                                ಮನೆ__n;
+ಜನವರಿ:ಜನವರಿ                                ಮನೆ__n;
 ಅಬ್ಬೆ:ಅಬ್ಬೆ                                ಮನೆ__n;
 ಹೇಮಾವತಿ:ಹೇಮಾವತಿ                                ಮನೆ__n;
 ವಾಂತಿ:ವಾಂತಿ                                ಮನೆ__n;
@@ -9786,7 +9882,6 @@ V-ಅವಳಿ/ಟ್ವಿನ್‌‌:V-ಅವಳಿ/ಟ್ವಿನ್‌‌ 
 ಅಂತರಜಾಲ:ಅಂತರಜಾಲ 								ಮುಷ್ಕರ__n;
 ಸಂಧಾನ:ಸಂಧಾನ 								ಮುಷ್ಕರ__n;
 ಆವರ್ತ:ಆವರ್ತ 								ಮುಷ್ಕರ__n;
-MBA:MBA 								ಮುಷ್ಕರ__n;
 ವಿದೇಶ:ವಿದೇಶ 								ಮುಷ್ಕರ__n;
 ಕರ್ತೃ:ಕರ್ತೃ 								ಮುಷ್ಕರ__n;
 ಕಣಜ:ಕಣಜ 								ಮುಷ್ಕರ__n;
@@ -9843,7 +9938,6 @@ MBA:MBA 								ಮುಷ್ಕರ__n;
 ಖಾದ್ಯ:ಖಾದ್ಯ 								ಮುಷ್ಕರ__n;
 ಕೋಪ:ಕೋಪ 								ಮುಷ್ಕರ__n;
 ಕೆನಡ:ಕೆನಡ 								ಮುಷ್ಕರ__n;
-MP3:MP3 								ಮುಷ್ಕರ__n;
 ಕೊಂಡ:ಕೊಂಡ 								ಮುಷ್ಕರ__n;
 ಕಡಿತ:ಕಡಿತ 								ಮುಷ್ಕರ__n;
 ಆಂದೋಲನ:ಆಂದೋಲನ 								ಮುಷ್ಕರ__n;
@@ -9911,10 +10005,6 @@ MP3:MP3 								ಮುಷ್ಕರ__n;
 ಉಂಗುರ:ಉಂಗುರ 								ಮುಷ್ಕರ__n;
 ಆರ್‌ಎನ್‌ಎ:ಆರ್‌ಎನ್‌ಎ 								ಮುಷ್ಕರ__n;
 ಅರೆವಾಹಕ:ಅರೆವಾಹಕ 								ಮುಷ್ಕರ__n;
-CD:CD 								ಮುಷ್ಕರ__n;
-UFO:UFO 								ಮುಷ್ಕರ__n;
-RNA:RNA 								ಮುಷ್ಕರ__n;
-MIT:MIT 								ಮುಷ್ಕರ__n;
 ಹವಳ:ಹವಳ 								ಮುಷ್ಕರ__n;
 ಸ್ಪರ್ಶ:ಸ್ಪರ್ಶ 								ಮುಷ್ಕರ__n;
 ಸ್ತಂಭ:ಸ್ತಂಭ 								ಮುಷ್ಕರ__n;
@@ -9933,7 +10023,7 @@ MIT:MIT 								ಮುಷ್ಕರ__n;
 ಸಚಿವಾಲಯ:ಸಚಿವಾಲಯ 								ಮುಷ್ಕರ__n;
 ವ್ಯರ್ಥ:ವ್ಯರ್ಥ 								ಮುಷ್ಕರ__n;
 ಬಂಧ:ಬಂಧ 								ಮುಷ್ಕರ__n;
-ಪ್ರದೇಶ):ಪ್ರದೇಶ) 								ಮುಷ್ಕರ__n;
+ಪ್ರದೇಶ:ಪ್ರದೇಶ 								ಮುಷ್ಕರ__n;
 ತ್ರಿಕೋನ:ತ್ರಿಕೋನ 								ಮುಷ್ಕರ__n;
 ಕಂಬ:ಕಂಬ 								ಮುಷ್ಕರ__n;
 ಆಸ್ಪದ:ಆಸ್ಪದ 								ಮುಷ್ಕರ__n;
@@ -10053,7 +10143,7 @@ MIT:MIT 								ಮುಷ್ಕರ__n;
 ಗೂರ್ಖಾ:ಗೂರ್ಖಾ 								ಮುಷ್ಕರ__n;
 ಒಪೆರಾ:ಒಪೆರಾ 								ಮುಷ್ಕರ__n;
 ಆರ್‌ಎನ್ಎ:ಆರ್‌ಎನ್ಎ 								ಮುಷ್ಕರ__n;
-CPU:CPU 								ಮುಷ್ಕರ__n;
+
 ಶೋಧ:ಶೋಧ 								ಮುಷ್ಕರ__n;
 ಶಿಬಿರ:ಶಿಬಿರ 								ಮುಷ್ಕರ__n;
 ಯೂರಿಯಾ:ಯೂರಿಯಾ 								ಮುಷ್ಕರ__n;
@@ -10104,7 +10194,7 @@ CPU:CPU 								ಮುಷ್ಕರ__n;
 ಏಕಾಂತ:ಏಕಾಂತ 								ಮುಷ್ಕರ__n;
 ಅಧ್ಯಾತ್ಮಿಕ:ಅಧ್ಯಾತ್ಮಿಕ 								ಮುಷ್ಕರ__n;
 ಅತ್ಯಾಚಾರ:ಅತ್ಯಾಚಾರ 								ಮುಷ್ಕರ__n;
-LCD:LCD 								ಮುಷ್ಕರ__n;
+
 ಸನ್ಮಾನ:ಸನ್ಮಾನ 								ಮುಷ್ಕರ__n;
 ಮ್ಯಾಕ್‌:ಮ್ಯಾಕ್‌ 								ಮುಷ್ಕರ__n;
 ಮುಂದಾಳತ್ವ:ಮುಂದಾಳತ್ವ 								ಮುಷ್ಕರ__n;
@@ -10141,7 +10231,6 @@ LCD:LCD 								ಮುಷ್ಕರ__n;
 ಕಂ:ಕಂ                                                 ಮುಷ್ಕರ__n;
 ಆಶ್ಚರ್ಯ:ಆಶ್ಚರ್ಯ                                                 ಮುಷ್ಕರ__n;
 ಅಕ್ಷ:ಅಕ್ಷ                                                 ಮುಷ್ಕರ__n;
-!(2001):(2001)                                                 ಮುಷ್ಕರ__n;
 ಹೀರೋ:ಹೀರೋ                                                 ಮುಷ್ಕರ__n;
 ಸಂವತ್ಸರ:ಸಂವತ್ಸರ                                                 ಮುಷ್ಕರ__n;
 ಶಿವಲಿಂಗ:ಶಿವಲಿಂಗ                                                 ಮುಷ್ಕರ__n;
@@ -10155,7 +10244,6 @@ LCD:LCD 								ಮುಷ್ಕರ__n;
 ನೌಕಾಯಾನ:ನೌಕಾಯಾನ                                                 ಮುಷ್ಕರ__n;
 ಗುರುದ್ವಾರ:ಗುರುದ್ವಾರ                                                 ಮುಷ್ಕರ__n;
 ಅಧಿವೇಶನ:ಅಧಿವೇಶನ                                                 ಮುಷ್ಕರ__n;
-(2005):(2005)                                                 ಮುಷ್ಕರ__n;
 ಹಂಬಲ:ಹಂಬಲ                                                 ಮುಷ್ಕರ__n;
 ಸಿರಿಯ:ಸಿರಿಯ                                                 ಮುಷ್ಕರ__n;
 ಸಾಂಗತ್ಯ:ಸಾಂಗತ್ಯ                                                 ಮುಷ್ಕರ__n;
@@ -10295,7 +10383,7 @@ FC:FC                                                 ಮುಷ್ಕರ__n;
 ಅಂಗವೈಕಲ್ಯ:ಅಂಗವೈಕಲ್ಯ                                                 ಮುಷ್ಕರ__n;
 ಅದ್ಬುತ:ಅದ್ಬುತ                                                 ಮುಷ್ಕರ__n;
 ಸ್ಟೂಡಿಯೋ:ಸ್ಟೂಡಿಯೋ                                                 ಮುಷ್ಕರ__n;
-ಸಂಸ್ಥೆ):ಸಂಸ್ಥೆ)                                                 ಮುಷ್ಕರ__n;
+ಸಂಸ್ಥೆ:ಸಂಸ್ಥೆ                                                 ಮುಷ್ಕರ__n;
 ಸಿಂಗಪುರ:ಸಿಂಗಪುರ                                                 ಮುಷ್ಕರ__n;
 ವಿಯೆನ್ನಾ:ವಿಯೆನ್ನಾ                                                 ಮುಷ್ಕರ__n;
 ವಿನಾಶ:ವಿನಾಶ                                                 ಮುಷ್ಕರ__n;
@@ -10312,7 +10400,6 @@ FC:FC                                                 ಮುಷ್ಕರ__n;
 ಕಿರುಬಂಡವಾಳ:ಕಿರುಬಂಡವಾಳ                                                 ಮುಷ್ಕರ__n;
 ಒಪೇರಾ:ಒಪೇರಾ                                                 ಮುಷ್ಕರ__n;
 ಅಗ್ರಹಾರ:ಅಗ್ರಹಾರ                                                 ಮುಷ್ಕರ__n;
-!"):")                                                 ಮುಷ್ಕರ__n;
 ಶತಮಾನೋತ್ಸವ:ಶತಮಾನೋತ್ಸವ                                                 ಮುಷ್ಕರ__n;
 ಯುರೋ:ಯುರೋ                                                 ಮುಷ್ಕರ__n;
 ಮಾನವಿಕ:ಮಾನವಿಕ                                                 ಮುಷ್ಕರ__n;
@@ -10326,7 +10413,7 @@ FC:FC                                                 ಮುಷ್ಕರ__n;
 ಕಂ.:ಕಂ.                                                 ಮುಷ್ಕರ__n;
 ಕಾರ್ಯತಂತ್ರ:ಕಾರ್ಯತಂತ್ರ                                                 ಮುಷ್ಕರ__n;
 ಅದೃಶ್ಯ:ಅದೃಶ್ಯ                                                 ಮುಷ್ಕರ__n;
-TEM:TEM                                                 ಮುಷ್ಕರ__n;
+
 ಹಿಂಭಾಗ:ಹಿಂಭಾಗ                                                 ಮುಷ್ಕರ__n;
 ಸಂಖ್ಯಾಶಾಸ್ತ್ರ:ಸಂಖ್ಯಾಶಾಸ್ತ್ರ                                                 ಮುಷ್ಕರ__n;
 ಸಾದೃಶ್ಯ:ಸಾದೃಶ್ಯ                                                 ಮುಷ್ಕರ__n;
@@ -10348,7 +10435,6 @@ TEM:TEM                                                 ಮುಷ್ಕರ__n;
 ಉಪನಾಮ:ಉಪನಾಮ                                                 ಮುಷ್ಕರ__n;
 ಅಪಭ್ರಂಶ:ಅಪಭ್ರಂಶ                                                 ಮುಷ್ಕರ__n;
 ಅನುಚ್ಛೇದ:ಅನುಚ್ಛೇದ                                                 ಮುಷ್ಕರ__n;
-(1999):(1999)                                                 ಮುಷ್ಕರ__n;
 ಸಂಯುಕ್ತಸಂಸ್ಥಾನ:ಸಂಯುಕ್ತಸಂಸ್ಥಾನ                                                 ಮುಷ್ಕರ__n;
 ಸಮವಸ್ತ್ರ:ಸಮವಸ್ತ್ರ                                                 ಮುಷ್ಕರ__n;
 ವಿಶೇಷಣ:ವಿಶೇಷಣ                                                 ಮುಷ್ಕರ__n;
@@ -10360,7 +10446,6 @@ TEM:TEM                                                 ಮುಷ್ಕರ__n;
 ಪ್ರಸಾರಣ:ಪ್ರಸಾರಣ                                                 ಮುಷ್ಕರ__n;
 ಪುರ:ಪುರ                                                 ಮುಷ್ಕರ__n;
 ನಿಯೋಗ:ನಿಯೋಗ                                                 ಮುಷ್ಕರ__n;
-!"ನಿಯಮ:"ನಿಯಮ                                                 ಮುಷ್ಕರ__n;
 ತುಪ್ಪಳ:ತುಪ್ಪಳ                                                 ಮುಷ್ಕರ__n;
 ಚಕ್ರಾಧಿಪತ್ಯ:ಚಕ್ರಾಧಿಪತ್ಯ                                                 ಮುಷ್ಕರ__n;
 ಕೀಟನಾಶಕ:ಕೀಟನಾಶಕ                                                 ಮುಷ್ಕರ__n;
@@ -10431,7 +10516,6 @@ TEM:TEM                                                 ಮುಷ್ಕರ__n;
 ಪಿತೃ:ಪಿತೃ                                                 ಮುಷ್ಕರ__n;
 ಪಶ್ಚಾತ್ತಾಪ:ಪಶ್ಚಾತ್ತಾಪ                                                 ಮುಷ್ಕರ__n;
 ಪರಿವರ್ತಕ:ಪರಿವರ್ತಕ                                                 ಮುಷ್ಕರ__n;
-!ಪತ್ರಿಕೆ":ಪತ್ರಿಕೆ"                                                 ಮುಷ್ಕರ__n;
 ಪಠ್ಯಕ್ರಮ:ಪಠ್ಯಕ್ರಮ                                                 ಮುಷ್ಕರ__n;
 ಧಾಮ:ಧಾಮ                                                 ಮುಷ್ಕರ__n;
 ತಿಮಿಂಗಿಲ:ತಿಮಿಂಗಿಲ                                                 ಮುಷ್ಕರ__n;
@@ -10479,7 +10563,7 @@ TEM:TEM                                                 ಮುಷ್ಕರ__n;
 ಅಂತರಂಗ:ಅಂತರಂಗ                                                 ಮುಷ್ಕರ__n;
 ಅನುಕಂಪ:ಅನುಕಂಪ                                                 ಮುಷ್ಕರ__n;
 ಅನಾಹುತ:ಅನಾಹುತ                                                 ಮುಷ್ಕರ__n;
-API:API                                                 ಮುಷ್ಕರ__n;
+
 ಹೊರಪದರ:ಹೊರಪದರ                                                 ಮುಷ್ಕರ__n;
 ಹಳ್ಳ:ಹಳ್ಳ                                                 ಮುಷ್ಕರ__n;
 ಸ್ತೋತ್ರ:ಸ್ತೋತ್ರ                                                 ಮುಷ್ಕರ__n;
@@ -10492,7 +10576,6 @@ API:API                                                 ಮುಷ್ಕರ__n;
 ಜಿನೀವಾ:ಜಿನೀವಾ                                                 ಮುಷ್ಕರ__n;
 ಛತ್ರ:ಛತ್ರ                                                 ಮುಷ್ಕರ__n;
 ಕೋಟಾ:ಕೋಟಾ                                                 ಮುಷ್ಕರ__n;
-ಕೂಡ):ಕೂಡ)                                                 ಮುಷ್ಕರ__n;
 ಕಾರಾಗೃಹ:ಕಾರಾಗೃಹ                                                 ಮುಷ್ಕರ__n;
 ಉಚ್ಚಾರ:ಉಚ್ಚಾರ                                                 ಮುಷ್ಕರ__n;
 ಅಪಮಾನ:ಅಪಮಾನ                                                 ಮುಷ್ಕರ__n;
@@ -10513,11 +10596,10 @@ API:API                                                 ಮುಷ್ಕರ__n;
 ಗುಣಾಕಾರ:ಗುಣಾಕಾರ                                                 ಮುಷ್ಕರ__n;
 ಗಡ್ಡ:ಗಡ್ಡ                                                 ಮುಷ್ಕರ__n;
 ಕೆಂದ್ರ:ಕೆಂದ್ರ                                                 ಮುಷ್ಕರ__n;
-ಕರೆಯಲ್ಪಡುವ):ಕರೆಯಲ್ಪಡುವ)                                                 ಮುಷ್ಕರ__n;
 ಆಧಿಪತ್ಯ:ಆಧಿಪತ್ಯ                                                 ಮುಷ್ಕರ__n;
 ಆಕ್ಸಿಡೀಕರಣ:ಆಕ್ಸಿಡೀಕರಣ                                                 ಮುಷ್ಕರ__n;
 ಅಣುಕೋಶ:ಅಣುಕೋಶ                                                 ಮುಷ್ಕರ__n;
-AG:AG                                                 ಮುಷ್ಕರ__n;
+
 ಹಿಮಪದರ:ಹಿಮಪದರ                                                 ಮುಷ್ಕರ__n;
 ಹಗೆತನ:ಹಗೆತನ                                                 ಮುಷ್ಕರ__n;
 ಸ್ತೂಪ:ಸ್ತೂಪ                                                 ಮುಷ್ಕರ__n;
@@ -10537,7 +10619,6 @@ AG:AG                                                 ಮುಷ್ಕರ__n;
 ನಿಲಯ:ನಿಲಯ                                                 ಮುಷ್ಕರ__n;
 ನವರಂಗ:ನವರಂಗ                                                 ಮುಷ್ಕರ__n;
 ದರ್ಶಕ:ದರ್ಶಕ                                                 ಮುಷ್ಕರ__n;
-ಡಿ):ಡಿ)                                                 ಮುಷ್ಕರ__n;
 ಖಾಲ್ಸಾ:ಖಾಲ್ಸಾ                                                 ಮುಷ್ಕರ__n;
 ಕ್ರಮಾಂಕ:ಕ್ರಮಾಂಕ                                                 ಮುಷ್ಕರ__n;
 ಕಲಂ:ಕಲಂ                                                 ಮುಷ್ಕರ__n;
@@ -10613,9 +10694,6 @@ AG:AG                                                 ಮುಷ್ಕರ__n;
 ಉದ್ಭವ:ಉದ್ಭವ                                                 ಮುಷ್ಕರ__n;
 ಆಪೆರ:ಆಪೆರ                                                 ಮುಷ್ಕರ__n;
 ಅಭಯಾರಣ್ಯ:ಅಭಯಾರಣ್ಯ                                                 ಮುಷ್ಕರ__n;
-URL:URL                                                 ಮುಷ್ಕರ__n;
-SAN:SAN                                                 ಮುಷ್ಕರ__n;
-]]:]]                                                 ಮುಷ್ಕರ__n;
 ಸ್ರಾವ:ಸ್ರಾವ                                                 ಮುಷ್ಕರ__n;
 ಸ್ಪ್ಯಾರೋ:ಸ್ಪ್ಯಾರೋ                                                 ಮುಷ್ಕರ__n;
 ಸ್ತರ:ಸ್ತರ                                                 ಮುಷ್ಕರ__n;
@@ -10648,7 +10726,6 @@ SAN:SAN                                                 ಮುಷ್ಕರ__n;
 ಉತ್ತರಭಾಗ:ಉತ್ತರಭಾಗ                                                 ಮುಷ್ಕರ__n;
 ಆಸ್ತಮಾ:ಆಸ್ತಮಾ                                                 ಮುಷ್ಕರ__n;
 ಅಹಾರ:ಅಹಾರ                                                 ಮುಷ್ಕರ__n;
-SI:SI                                                 ಮುಷ್ಕರ__n;
 ಸ್ವಪ್ನ:ಸ್ವಪ್ನ                                                 ಮುಷ್ಕರ__n;
 ಸಂಯಮ:ಸಂಯಮ                                                 ಮುಷ್ಕರ__n;
 ಸೂರ್ಯಾಸ್ತ:ಸೂರ್ಯಾಸ್ತ                                                 ಮುಷ್ಕರ__n;
@@ -10673,8 +10750,6 @@ SI:SI                                                 ಮುಷ್ಕರ__n;
 ಅಪಹರಣ:ಅಪಹರಣ                                                 ಮುಷ್ಕರ__n;
 ಅನುರಣನ:ಅನುರಣನ                                                 ಮುಷ್ಕರ__n;
 ಅಗ್ನಿಪರ್ವತ:ಅಗ್ನಿಪರ್ವತ                                                 ಮುಷ್ಕರ__n;
-LCA:LCA                                                 ಮುಷ್ಕರ__n;
-DJ:DJ                                                 ಮುಷ್ಕರ__n;
 ಹೂರಣ:ಹೂರಣ                                                 ಮುಷ್ಕರ__n;
 ಹಿಮಪಾತ:ಹಿಮಪಾತ                                                 ಮುಷ್ಕರ__n;
 ಹಿಪ್ಪೋ:ಹಿಪ್ಪೋ                                                 ಮುಷ್ಕರ__n;
@@ -10703,7 +10778,7 @@ DJ:DJ                                                 ಮುಷ್ಕರ__n;
 ಉಪವಿಭಾಗ:ಉಪವಿಭಾಗ                                                 ಮುಷ್ಕರ__n;
 ಇಷ್ಟಾರ್ಥ:ಇಷ್ಟಾರ್ಥ                                                 ಮುಷ್ಕರ__n;
 ಅಂಜೂರ:ಅಂಜೂರ                                                 ಮುಷ್ಕರ__n;
-IPO:IPO                                                 ಮುಷ್ಕರ__n;
+
 ಹೊರವಲಯ:ಹೊರವಲಯ                                                 ಮುಷ್ಕರ__n;
 ಹಿಮ್ಮೇಳ:ಹಿಮ್ಮೇಳ                                                 ಮುಷ್ಕರ__n;
 ಹಕ್ಕುಪತ್ರ:ಹಕ್ಕುಪತ್ರ                                                 ಮುಷ್ಕರ__n;
@@ -10746,13 +10821,11 @@ IPO:IPO                                                 ಮುಷ್ಕರ__n;
 ಆಫ್ಘಾನಿಸ್ತಾನ:ಆಫ್ಘಾನಿಸ್ತಾನ                                                 ಮುಷ್ಕರ__n;
 ಅಂಧಕಾರ:ಅಂಧಕಾರ                                                 ಮುಷ್ಕರ__n;
 ಅವಯವ:ಅವಯವ                                                 ಮುಷ್ಕರ__n;
-SEC:SEC                                                 ಮುಷ್ಕರ__n;
-CPI:CPI                                                 ಮುಷ್ಕರ__n;
+
 ಹುಳ:ಹುಳ                                                 ಮುಷ್ಕರ__n;
 ಹತ್ಯಾಕಾಂಡ:ಹತ್ಯಾಕಾಂಡ                                                 ಮುಷ್ಕರ__n;
-ಸಂಸ್ಥೆ':ಸಂಸ್ಥೆ'                                                 ಮುಷ್ಕರ__n;
+ಸಂಸ್ಥೆ:ಸಂಸ್ಥೆ                                                 ಮುಷ್ಕರ__n;
 ಸಂಪರ್ಕಜಾಲ:ಸಂಪರ್ಕಜಾಲ                                                 ಮುಷ್ಕರ__n;
-ಸೈಕಲ್‌/ವಾಹನ:ಸೈಕಲ್‌/ವಾಹನ                                                 ಮುಷ್ಕರ__n;
 ಸಜಾತೀಯ:ಸಜಾತೀಯ                                                 ಮುಷ್ಕರ__n;
 ಶಂಖ:ಶಂಖ                                                 ಮುಷ್ಕರ__n;
 ಶುಭಾಶಯ:ಶುಭಾಶಯ                                                 ಮುಷ್ಕರ__n;
@@ -10817,8 +10890,7 @@ CPI:CPI                                                 ಮುಷ್ಕರ__n;
 ಅಶ್ವ:ಅಶ್ವ                                                 ಮುಷ್ಕರ__n;
 ಅನಿಷ್ಟ:ಅನಿಷ್ಟ                                                 ಮುಷ್ಕರ__n;
 ಅಧಾರ:ಅಧಾರ                                                 ಮುಷ್ಕರ__n;
-MC:MC                                                 ಮುಷ್ಕರ__n;
-A380:A380                                                 ಮುಷ್ಕರ__n;
+
 ಹಂದರ:ಹಂದರ                                                 ಮುಷ್ಕರ__n;
 ಸಂಬಂದ:ಸಂಬಂದ                                                 ಮುಷ್ಕರ__n;
 ಸೋಂಕುಕಾರಕ:ಸೋಂಕುಕಾರಕ                                                 ಮುಷ್ಕರ__n;
@@ -10856,13 +10928,13 @@ A380:A380                                                 ಮುಷ್ಕರ__n;
 ಅಲ್ಪಸಂಖ್ಯಾಸಾಮ್ಯ:ಅಲ್ಪಸಂಖ್ಯಾಸಾಮ್ಯ                                                 ಮುಷ್ಕರ__n;
 ಅಪಕರ್ಷಣ:ಅಪಕರ್ಷಣ                                                 ಮುಷ್ಕರ__n;
 ಅಧ್ಯಾಯನ:ಅಧ್ಯಾಯನ                                                 ಮುಷ್ಕರ__n;
-SSRI:SSRI                                                 ಮುಷ್ಕರ__n;
+
 ಸ್ಪೋಟ:ಸ್ಪೋಟ                                                 ಮುಷ್ಕರ__n;
 ಸಸ್ಯಕ:ಸಸ್ಯಕ                                                 ಮುಷ್ಕರ__n;
 ಸಮ‌ೂಹ:ಸಮ‌ೂಹ                                                 ಮುಷ್ಕರ__n;
 ಸದನ:ಸದನ                                                 ಮುಷ್ಕರ__n;
 ಶಿಶುವಿಹಾರ:ಶಿಶುವಿಹಾರ                                                 ಮುಷ್ಕರ__n;
-ಶಕ್ತಿ):ಶಕ್ತಿ)                                                 ಮುಷ್ಕರ__n;
+ಶಕ್ತಿ:ಶಕ್ತಿ                                                 ಮುಷ್ಕರ__n;
 ವೈಪರೀತ್ಯ:ವೈಪರೀತ್ಯ                                                 ಮುಷ್ಕರ__n;
 ವೃಂದ:ವೃಂದ                                                 ಮುಷ್ಕರ__n;
 ವಿಯಟ್ನಾಂ:ವಿಯಟ್ನಾಂ                                                 ಮುಷ್ಕರ__n;
@@ -10884,7 +10956,7 @@ SSRI:SSRI                                                 ಮುಷ್ಕರ__n;
 ಆಂಟೆನಾ:ಆಂಟೆನಾ                                                 ಮುಷ್ಕರ__n;
 ಅಂಕಿ-ಅಂಶ:ಅಂಕಿ-ಅಂಶ                                                 ಮುಷ್ಕರ__n;
 ಅಲೋಹ:ಅಲೋಹ                                                 ಮುಷ್ಕರ__n;
-Wi-Fi:Wi-Fi                                                 ಮುಷ್ಕರ__n;
+
 ಹೊಂಡ:ಹೊಂಡ                                                 ಮುಷ್ಕರ__n;
 ಹೆಸರ:ಹೆಸರ                                                 ಮುಷ್ಕರ__n;
 ಹುಟ್ಟುಹಬ್ಬ:ಹುಟ್ಟುಹಬ್ಬ                                                 ಮುಷ್ಕರ__n;
@@ -10908,18 +10980,13 @@ Wi-Fi:Wi-Fi                                                 ಮುಷ್ಕರ__
 ತಂ:ತಂ                                                 ಮುಷ್ಕರ__n;
 ತದ್ಭವ:ತದ್ಭವ                                                 ಮುಷ್ಕರ__n;
 ಡೈನಮೋ:ಡೈನಮೋ                                                 ಮುಷ್ಕರ__n;
-ಚಿಕಿತ್ಸೆ):ಚಿಕಿತ್ಸೆ)                                                 ಮುಷ್ಕರ__n;
+ಚಿಕಿತ್ಸೆ:ಚಿಕಿತ್ಸೆ                                                 ಮುಷ್ಕರ__n;
 ಕೈಮಗ್ಗ:ಕೈಮಗ್ಗ                                                 ಮುಷ್ಕರ__n;
 ಕಾಲಂ:ಕಾಲಂ                                                 ಮುಷ್ಕರ__n;
 ಕಾರ್ಸಿನೋಮ:ಕಾರ್ಸಿನೋಮ                                                 ಮುಷ್ಕರ__n;
 ಕಲಾಮಂದಿರ:ಕಲಾಮಂದಿರ                                                 ಮುಷ್ಕರ__n;
 ಆಧ್ಯಯನ:ಆಧ್ಯಯನ                                                 ಮುಷ್ಕರ__n;
 ಅಯಸ್ಕಾಂತ:ಅಯಸ್ಕಾಂತ                                                 ಮುಷ್ಕರ__n;
-MT:MT                                                 ಮುಷ್ಕರ__n;
-LED:LED                                                 ಮುಷ್ಕರ__n;
-GMO:GMO                                                 ಮುಷ್ಕರ__n;
-etc.:etc.                                                 ಮುಷ್ಕರ__n;
-DBMS:DBMS                                                 ಮುಷ್ಕರ__n;
 ಹಂಸ:ಹಂಸ                                                 ಮುಷ್ಕರ__n;
 ಸಂವೇದನ:ಸಂವೇದನ                                                 ಮುಷ್ಕರ__n;
 ಸಂಪನ್ನ:ಸಂಪನ್ನ                                                 ಮುಷ್ಕರ__n;
@@ -10967,7 +11034,7 @@ DBMS:DBMS                                                 ಮುಷ್ಕರ__n;
 ಸ್ಥಿತ್ಯಂತರ:ಸ್ಥಿತ್ಯಂತರ                                                 ಮುಷ್ಕರ__n;
 ಸ್ಥಳನಾಮ:ಸ್ಥಳನಾಮ                                                 ಮುಷ್ಕರ__n;
 ಸಂಯೋಜನೀಯ:ಸಂಯೋಜನೀಯ                                                 ಮುಷ್ಕರ__n;
-ಸಂಘ':ಸಂಘ'                                                 ಮುಷ್ಕರ__n;
+ಸಂಘ:ಸಂಘ                                                 ಮುಷ್ಕರ__n;
 ಸಂಕೇತನಾಮ:ಸಂಕೇತನಾಮ                                                 ಮುಷ್ಕರ__n;
 ಸಿಇಓ:ಸಿಇಓ                                                 ಮುಷ್ಕರ__n;
 ಸತ್ತ್ವ:ಸತ್ತ್ವ                                                 ಮುಷ್ಕರ__n;
@@ -11017,7 +11084,6 @@ DBMS:DBMS                                                 ಮುಷ್ಕರ__n;
 ಆಕಾಶಕಾಯ:ಆಕಾಶಕಾಯ                                                 ಮುಷ್ಕರ__n;
 ಅಂಕಿತನಾಮ:ಅಂಕಿತನಾಮ                                                 ಮುಷ್ಕರ__n;
 ಅಭಿವ್ಯಕ್ತ:ಅಭಿವ್ಯಕ್ತ                                                 ಮುಷ್ಕರ__n;
-!(1961):(1961)                                                 ಮುಷ್ಕರ__n;
 ಹಾಸ್ಯಚಿತ್ರ:ಹಾಸ್ಯಚಿತ್ರ                                                 ಮುಷ್ಕರ__n;
 ಸ್ಥಾನಾಂತರ:ಸ್ಥಾನಾಂತರ                                                 ಮುಷ್ಕರ__n;
 ಸಂಘಟಕ:ಸಂಘಟಕ                                                 ಮುಷ್ಕರ__n;
@@ -11030,7 +11096,7 @@ DBMS:DBMS                                                 ಮುಷ್ಕರ__n;
 ರೇವುಪಟ್ಟಣ:ರೇವುಪಟ್ಟಣ                                                 ಮುಷ್ಕರ__n;
 ಯಂತ್ರಮಾನವ:ಯಂತ್ರಮಾನವ                                                 ಮುಷ್ಕರ__n;
 ಮಾರ್ಜಕ:ಮಾರ್ಜಕ                                                 ಮುಷ್ಕರ__n;
-ಮಾದರಿ):ಮಾದರಿ)                                                 ಮುಷ್ಕರ__n;
+ಮಾದರಿ:ಮಾದರಿ                                                 ಮುಷ್ಕರ__n;
 ಬಾಲ್ಯವಿವಾಹ:ಬಾಲ್ಯವಿವಾಹ                                                 ಮುಷ್ಕರ__n;
 ಪ್ರಸ್ತಾವ:ಪ್ರಸ್ತಾವ                                                 ಮುಷ್ಕರ__n;
 ಪ್ರತಾಪ:ಪ್ರತಾಪ                                                 ಮುಷ್ಕರ__n;
@@ -11112,10 +11178,7 @@ DBMS:DBMS                                                 ಮುಷ್ಕರ__n;
 ಅಂಕನ:ಅಂಕನ                                                 ಮುಷ್ಕರ__n;
 ಅಷ್ಟಕ:ಅಷ್ಟಕ                                                 ಮುಷ್ಕರ__n;
 ಅಯ್ಯ:ಅಯ್ಯ                                                 ಮುಷ್ಕರ__n;
-PCB:PCB                                                 ಮುಷ್ಕರ__n;
-NGO:NGO                                                 ಮುಷ್ಕರ__n;
-ESPN:ESPN                                                 ಮುಷ್ಕರ__n;
-CDO:CDO                                                 ಮುಷ್ಕರ__n;
+
 ಸ್ಪರ್ಶಕ:ಸ್ಪರ್ಶಕ                                                 ಮುಷ್ಕರ__n;
 ಸ್ಥಲ:ಸ್ಥಲ                                                 ಮುಷ್ಕರ__n;
 ಸ್ಕಂಧ:ಸ್ಕಂಧ                                                 ಮುಷ್ಕರ__n;
@@ -11167,7 +11230,7 @@ CDO:CDO                                                 ಮುಷ್ಕರ__n;
 ಕೈಬರಹ:ಕೈಬರಹ                                                 ಮುಷ್ಕರ__n;
 ಕೇ೦ದ್ರ:ಕೇ೦ದ್ರ                                                 ಮುಷ್ಕರ__n;
 ಕೆಲಭಾಗ:ಕೆಲಭಾಗ                                                 ಮುಷ್ಕರ__n;
-ಕಿಲೋಮೀಟರ್):ಕಿಲೋಮೀಟರ್)                                                 ಮುಷ್ಕರ__n;
+ಕಿಲೋಮೀಟರ್:ಕಿಲೋಮೀಟರ್                                                 ಮುಷ್ಕರ__n;
 ಕಿರುಕಳ:ಕಿರುಕಳ                                                 ಮುಷ್ಕರ__n;
 ಕಣಭುಂಜಕ:ಕಣಭುಂಜಕ                                                 ಮುಷ್ಕರ__n;
 ಎಪಿಐ:ಎಪಿಐ                                                 ಮುಷ್ಕರ__n;
@@ -11186,9 +11249,9 @@ CDO:CDO                                                 ಮುಷ್ಕರ__n;
 ಅಮ್ಲ:ಅಮ್ಲ                                                 ಮುಷ್ಕರ__n;
 ಅನಾನುಕೂಲ:ಅನಾನುಕೂಲ                                                 ಮುಷ್ಕರ__n;
 ಅನನುಕೂಲ:ಅನನುಕೂಲ                                                 ಮುಷ್ಕರ__n;
-GHG:GHG                                                 ಮುಷ್ಕರ__n;
+
 ಹಿಮಯುಗ:ಹಿಮಯುಗ                                                 ಮುಷ್ಕರ__n;
-ಹಕ್ಕಿ):ಹಕ್ಕಿ)                                                 ಮುಷ್ಕರ__n;
+ಹಕ್ಕಿ:ಹಕ್ಕಿ                                                 ಮುಷ್ಕರ__n;
 ಸೆಟಾಂಟಾ:ಸೆಟಾಂಟಾ                                                 ಮುಷ್ಕರ__n;
 ಸಮೂದಾಯ:ಸಮೂದಾಯ                                                 ಮುಷ್ಕರ__n;
 ಶಿವಾಲಯ:ಶಿವಾಲಯ                                                 ಮುಷ್ಕರ__n;
@@ -11196,7 +11259,7 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಶಕ್ತಿವರ್ಧಕ:ಶಕ್ತಿವರ್ಧಕ                                                 ಮುಷ್ಕರ__n;
 ವೈವಿದ್ಯ:ವೈವಿದ್ಯ                                                 ಮುಷ್ಕರ__n;
 ವೃಷಣ:ವೃಷಣ                                                 ಮುಷ್ಕರ__n;
-(ವಿಶೇಷ:(ವಿಶೇಷ                                                 ಮುಷ್ಕರ__n;
+ವಿಶೇಷ:ವಿಶೇಷ                                                 ಮುಷ್ಕರ__n;
 ವಿಶಯ:ವಿಶಯ                                                 ಮುಷ್ಕರ__n;
 ವಾಸ್ತವಾಂಶ:ವಾಸ್ತವಾಂಶ                                                 ಮುಷ್ಕರ__n;
 ವಾಮಾಚಾರ:ವಾಮಾಚಾರ                                                 ಮುಷ್ಕರ__n;
@@ -11258,7 +11321,7 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಸೋಂಕುರೋಗ:ಸೋಂಕುರೋಗ                                                 ಮುಷ್ಕರ__n;
 ಸೆಣಸಾಟ:ಸೆಣಸಾಟ                                                 ಮುಷ್ಕರ__n;
 ಸೂಕ್ಷ್ಮಶಿಲಾಯುಧ:ಸೂಕ್ಷ್ಮಶಿಲಾಯುಧ                                                 ಮುಷ್ಕರ__n;
-(ಸುಂಟರಗಾಳಿ):(ಸುಂಟರಗಾಳಿ)                                                 ಮುಷ್ಕರ__n;
+ಸುಂಟರಗಾಳಿ:ಸುಂಟರಗಾಳಿ                                                 ಮುಷ್ಕರ__n;
 ಸಿ.ಡಿ.:ಸಿ.ಡಿ.                                                 ಮುಷ್ಕರ__n;
 ಸಾಹಚರ್ಯ:ಸಾಹಚರ್ಯ                                                 ಮುಷ್ಕರ__n;
 ಸಹಸ್ರನಾಮ:ಸಹಸ್ರನಾಮ                                                 ಮುಷ್ಕರ__n;
@@ -11346,10 +11409,7 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ತರಹ:ತರಹ                             ಮುಷ್ಕರ__n;
 ಸಮಾನಾಂತರ:ಸಮಾನಾಂತರ                             ಮುಷ್ಕರ__n;
 ಶೀತಲ:ಶೀತಲ                             ಮುಷ್ಕರ__n;
-!ಪಡೆದಿದ್ದ:ಪಡೆದಿದ್ದ                             ಮುಷ್ಕರ__n;
 ಕಡ್ಡಾಯ:ಕಡ್ಡಾಯ                             ಮುಷ್ಕರ__n;
-೨೦೧೪:೨೦೧೪                             ಮುಷ್ಕರ__n;
-೩೫:೩೫                             ಮುಷ್ಕರ__n;
 ನಾಯಕತ್ವ:ನಾಯಕತ್ವ                             ಮುಷ್ಕರ__n;
 ಸಮ:ಸಮ                             ಮುಷ್ಕರ__n;
 ರಾಜ್ಯೋತ್ಸವ:ರಾಜ್ಯೋತ್ಸವ                             ಮುಷ್ಕರ__n;
@@ -11412,7 +11472,6 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಸಮಶೀತೋಷ್ಣ:ಸಮಶೀತೋಷ್ಣ                             ಮುಷ್ಕರ__n;
 ಪ್ರಗತಿಶೀಲ:ಪ್ರಗತಿಶೀಲ                             ಮುಷ್ಕರ__n;
 ಸ್ಥಾನಿಕ:ಸ್ಥಾನಿಕ                             ಮುಷ್ಕರ__n;
-೨೦೦೨:೨೦೦೨                             ಮುಷ್ಕರ__n;
 ದಾಂಪತ್ಯ:ದಾಂಪತ್ಯ                             ಮುಷ್ಕರ__n;
 ಭೂಗತ:ಭೂಗತ                             ಮುಷ್ಕರ__n;
 ಫಿಲಂ:ಫಿಲಂ                             ಮುಷ್ಕರ__n;
@@ -11421,7 +11480,6 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಸಂಸ್ಕøತ:ಸಂಸ್ಕøತ                             ಮುಷ್ಕರ__n;
 ಭೌತಶಾಸ್ತ್ರ:ಭೌತಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
 ಜನ್ಯ:ಜನ್ಯ                             ಮುಷ್ಕರ__n;
-೭೫:೭೫                             ಮುಷ್ಕರ__n;
 ಮೂತ್ರ:ಮೂತ್ರ                             ಮುಷ್ಕರ__n;
 ಚೈತನ್ಯ:ಚೈತನ್ಯ                             ಮುಷ್ಕರ__n;
 ಲಿಂಗಾಯತ:ಲಿಂಗಾಯತ                             ಮುಷ್ಕರ__n;
@@ -11431,7 +11489,7 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಕುತೂಹಲ:ಕುತೂಹಲ                             ಮುಷ್ಕರ__n;
 ಅತೀಂದ್ರಿಯ:ಅತೀಂದ್ರಿಯ                             ಮುಷ್ಕರ__n;
 ಬೀಜಗಳ:ಬೀಜಗಳ                             ಮುಷ್ಕರ__n;
-ಕೇಂದ್ರ):ಕೇಂದ್ರ)                             ಮುಷ್ಕರ__n;
+ಕೇಂದ್ರ:ಕೇಂದ್ರ                             ಮುಷ್ಕರ__n;
 ಕಾಲುವೆಯ:ಕಾಲುವೆಯ                             ಮುಷ್ಕರ__n;
 ಕರಕುಶಲ:ಕರಕುಶಲ                             ಮುಷ್ಕರ__n;
 ಮೈ.:ಮೈ.                             ಮುಷ್ಕರ__n;
@@ -11475,10 +11533,8 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಪ್ರಾಮಾಣಿಕ:ಪ್ರಾಮಾಣಿಕ                             ಮುಷ್ಕರ__n;
 ಪ್ರಾತಿನಿಧಿಕ:ಪ್ರಾತಿನಿಧಿಕ                             ಮುಷ್ಕರ__n;
 ವ್ಯಾಪಾರೋದ್ಯಮ:ವ್ಯಾಪಾರೋದ್ಯಮ                             ಮುಷ್ಕರ__n;
-20,000:20,000                             ಮುಷ್ಕರ__n;
 ಪ್ರಾಚ್ಯ:ಪ್ರಾಚ್ಯ                             ಮುಷ್ಕರ__n;
 ಆಂದೋಲನದ:ಆಂದೋಲನದ                             ಮುಷ್ಕರ__n;
-೧೯೮೫:೧೯೮೫                             ಮುಷ್ಕರ__n;
 ಸ್ವರ್ಣ:ಸ್ವರ್ಣ                             ಮುಷ್ಕರ__n;
 ಫ್ಲೋರಿಡಾ:ಫ್ಲೋರಿಡಾ                             ಮುಷ್ಕರ__n;
 ನಿರ್ಮಾಪಣ:ನಿರ್ಮಾಪಣ                             ಮುಷ್ಕರ__n;
@@ -11488,7 +11544,6 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಪ್ರತಿನಿತ್ಯ:ಪ್ರತಿನಿತ್ಯ                             ಮುಷ್ಕರ__n;
 ಪ್ರಕಾಶ:ಪ್ರಕಾಶ                             ಮುಷ್ಕರ__n;
 ಕೊಪ್ಪಳ:ಕೊಪ್ಪಳ                             ಮುಷ್ಕರ__n;
-೩೮:೩೮                             ಮುಷ್ಕರ__n;
 ಸಂಸ್ಕೃತ,:ಸಂಸ್ಕೃತ,                             ಮುಷ್ಕರ__n;
 ಸುಧಾ:ಸುಧಾ                             ಮುಷ್ಕರ__n;
 ಮಾರಕ:ಮಾರಕ                             ಮುಷ್ಕರ__n;
@@ -11499,8 +11554,6 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಭಾರದ:ಭಾರದ                             ಮುಷ್ಕರ__n;
 ಪತ್ರಿಕೋದ್ಯಮ:ಪತ್ರಿಕೋದ್ಯಮ                             ಮುಷ್ಕರ__n;
 ಗೌತಮ:ಗೌತಮ                             ಮುಷ್ಕರ__n;
-೧೯೫೬:೧೯೫೬                             ಮುಷ್ಕರ__n;
-೧೨೦:೧೨೦                             ಮುಷ್ಕರ__n;
 ಶುಕ್ಲ:ಶುಕ್ಲ                             ಮುಷ್ಕರ__n;
 ವಿಶ್ಲೇಷಣಾತ್ಮಕ:ವಿಶ್ಲೇಷಣಾತ್ಮಕ                             ಮುಷ್ಕರ__n;
 ಔಷಧದ:ಔಷಧದ                             ಮುಷ್ಕರ__n;
@@ -11575,7 +11628,6 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಪ್ರತಿಭಾನ್ವಿತ:ಪ್ರತಿಭಾನ್ವಿತ                             ಮುಷ್ಕರ__n;
 ತಾರಾ:ತಾರಾ                             ಮುಷ್ಕರ__n;
 ಜಡ:ಜಡ                             ಮುಷ್ಕರ__n;
-'ಕರ್ನಾಟಕ:'ಕರ್ನಾಟಕ                             ಮುಷ್ಕರ__n;
 ಅಂಡಾಕಾರದ:ಅಂಡಾಕಾರದ                             ಮುಷ್ಕರ__n;
 ವಿದಾಯ:ವಿದಾಯ                             ಮುಷ್ಕರ__n;
 ರಾಜಸ್ಥಾನ:ರಾಜಸ್ಥಾನ                             ಮುಷ್ಕರ__n;
@@ -11583,11 +11635,9 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಮೈಲಿ:ಮೈಲಿ                             ಮುಷ್ಕರ__n;
 ಪಾರಿಭಾಷಿಕ:ಪಾರಿಭಾಷಿಕ                             ಮುಷ್ಕರ__n;
 ಕುಂದಾಪುರ:ಕುಂದಾಪುರ                             ಮುಷ್ಕರ__n;
-'ಕನ್ನಡ:'ಕನ್ನಡ                             ಮುಷ್ಕರ__n;
 ಅಭಾವ:ಅಭಾವ                             ಮುಷ್ಕರ__n;
 ಅಂಗೀಕೃತ:ಅಂಗೀಕೃತ                             ಮುಷ್ಕರ__n;
 ಅಸಹಕಾರ:ಅಸಹಕಾರ                             ಮುಷ್ಕರ__n;
-೧೯೪೩:೧೯೪೩                             ಮುಷ್ಕರ__n;
 ವಿಕಿರಣಶೀಲ:ವಿಕಿರಣಶೀಲ                             ಮುಷ್ಕರ__n;
 ರುದ್ರ:ರುದ್ರ                             ಮುಷ್ಕರ__n;
 ರಾಕ್ಷಸ:ರಾಕ್ಷಸ                             ಮುಷ್ಕರ__n;
@@ -11633,7 +11683,6 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಜೀವರಾಸಾಯನಿಕ:ಜೀವರಾಸಾಯನಿಕ                             ಮುಷ್ಕರ__n;
 ಜಿಲ್ಲೆ:ಜಿಲ್ಲೆ                             ಮುಷ್ಕರ__n;
 ಕಾರ್ತಿಕ:ಕಾರ್ತಿಕ                             ಮುಷ್ಕರ__n;
-೧೯೮೧:೧೯೮೧                             ಮುಷ್ಕರ__n;
 ಸ್ವರ್ಗ:ಸ್ವರ್ಗ                             ಮುಷ್ಕರ__n;
 ಸುಳ್ಯ:ಸುಳ್ಯ                             ಮುಷ್ಕರ__n;
 ಪದ್ಮಭೂಷಣ:ಪದ್ಮಭೂಷಣ                             ಮುಷ್ಕರ__n;
@@ -11673,7 +11722,7 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಮಲ್ಟಿಮೀಡಿಯಾ:ಮಲ್ಟಿಮೀಡಿಯಾ                             ಮುಷ್ಕರ__n;
 ಡಿಪ್ಲೊಮಾ:ಡಿಪ್ಲೊಮಾ                             ಮುಷ್ಕರ__n;
 ಆಲ್ಬಾ:ಆಲ್ಬಾ                             ಮುಷ್ಕರ__n;
-!K:K                             ಮುಷ್ಕರ__n;
+!
 ಶಬ್ಧದ:ಶಬ್ಧದ                             ಮುಷ್ಕರ__n;
 ವಿವಾದಾಸ್ಪದ:ವಿವಾದಾಸ್ಪದ                             ಮುಷ್ಕರ__n;
 ವಿದರ್ಭ:ವಿದರ್ಭ                             ಮುಷ್ಕರ__n;
@@ -11682,7 +11731,7 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಕಲ್ಕತ್ತ:ಕಲ್ಕತ್ತ                             ಮುಷ್ಕರ__n;
 ಇಪ್ಪತ್ತ:ಇಪ್ಪತ್ತ                             ಮುಷ್ಕರ__n;
 ಅಂತರಿಕ್ಷಯಾನ:ಅಂತರಿಕ್ಷಯಾನ                             ಮುಷ್ಕರ__n;
-!pH:pH                             ಮುಷ್ಕರ__n;
+!
 ಹರಿಯಾಣ:ಹರಿಯಾಣ                             ಮುಷ್ಕರ__n;
 ಸೋಮನಾಥ:ಸೋಮನಾಥ                             ಮುಷ್ಕರ__n;
 ಸಮುದ್ರಯಾನ:ಸಮುದ್ರಯಾನ                             ಮುಷ್ಕರ__n;
@@ -11701,7 +11750,7 @@ GHG:GHG                                                 ಮುಷ್ಕರ__n;
 ಮೇಳಕರ್ತ:ಮೇಳಕರ್ತ                             ಮುಷ್ಕರ__n;
 ದೃಷ್ಟಿಗೋಚರ:ದೃಷ್ಟಿಗೋಚರ                             ಮುಷ್ಕರ__n;
 ಚ.ಕಿ.ಮೀ.:ಚ.ಕಿ.ಮೀ.                             ಮುಷ್ಕರ__n;
-FM:FM                             ಮುಷ್ಕರ__n;
+
 ಸ್ವೀಕಾರ:ಸ್ವೀಕಾರ                             ಮುಷ್ಕರ__n;
 ಸಮಭಾಜಕ:ಸಮಭಾಜಕ                             ಮುಷ್ಕರ__n;
 ವೃತ್ತಿಶಿಕ್ಷಣ:ವೃತ್ತಿಶಿಕ್ಷಣ                             ಮುಷ್ಕರ__n;
@@ -11720,7 +11769,6 @@ FM:FM                             ಮುಷ್ಕರ__n;
 ಬಹುದಾದ:ಬಹುದಾದ                             ಮುಷ್ಕರ__n;
 ಕೇಂದ್ರಿತ:ಕೇಂದ್ರಿತ                             ಮುಷ್ಕರ__n;
 ಕಾರ್ಕಳ:ಕಾರ್ಕಳ                             ಮುಷ್ಕರ__n;
-!೧೯೫೧:೧೯೫೧                             ಮುಷ್ಕರ__n;
 ತಂಡ,:ತಂಡ,                             ಮುಷ್ಕರ__n;
 ಗಳಿಸಿದ್ದ:ಗಳಿಸಿದ್ದ                             ಮುಷ್ಕರ__n;
 ಅರ್ಥಶಾಸ್ತ್ರಜ್ಞ:ಅರ್ಥಶಾಸ್ತ್ರಜ್ಞ                             ಮುಷ್ಕರ__n;
@@ -11749,8 +11797,6 @@ FM:FM                             ಮುಷ್ಕರ__n;
 ದುಗ್ಧರಸ:ದುಗ್ಧರಸ                             ಮುಷ್ಕರ__n;
 ಜಾರ್ಜಿಯಾ:ಜಾರ್ಜಿಯಾ                             ಮುಷ್ಕರ__n;
 ಅತಿಮಾನುಷ:ಅತಿಮಾನುಷ                             ಮುಷ್ಕರ__n;
-!೧೯೬೧:೧೯೬೧                             ಮುಷ್ಕರ__n;
-!೧೯೧೧:೧೯೧೧                             ಮುಷ್ಕರ__n;
 ವಿತ್ತ:ವಿತ್ತ                             ಮುಷ್ಕರ__n;
 ಮರುವರ್ಷ:ಮರುವರ್ಷ                             ಮುಷ್ಕರ__n;
 ಭಾಗವಾಗಿದ್ದ:ಭಾಗವಾಗಿದ್ದ                             ಮುಷ್ಕರ__n;
@@ -11820,7 +11866,6 @@ FM:FM                             ಮುಷ್ಕರ__n;
 ಡಿಪ್ಲೊಮ:ಡಿಪ್ಲೊಮ                             ಮುಷ್ಕರ__n;
 ಚೂರ್ಣ:ಚೂರ್ಣ                             ಮುಷ್ಕರ__n;
 ಗಳಿಸುವುದರ:ಗಳಿಸುವುದರ                             ಮುಷ್ಕರ__n;
-ಕನ್ನಡ:ಕನ್ನಡ                             ಮುಷ್ಕರ__n;
 ಕತ್ರಿನಾ:ಕತ್ರಿನಾ                             ಮುಷ್ಕರ__n;
 ಐಹಿಕ:ಐಹಿಕ                             ಮುಷ್ಕರ__n;
 ಸ್ನೋ:ಸ್ನೋ                             ಮುಷ್ಕರ__n;
@@ -11833,7 +11878,7 @@ FM:FM                             ಮುಷ್ಕರ__n;
 ಗಣಿತಶಾಸ್ತ್ರ:ಗಣಿತಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
 ಕಂದ:ಕಂದ                             ಮುಷ್ಕರ__n;
 ಆರ್ದ್ರ:ಆರ್ದ್ರ                             ಮುಷ್ಕರ__n;
-NASA:NASA                             ಮುಷ್ಕರ__n;
+
 ಸಿದ್ದಾಪುರ:ಸಿದ್ದಾಪುರ                             ಮುಷ್ಕರ__n;
 ಮಾಲಾ:ಮಾಲಾ                             ಮುಷ್ಕರ__n;
 ಮಹಾವೀರ:ಮಹಾವೀರ                             ಮುಷ್ಕರ__n;
@@ -11841,7 +11886,7 @@ NASA:NASA                             ಮುಷ್ಕರ__n;
 ಮಧ್ಯಪ್ರದೇಶ:ಮಧ್ಯಪ್ರದೇಶ                             ಮುಷ್ಕರ__n;
 ಮಥುರಾ:ಮಥುರಾ                             ಮುಷ್ಕರ__n;
 ಫಾರ್ಮುಲಾ:ಫಾರ್ಮುಲಾ                             ಮುಷ್ಕರ__n;
-ಪ್ರಶಸ್ತಿ':ಪ್ರಶಸ್ತಿ'                             ಮುಷ್ಕರ__n;
+ಪ್ರಶಸ್ತಿ:ಪ್ರಶಸ್ತಿ                             ಮುಷ್ಕರ__n;
 ಪ್ರಕಾಶಮಾನ:ಪ್ರಕಾಶಮಾನ                             ಮುಷ್ಕರ__n;
 ನ್ಯೂಯಾರ್ಕ್,:ನ್ಯೂಯಾರ್ಕ್,                             ಮುಷ್ಕರ__n;
 ಜನಮತ:ಜನಮತ                             ಮುಷ್ಕರ__n;
@@ -11877,8 +11922,6 @@ NASA:NASA                             ಮುಷ್ಕರ__n;
 ಉತ್ತರಾರ್ಧದ:ಉತ್ತರಾರ್ಧದ                             ಮುಷ್ಕರ__n;
 ಇಂಡಿಕಾ:ಇಂಡಿಕಾ                             ಮುಷ್ಕರ__n;
 ಅವಮಾನ:ಅವಮಾನ                             ಮುಷ್ಕರ__n;
-SS:SS                             ಮುಷ್ಕರ__n;
-IMF:IMF                             ಮುಷ್ಕರ__n;
 ಹದ:ಹದ                             ಮುಷ್ಕರ__n;
 ಸುಬ್ರಮಣ್ಯ:ಸುಬ್ರಮಣ್ಯ                             ಮುಷ್ಕರ__n;
 ಸಮತೋಲ:ಸಮತೋಲ                             ಮುಷ್ಕರ__n;
@@ -11909,7 +11952,7 @@ IMF:IMF                             ಮುಷ್ಕರ__n;
 ಉತ್ತರಾಧಿಕಾರ:ಉತ್ತರಾಧಿಕಾರ                             ಮುಷ್ಕರ__n;
 ಅವಿರತ:ಅವಿರತ                             ಮುಷ್ಕರ__n;
 ಅನಾವರಣ:ಅನಾವರಣ                             ಮುಷ್ಕರ__n;
-NSA:NSA                             ಮುಷ್ಕರ__n;
+
 ಶಮನ:ಶಮನ                             ಮುಷ್ಕರ__n;
 ಯಶ:ಯಶ                             ಮುಷ್ಕರ__n;
 ಮೇಲ್ಮುಖ:ಮೇಲ್ಮುಖ                             ಮುಷ್ಕರ__n;
@@ -11937,7 +11980,7 @@ b:b                             ಮುಷ್ಕರ__n;
 ಆಶೀರ್ವಾದ:ಆಶೀರ್ವಾದ                             ಮುಷ್ಕರ__n;
 ಅವಶ್ಯ:ಅವಶ್ಯ                             ಮುಷ್ಕರ__n;
 ಅಪಘಾತದ:ಅಪಘಾತದ                             ಮುಷ್ಕರ__n;
-ಹೆಚ್ಚು):ಹೆಚ್ಚು)                             ಮುಷ್ಕರ__n;
+ಹೆಚ್ಚು:ಹೆಚ್ಚು                             ಮುಷ್ಕರ__n;
 ಸೌಲಭ್ಯ,:ಸೌಲಭ್ಯ,                             ಮುಷ್ಕರ__n;
 ಸರ್ಬಿಯಾ:ಸರ್ಬಿಯಾ                             ಮುಷ್ಕರ__n;
 ಸಮತೋಲಿತ:ಸಮತೋಲಿತ                             ಮುಷ್ಕರ__n;
@@ -11961,7 +12004,7 @@ b:b                             ಮುಷ್ಕರ__n;
 ಕೀನ್ಯಾ:ಕೀನ್ಯಾ                             ಮುಷ್ಕರ__n;
 ಕಡಪ:ಕಡಪ                             ಮುಷ್ಕರ__n;
 ಉತ್ತುಂಗ:ಉತ್ತುಂಗ                             ಮುಷ್ಕರ__n;
-USD:USD                             ಮುಷ್ಕರ__n;
+
 ಹೊನ್ನಾವರ:ಹೊನ್ನಾವರ                             ಮುಷ್ಕರ__n;
 ಸಂಭೋಗ:ಸಂಭೋಗ                             ಮುಷ್ಕರ__n;
 ಸೋಮ:ಸೋಮ                             ಮುಷ್ಕರ__n;
@@ -11982,7 +12025,7 @@ USD:USD                             ಮುಷ್ಕರ__n;
 ಅವ್ಯಕ್ತ:ಅವ್ಯಕ್ತ                             ಮುಷ್ಕರ__n;
 ಅಧ್ಯಾತ್ಮ:ಅಧ್ಯಾತ್ಮ                             ಮುಷ್ಕರ__n;
 ಅಜ್ಜಂಪುರ:ಅಜ್ಜಂಪುರ                             ಮುಷ್ಕರ__n;
-BCE:BCE                             ಮುಷ್ಕರ__n;
+
 ಹಿತಕರ:ಹಿತಕರ                             ಮುಷ್ಕರ__n;
 ಸಂನ್ಯಾಸ:ಸಂನ್ಯಾಸ                             ಮುಷ್ಕರ__n;
 ಸಂತಸ:ಸಂತಸ                             ಮುಷ್ಕರ__n;
@@ -11999,7 +12042,6 @@ BCE:BCE                             ಮುಷ್ಕರ__n;
 ಖಲೀಫಾ:ಖಲೀಫಾ                             ಮುಷ್ಕರ__n;
 ಅಂದ:ಅಂದ                             ಮುಷ್ಕರ__n;
 ಅನಾಮಿಕ:ಅನಾಮಿಕ                             ಮುಷ್ಕರ__n;
-೧೯೦೬:೧೯೦೬                             ಮುಷ್ಕರ__n;
 ಸಿಲಿಕಾ:ಸಿಲಿಕಾ                             ಮುಷ್ಕರ__n;
 ಸಿರಿಯಾ:ಸಿರಿಯಾ                             ಮುಷ್ಕರ__n;
 ರೂಢಿಗತ:ರೂಢಿಗತ                             ಮುಷ್ಕರ__n;
@@ -12018,7 +12060,7 @@ BCE:BCE                             ಮುಷ್ಕರ__n;
 ಕೋಲಾರದ:ಕೋಲಾರದ                             ಮುಷ್ಕರ__n;
 ಉತ್ತರಭಾಗದ:ಉತ್ತರಭಾಗದ                             ಮುಷ್ಕರ__n;
 ಆಲ್ಬರ್ಟಾ:ಆಲ್ಬರ್ಟಾ                             ಮುಷ್ಕರ__n;
-AM:AM                             ಮುಷ್ಕರ__n;
+
 ವಿಂಧ್ಯ:ವಿಂಧ್ಯ                             ಮುಷ್ಕರ__n;
 ವಿನಿಯೋಗ:ವಿನಿಯೋಗ                             ಮುಷ್ಕರ__n;
 ವಕ್ರ:ವಕ್ರ                             ಮುಷ್ಕರ__n;
@@ -12051,7 +12093,6 @@ AM:AM                             ಮುಷ್ಕರ__n;
 ಎಂಬುವ:ಎಂಬುವ                             ಮುಷ್ಕರ__n;
 ಅರುಣಾಚಲ:ಅರುಣಾಚಲ                             ಮುಷ್ಕರ__n;
 ಅನ್ಯೋನ್ಯ:ಅನ್ಯೋನ್ಯ                             ಮುಷ್ಕರ__n;
-೯೫:೯೫                             ಮುಷ್ಕರ__n;
 ಹೈದರಾಬಾದ:ಹೈದರಾಬಾದ                             ಮುಷ್ಕರ__n;
 ಸಂಮೋಹನ:ಸಂಮೋಹನ                             ಮುಷ್ಕರ__n;
 ಸುಶ್ರುತ:ಸುಶ್ರುತ                             ಮುಷ್ಕರ__n;
@@ -12075,8 +12116,6 @@ AM:AM                             ಮುಷ್ಕರ__n;
 ಅಶ್ವಮೇಧ:ಅಶ್ವಮೇಧ                             ಮುಷ್ಕರ__n;
 ಅರೇಬಿಯ:ಅರೇಬಿಯ                             ಮುಷ್ಕರ__n;
 ಅಮೃತಸರ:ಅಮೃತಸರ                             ಮುಷ್ಕರ__n;
-NATO:NATO                             ಮುಷ್ಕರ__n;
-೧೬೦೦:೧೬೦೦                             ಮುಷ್ಕರ__n;
 ಸಂಸ್ಕ್ರತ:ಸಂಸ್ಕ್ರತ                             ಮುಷ್ಕರ__n;
 ಸೂರ್ಯೋದಯ:ಸೂರ್ಯೋದಯ                             ಮುಷ್ಕರ__n;
 ಸಾಧಕ:ಸಾಧಕ                             ಮುಷ್ಕರ__n;
@@ -12094,12 +12133,12 @@ NATO:NATO                             ಮುಷ್ಕರ__n;
 ಕ್ರೈಸ್ತಧರ್ಮ:ಕ್ರೈಸ್ತಧರ್ಮ                             ಮುಷ್ಕರ__n;
 ಕ್ಯಾಲಿಫೊರ್ನಿಯಾ:ಕ್ಯಾಲಿಫೊರ್ನಿಯಾ                             ಮುಷ್ಕರ__n;
 ಕಾಂಗ್ರಾ:ಕಾಂಗ್ರಾ                             ಮುಷ್ಕರ__n;
-ಕಡಿಮೆ):ಕಡಿಮೆ)                             ಮುಷ್ಕರ__n;
+ಕಡಿಮೆ:ಕಡಿಮೆ                             ಮುಷ್ಕರ__n;
 ಏಕವಚನ:ಏಕವಚನ                             ಮುಷ್ಕರ__n;
-HPV:HPV                             ಮುಷ್ಕರ__n;
+
 ಸ್ವಾತಂತ್ರ್ಯಾ:ಸ್ವಾತಂತ್ರ್ಯಾ                             ಮುಷ್ಕರ__n;
 ಸೋಯಾ:ಸೋಯಾ                             ಮುಷ್ಕರ__n;
-ಸೇರಿ):ಸೇರಿ)                             ಮುಷ್ಕರ__n;
+ಸೇರಿ:ಸೇರಿ                             ಮುಷ್ಕರ__n;
 ಸೆಂಮೀ.:ಸೆಂಮೀ.                             ಮುಷ್ಕರ__n;
 ಸಾಂಬಾ:ಸಾಂಬಾ                             ಮುಷ್ಕರ__n;
 ಸರ್ವೋದಯ:ಸರ್ವೋದಯ                             ಮುಷ್ಕರ__n;
@@ -12119,14 +12158,14 @@ HPV:HPV                             ಮುಷ್ಕರ__n;
 ಅಹಂಕಾರ:ಅಹಂಕಾರ                             ಮುಷ್ಕರ__n;
 ಅರೇಬಿಯಾ:ಅರೇಬಿಯಾ                             ಮುಷ್ಕರ__n;
 ಅಪಹಾಸ್ಯ:ಅಪಹಾಸ್ಯ                             ಮುಷ್ಕರ__n;
-AMRO:AMRO                             ಮುಷ್ಕರ__n;
+
 ಹೌರಾ:ಹೌರಾ                             ಮುಷ್ಕರ__n;
 ಸ್ಕಿಜೋಫ್ರೇನಿಯಾ:ಸ್ಕಿಜೋಫ್ರೇನಿಯಾ                             ಮುಷ್ಕರ__n;
 ಸೌರಾಷ್ಟ್ರ:ಸೌರಾಷ್ಟ್ರ                             ಮುಷ್ಕರ__n;
 ಸುಧಾರಕ:ಸುಧಾರಕ                             ಮುಷ್ಕರ__n;
 ಶಿಶುನಾಳ:ಶಿಶುನಾಳ                             ಮುಷ್ಕರ__n;
 ವಿಷಾದ:ವಿಷಾದ                             ಮುಷ್ಕರ__n;
-(ಮೂಲ:(ಮೂಲ                             ಮುಷ್ಕರ__n;
+ಮೂಲ:ಮೂಲ                             ಮುಷ್ಕರ__n;
 ಭವನ,:ಭವನ,                             ಮುಷ್ಕರ__n;
 ಪ್ರಭ:ಪ್ರಭ                             ಮುಷ್ಕರ__n;
 ಪ್ರಖರ:ಪ್ರಖರ                             ಮುಷ್ಕರ__n;
@@ -12134,7 +12173,7 @@ AMRO:AMRO                             ಮುಷ್ಕರ__n;
 ಪರಿಧಮನಿಯ:ಪರಿಧಮನಿಯ                             ಮುಷ್ಕರ__n;
 ಪಟಿಯಾಲ:ಪಟಿಯಾಲ                             ಮುಷ್ಕರ__n;
 ನಯ:ನಯ                             ಮುಷ್ಕರ__n;
-ದಶಲಕ್ಷ):ದಶಲಕ್ಷ)                             ಮುಷ್ಕರ__n;
+ದಶಲಕ್ಷ:ದಶಲಕ್ಷ                             ಮುಷ್ಕರ__n;
 ತಿರುಮಲ:ತಿರುಮಲ                             ಮುಷ್ಕರ__n;
 ಚನ್ನಪಟ್ಟಣ:ಚನ್ನಪಟ್ಟಣ                             ಮುಷ್ಕರ__n;
 ಗೋಧಿಯ:ಗೋಧಿಯ                             ಮುಷ್ಕರ__n;
@@ -12148,8 +12187,7 @@ AMRO:AMRO                             ಮುಷ್ಕರ__n;
 ಅಮೋನಿಯ:ಅಮೋನಿಯ                             ಮುಷ್ಕರ__n;
 ಅಭಿಮುಖ:ಅಭಿಮುಖ                             ಮುಷ್ಕರ__n;
 ಅಗ್ನೇಯ:ಅಗ್ನೇಯ                             ಮುಷ್ಕರ__n;
-US$:US$                             ಮುಷ್ಕರ__n;
-km:km                             ಮುಷ್ಕರ__n;
+
 ಹಠ:ಹಠ                             ಮುಷ್ಕರ__n;
 ರಾಷ್ಟ್ರೀಕರಣ:ರಾಷ್ಟ್ರೀಕರಣ                             ಮುಷ್ಕರ__n;
 ಮೇಘಾಲಯ:ಮೇಘಾಲಯ                             ಮುಷ್ಕರ__n;
@@ -12189,15 +12227,14 @@ km:km                             ಮುಷ್ಕರ__n;
 ನಟನೆ,:ನಟನೆ,                             ಮುಷ್ಕರ__n;
 ದೊಡ್ಡಬಳ್ಳಾಪುರ:ದೊಡ್ಡಬಳ್ಳಾಪುರ                             ಮುಷ್ಕರ__n;
 ದರ್ಬಂಗ:ದರ್ಬಂಗ                             ಮುಷ್ಕರ__n;
-ಚಿತ್ರ):ಚಿತ್ರ)                             ಮುಷ್ಕರ__n;
+ಚಿತ್ರ:ಚಿತ್ರ                             ಮುಷ್ಕರ__n;
 ಕೋಲ:ಕೋಲ                             ಮುಷ್ಕರ__n;
 ಕೊಲ್ಕತ್ತಾ:ಕೊಲ್ಕತ್ತಾ                             ಮುಷ್ಕರ__n;
 ಕಲುಷಿತ:ಕಲುಷಿತ                             ಮುಷ್ಕರ__n;
 ಇಸ್ರೋ:ಇಸ್ರೋ                             ಮುಷ್ಕರ__n;
 ಅರಿಜೋನ:ಅರಿಜೋನ                             ಮುಷ್ಕರ__n;
 ಅಕ್ಟೋಬರ:ಅಕ್ಟೋಬರ                             ಮುಷ್ಕರ__n;
-α:α                             ಮುಷ್ಕರ__n;
-BC):BC)                             ಮುಷ್ಕರ__n;
+
 ಹೆಚ್ಚಿನಂಶ:ಹೆಚ್ಚಿನಂಶ                             ಮುಷ್ಕರ__n;
 ಸ್ಟೀರಿಯೋ:ಸ್ಟೀರಿಯೋ                             ಮುಷ್ಕರ__n;
 ಸೆರ್ಬಿಯ:ಸೆರ್ಬಿಯ                             ಮುಷ್ಕರ__n;
@@ -12209,21 +12246,19 @@ BC):BC)                             ಮುಷ್ಕರ__n;
 ಪೆಪ್ಸಿಕೋ:ಪೆಪ್ಸಿಕೋ                             ಮುಷ್ಕರ__n;
 ನಾಸಿಕ:ನಾಸಿಕ                             ಮುಷ್ಕರ__n;
 ದ್ವಾರಕಾ:ದ್ವಾರಕಾ                             ಮುಷ್ಕರ__n;
-ದಿನ):ದಿನ)                             ಮುಷ್ಕರ__n;
+ದಿನ:ದಿನ                             ಮುಷ್ಕರ__n;
 ಡಿಸೆಂಬರ:ಡಿಸೆಂಬರ                             ಮುಷ್ಕರ__n;
 ಕೇದಾರನಾಥ:ಕೇದಾರನಾಥ                             ಮುಷ್ಕರ__n;
 ಕಾಟ:ಕಾಟ                             ಮುಷ್ಕರ__n;
 ಕಣ್ಮನ:ಕಣ್ಮನ                             ಮುಷ್ಕರ__n;
 ಓಹಿಯೋ:ಓಹಿಯೋ                             ಮುಷ್ಕರ__n;
-'ಎ':'ಎ'                             ಮುಷ್ಕರ__n;
+ಎ:ಎ                             ಮುಷ್ಕರ__n;
 ಉಪಾಂತ್ಯ:ಉಪಾಂತ್ಯ                             ಮುಷ್ಕರ__n;
 ಉಪನಯನ:ಉಪನಯನ                             ಮುಷ್ಕರ__n;
 ಉಗ್ರವಾದ:ಉಗ್ರವಾದ                             ಮುಷ್ಕರ__n;
 ಆಯುಷ್ಯ:ಆಯುಷ್ಯ                             ಮುಷ್ಕರ__n;
 ಅಲ್ಬರ್ಟಾ:ಅಲ್ಬರ್ಟಾ                             ಮುಷ್ಕರ__n;
 ಅಜಂತಾ:ಅಜಂತಾ                             ಮುಷ್ಕರ__n;
-ID:ID                             ಮುಷ್ಕರ__n;
-೧೮೦೦:೧೮೦೦                             ಮುಷ್ಕರ__n;
 ಹವಾನಿಯಂತ್ರಿತ:ಹವಾನಿಯಂತ್ರಿತ                             ಮುಷ್ಕರ__n;
 ಸ್ವರಾಜ್ಯ:ಸ್ವರಾಜ್ಯ                             ಮುಷ್ಕರ__n;
 ಸಂಗಮೇಶ್ವರ:ಸಂಗಮೇಶ್ವರ                             ಮುಷ್ಕರ__n;
@@ -12251,8 +12286,6 @@ ID:ID                             ಮುಷ್ಕರ__n;
 ಅರೇನಾ:ಅರೇನಾ                             ಮುಷ್ಕರ__n;
 ಅನುಗ್ರಹ:ಅನುಗ್ರಹ                             ಮುಷ್ಕರ__n;
 β:β                             ಮುಷ್ಕರ__n;
-೨೫,೦೦೦:೨೫,೦೦೦                             ಮುಷ್ಕರ__n;
-೨,೫೦೦:೨,೫೦೦                             ಮುಷ್ಕರ__n;
 ಹೊರಗಣ:ಹೊರಗಣ                             ಮುಷ್ಕರ__n;
 ಸ್ಟೆಲ್ಲಾ:ಸ್ಟೆಲ್ಲಾ                             ಮುಷ್ಕರ__n;
 ಸಾರ್ವಭೌಮತ್ವ:ಸಾರ್ವಭೌಮತ್ವ                             ಮುಷ್ಕರ__n;
@@ -12284,7 +12317,6 @@ ID:ID                             ಮುಷ್ಕರ__n;
 ಅತಿಶಯ:ಅತಿಶಯ                             ಮುಷ್ಕರ__n;
 ಅಣ್ಣಾಮಲೈ:ಅಣ್ಣಾಮಲೈ                             ಮುಷ್ಕರ__n;
 ಅಕ್ಷಯ:ಅಕ್ಷಯ                             ಮುಷ್ಕರ__n;
-೭೫೦:೭೫೦                             ಮುಷ್ಕರ__n;
 ಹರ್ಷ:ಹರ್ಷ                             ಮುಷ್ಕರ__n;
 ಸಾಹೇಬ:ಸಾಹೇಬ                             ಮುಷ್ಕರ__n;
 ಸಹಸ್ರಮಾನ:ಸಹಸ್ರಮಾನ                             ಮುಷ್ಕರ__n;
@@ -12295,7 +12327,7 @@ ID:ID                             ಮುಷ್ಕರ__n;
 ವರ್ಧಮಾನ:ವರ್ಧಮಾನ                             ಮುಷ್ಕರ__n;
 ರೋಣ:ರೋಣ                             ಮುಷ್ಕರ__n;
 ಮಧ್ಯಯುಗೀಯ:ಮಧ್ಯಯುಗೀಯ                             ಮುಷ್ಕರ__n;
-(ಮಧ್ಯ:(ಮಧ್ಯ                             ಮುಷ್ಕರ__n;
+ಮಧ್ಯ:ಮಧ್ಯ                             ಮುಷ್ಕರ__n;
 ಮದ್ಯಸಾರ:ಮದ್ಯಸಾರ                             ಮುಷ್ಕರ__n;
 ಫಾರ್ಮಾ:ಫಾರ್ಮಾ                             ಮುಷ್ಕರ__n;
 ಪೃಥಕ್ಕರಣ:ಪೃಥಕ್ಕರಣ                             ಮುಷ್ಕರ__n;
@@ -12345,13 +12377,12 @@ Y:Y                             ಮುಷ್ಕರ__n;
 ಖೈದಾ:ಖೈದಾ                             ಮುಷ್ಕರ__n;
 ಕೋಸಲ:ಕೋಸಲ                             ಮುಷ್ಕರ__n;
 ಕೋಲಂಬಿಯಾ:ಕೋಲಂಬಿಯಾ                             ಮುಷ್ಕರ__n;
-ಕರೆಯಲಾಗುವ):ಕರೆಯಲಾಗುವ)                             ಮುಷ್ಕರ__n;
+ಕರೆಯಲಾಗುವ:ಕರೆಯಲಾಗುವ                             ಮುಷ್ಕರ__n;
 ಇಮಾಮ:ಇಮಾಮ                             ಮುಷ್ಕರ__n;
 ಇದೆಲ್ಲ:ಇದೆಲ್ಲ                             ಮುಷ್ಕರ__n;
 ಆಷಾಢ:ಆಷಾಢ                             ಮುಷ್ಕರ__n;
 ಅಭ್ಯುದಯ:ಅಭ್ಯುದಯ                             ಮುಷ್ಕರ__n;
-mm:mm                             ಮುಷ್ಕರ__n;
-EMI:EMI                             ಮುಷ್ಕರ__n;
+
 ಹೃದ್ರೋಗ:ಹೃದ್ರೋಗ                             ಮುಷ್ಕರ__n;
 ಸ್ನೇಹಪರ:ಸ್ನೇಹಪರ                             ಮುಷ್ಕರ__n;
 ಸ್ಥಾನೀಕರಣ:ಸ್ಥಾನೀಕರಣ                             ಮುಷ್ಕರ__n;
@@ -12374,7 +12405,7 @@ EMI:EMI                             ಮುಷ್ಕರ__n;
 ಪಿತ್ತರಸ:ಪಿತ್ತರಸ                             ಮುಷ್ಕರ__n;
 ನೀನಾಸಂ:ನೀನಾಸಂ                             ಮುಷ್ಕರ__n;
 ನಾಗ್ಪುರ:ನಾಗ್ಪುರ                             ಮುಷ್ಕರ__n;
-ನಗರ):ನಗರ)                             ಮುಷ್ಕರ__n;
+ನಗರ:ನಗರ                             ಮುಷ್ಕರ__n;
 ಧೂಪದ್ರವ್ಯ:ಧೂಪದ್ರವ್ಯ                             ಮುಷ್ಕರ__n;
 ಧರ್ಮಪ್ರಚಾರ:ಧರ್ಮಪ್ರಚಾರ                             ಮುಷ್ಕರ__n;
 ದೀಕ್ಷಾಸ್ನಾನ:ದೀಕ್ಷಾಸ್ನಾನ                             ಮುಷ್ಕರ__n;
@@ -12392,7 +12423,7 @@ EMI:EMI                             ಮುಷ್ಕರ__n;
 ಕಲಿಯುಗ:ಕಲಿಯುಗ                             ಮುಷ್ಕರ__n;
 ಉಪಖಂಡ:ಉಪಖಂಡ                             ಮುಷ್ಕರ__n;
 ಇರುವಂಥ:ಇರುವಂಥ                             ಮುಷ್ಕರ__n;
-EP:EP                             ಮುಷ್ಕರ__n;
+
 ಹರಿದ್ವಾರ:ಹರಿದ್ವಾರ                             ಮುಷ್ಕರ__n;
 ಸ್ವಾಭಿಮಾನ:ಸ್ವಾಭಿಮಾನ                             ಮುಷ್ಕರ__n;
 ಸ್ವಯಮಾಡಳಿತ:ಸ್ವಯಮಾಡಳಿತ                             ಮುಷ್ಕರ__n;
@@ -12455,7 +12486,7 @@ EP:EP                             ಮುಷ್ಕರ__n;
 ವಿಘಟನೀಯ:ವಿಘಟನೀಯ                             ಮುಷ್ಕರ__n;
 ಲೂಸಿಯಾನಾ:ಲೂಸಿಯಾನಾ                             ಮುಷ್ಕರ__n;
 ಲಿಗಾ:ಲಿಗಾ                             ಮುಷ್ಕರ__n;
-ರೂಪದಲ್ಲಿ):ರೂಪದಲ್ಲಿ)                             ಮುಷ್ಕರ__n;
+ರೂಪದಲ್ಲಿ:ರೂಪದಲ್ಲಿ                             ಮುಷ್ಕರ__n;
 ಯುಎಸ್‌ಎ:ಯುಎಸ್‌ಎ                             ಮುಷ್ಕರ__n;
 ಯಾಜ್ಞವಲ್ಕ್ಯ:ಯಾಜ್ಞವಲ್ಕ್ಯ                             ಮುಷ್ಕರ__n;
 ಮುಂಗೈ:ಮುಂಗೈ                             ಮುಷ್ಕರ__n;
@@ -12478,7 +12509,7 @@ EP:EP                             ಮುಷ್ಕರ__n;
 ಗೋವರ್ಧನ:ಗೋವರ್ಧನ                             ಮುಷ್ಕರ__n;
 ಕೇಂದ್ರೀಕರಣ:ಕೇಂದ್ರೀಕರಣ                             ಮುಷ್ಕರ__n;
 ಕುಂಬಳ:ಕುಂಬಳ                             ಮುಷ್ಕರ__n;
-ಕಾಲ):ಕಾಲ)                             ಮುಷ್ಕರ__n;
+ಕಾಲ:ಕಾಲ                             ಮುಷ್ಕರ__n;
 ಕಟ್ಟ:ಕಟ್ಟ                             ಮುಷ್ಕರ__n;
 ಋಣಭಾರ:ಋಣಭಾರ                             ಮುಷ್ಕರ__n;
 ಅಂಕಗಣಿತ:ಅಂಕಗಣಿತ                             ಮುಷ್ಕರ__n;
@@ -12489,7 +12520,7 @@ EP:EP                             ಮುಷ್ಕರ__n;
 ಹ್ಯಾರೋ:ಹ್ಯಾರೋ                             ಮುಷ್ಕರ__n;
 ಹೋಗುವಂತಹ:ಹೋಗುವಂತಹ                             ಮುಷ್ಕರ__n;
 ಹೇಳಿದ್ದ:ಹೇಳಿದ್ದ                             ಮುಷ್ಕರ__n;
-'ಸಂಗೀತ:'ಸಂಗೀತ                             ಮುಷ್ಕರ__n;
+ಸಂಗೀತ:ಸಂಗೀತ                             ಮುಷ್ಕರ__n;
 ಸಾಲಗಾರ:ಸಾಲಗಾರ                             ಮುಷ್ಕರ__n;
 ಸಮ್ಮಿಲನ:ಸಮ್ಮಿಲನ                             ಮುಷ್ಕರ__n;
 ಸಚ್ಚಿದಾನಂದ:ಸಚ್ಚಿದಾನಂದ                             ಮುಷ್ಕರ__n;
@@ -12528,7 +12559,7 @@ EP:EP                             ಮುಷ್ಕರ__n;
 ಅಣಕ:ಅಣಕ                             ಮುಷ್ಕರ__n;
 ಅಕ್ವೇರಿಯಂ:ಅಕ್ವೇರಿಯಂ                             ಮುಷ್ಕರ__n;
 ಹೆಲೆನಾ:ಹೆಲೆನಾ                             ಮುಷ್ಕರ__n;
-ಸ್ಥಳ):ಸ್ಥಳ)                             ಮುಷ್ಕರ__n;
+ಸ್ಥಳ:ಸ್ಥಳ                             ಮುಷ್ಕರ__n;
 ಸೌಭಾಗ್ಯ:ಸೌಭಾಗ್ಯ                             ಮುಷ್ಕರ__n;
 ಸಿಂಹಳ:ಸಿಂಹಳ                             ಮುಷ್ಕರ__n;
 ಸಮತೂಕ:ಸಮತೂಕ                             ಮುಷ್ಕರ__n;
@@ -12573,7 +12604,7 @@ EP:EP                             ಮುಷ್ಕರ__n;
 ಅರೋಗ್ಯ:ಅರೋಗ್ಯ                             ಮುಷ್ಕರ__n;
 ಅರೆನಾ:ಅರೆನಾ                             ಮುಷ್ಕರ__n;
 ಅತಿಕ್ರಮಣ:ಅತಿಕ್ರಮಣ                             ಮುಷ್ಕರ__n;
-LDL:LDL                             ಮುಷ್ಕರ__n;
+
 ಹಿಂಜರಿತ:ಹಿಂಜರಿತ                             ಮುಷ್ಕರ__n;
 ಸ್ವಾರಸ್ಯ:ಸ್ವಾರಸ್ಯ                             ಮುಷ್ಕರ__n;
 ಸಂಸ್ಕೃತ:ಸಂಸ್ಕೃತ                             ಮುಷ್ಕರ__n;
@@ -12618,8 +12649,7 @@ LDL:LDL                             ಮುಷ್ಕರ__n;
 ಅವಿನಾಭಾವ:ಅವಿನಾಭಾವ                             ಮುಷ್ಕರ__n;
 ಅವಹೇಳನ:ಅವಹೇಳನ                             ಮುಷ್ಕರ__n;
 ಅಡಳಿತ:ಅಡಳಿತ                             ಮುಷ್ಕರ__n;
-NH:NH                             ಮುಷ್ಕರ__n;
-A320:A320                             ಮುಷ್ಕರ__n;
+
 ಹೊಸರೂಪ:ಹೊಸರೂಪ                             ಮುಷ್ಕರ__n;
 ಹಳೆಗನ್ನಡ:ಹಳೆಗನ್ನಡ                             ಮುಷ್ಕರ__n;
 ಸ್ಥೈರ್ಯ:ಸ್ಥೈರ್ಯ                             ಮುಷ್ಕರ__n;
@@ -12635,7 +12665,7 @@ A320:A320                             ಮುಷ್ಕರ__n;
 ಶಾಖೋತ್ಪನ್ನ:ಶಾಖೋತ್ಪನ್ನ                             ಮುಷ್ಕರ__n;
 ವ್ಯಭಿಚಾರ:ವ್ಯಭಿಚಾರ                             ಮುಷ್ಕರ__n;
 ವೇದಾಧ್ಯಯನ:ವೇದಾಧ್ಯಯನ                             ಮುಷ್ಕರ__n;
-ವಿಭಾಗ):ವಿಭಾಗ)                             ಮುಷ್ಕರ__n;
+ವಿಭಾಗ:ವಿಭಾಗ                             ಮುಷ್ಕರ__n;
 ವಾತ್ಸಲ್ಯ:ವಾತ್ಸಲ್ಯ                             ಮುಷ್ಕರ__n;
 ವನವಾಸ:ವನವಾಸ                             ಮುಷ್ಕರ__n;
 ವಡೋದರ:ವಡೋದರ                             ಮುಷ್ಕರ__n;
@@ -12657,7 +12687,7 @@ A320:A320                             ಮುಷ್ಕರ__n;
 ಪರೀಕ್ಷಕ:ಪರೀಕ್ಷಕ                             ಮುಷ್ಕರ__n;
 ಪಟಿಯಾಲಾ:ಪಟಿಯಾಲಾ                             ಮುಷ್ಕರ__n;
 ನಿಷ್ಪನ್ನ:ನಿಷ್ಪನ್ನ                             ಮುಷ್ಕರ__n;
-ನಲ್ಲಿ):ನಲ್ಲಿ)                             ಮುಷ್ಕರ__n;
+ನಲ್ಲಿ:ನಲ್ಲಿ                             ಮುಷ್ಕರ__n;
 ಧೂಪ:ಧೂಪ                             ಮುಷ್ಕರ__n;
 ದೃಶ್ಯ,:ದೃಶ್ಯ,                             ಮುಷ್ಕರ__n;
 ತಾಳಗುಂದ:ತಾಳಗುಂದ                             ಮುಷ್ಕರ__n;
@@ -12669,7 +12699,7 @@ A320:A320                             ಮುಷ್ಕರ__n;
 ಜನಮನ:ಜನಮನ                             ಮುಷ್ಕರ__n;
 ಗಂಧ:ಗಂಧ                             ಮುಷ್ಕರ__n;
 ಗೋಲ್ಕೊಂಡ:ಗೋಲ್ಕೊಂಡ                             ಮುಷ್ಕರ__n;
-ಗುಂಪು):ಗುಂಪು)                             ಮುಷ್ಕರ__n;
+ಗುಂಪು:ಗುಂಪು                             ಮುಷ್ಕರ__n;
 ಕ್ಷೇಮ:ಕ್ಷೇಮ                             ಮುಷ್ಕರ__n;
 ಕ್ರೈಸ್ತಮತ:ಕ್ರೈಸ್ತಮತ                             ಮುಷ್ಕರ__n;
 ಕಾಲರಾ:ಕಾಲರಾ                             ಮುಷ್ಕರ__n;
@@ -12688,16 +12718,15 @@ A320:A320                             ಮುಷ್ಕರ__n;
 ಅನುಷ್ಟಾನ:ಅನುಷ್ಟಾನ                             ಮುಷ್ಕರ__n;
 ಅಥರ್ವವೇದ:ಅಥರ್ವವೇದ                             ಮುಷ್ಕರ__n;
 ಅಥ:ಅಥ                             ಮುಷ್ಕರ__n;
-GE:GE                             ಮುಷ್ಕರ__n;
-GB:GB                             ಮುಷ್ಕರ__n;
-ಹೊಂದಿರುವ):ಹೊಂದಿರುವ)                             ಮುಷ್ಕರ__n;
+
+ಹೊಂದಿರುವ:ಹೊಂದಿರುವ                             ಮುಷ್ಕರ__n;
 ಸಾಧಿಸಿದ್ದ:ಸಾಧಿಸಿದ್ದ                             ಮುಷ್ಕರ__n;
 ಸಾದೃಶ್ಯದ:ಸಾದೃಶ್ಯದ                             ಮುಷ್ಕರ__n;
 ಸಹಮತ:ಸಹಮತ                             ಮುಷ್ಕರ__n;
 ಸಲಿಂಗಕಾಮ:ಸಲಿಂಗಕಾಮ                             ಮುಷ್ಕರ__n;
 ಸಮ್ಮತ:ಸಮ್ಮತ                             ಮುಷ್ಕರ__n;
 ವ್ರೆಸಲ್‌ಮ್ಯಾನಿಯ:ವ್ರೆಸಲ್‌ಮ್ಯಾನಿಯ                             ಮುಷ್ಕರ__n;
-ವಸ್ತು):ವಸ್ತು)                             ಮುಷ್ಕರ__n;
+ವಸ್ತು:ವಸ್ತು                             ಮುಷ್ಕರ__n;
 ವರ್ಧನ:ವರ್ಧನ                             ಮುಷ್ಕರ__n;
 ಮೋಹ:ಮೋಹ                             ಮುಷ್ಕರ__n;
 ಮೃದುತ್ವ:ಮೃದುತ್ವ                             ಮುಷ್ಕರ__n;
@@ -12706,7 +12735,7 @@ GB:GB                             ಮುಷ್ಕರ__n;
 ಮನ್ರೋ:ಮನ್ರೋ                             ಮುಷ್ಕರ__n;
 ಭೂತಾನ:ಭೂತಾನ                             ಮುಷ್ಕರ__n;
 ಭೀಮಾಶಂಕರ:ಭೀಮಾಶಂಕರ                             ಮುಷ್ಕರ__n;
-ಬಳಕೆ):ಬಳಕೆ)                             ಮುಷ್ಕರ__n;
+ಬಳಕೆ:ಬಳಕೆ                             ಮುಷ್ಕರ__n;
 ಬಹುವಿಧ:ಬಹುವಿಧ                             ಮುಷ್ಕರ__n;
 ಫಿಲಡೆಲ್ಫಿಯಾ:ಫಿಲಡೆಲ್ಫಿಯಾ                             ಮುಷ್ಕರ__n;
 ಫಾಲ್ಗುಣ:ಫಾಲ್ಗುಣ                             ಮುಷ್ಕರ__n;
@@ -12728,8 +12757,7 @@ GB:GB                             ಮುಷ್ಕರ__n;
 ಅಂತರ್ವೇಶನ:ಅಂತರ್ವೇಶನ                             ಮುಷ್ಕರ__n;
 ಅನಿಯತ:ಅನಿಯತ                             ಮುಷ್ಕರ__n;
 ಅತೀತ:ಅತೀತ                             ಮುಷ್ಕರ__n;
-Maps:Maps                             ಮುಷ್ಕರ__n;
-IUCN:IUCN                             ಮುಷ್ಕರ__n;
+
 ಹಂಗೇರಿಯ:ಹಂಗೇರಿಯ                             ಮುಷ್ಕರ__n;
 ಹೈಸ್ಕೂಲ್,:ಹೈಸ್ಕೂಲ್,                             ಮುಷ್ಕರ__n;
 ಹೆಂಡ:ಹೆಂಡ                             ಮುಷ್ಕರ__n;
@@ -12747,7 +12775,7 @@ IUCN:IUCN                             ಮುಷ್ಕರ__n;
 ಶಾಸ್ತ್ರೋಕ್ತ:ಶಾಸ್ತ್ರೋಕ್ತ                             ಮುಷ್ಕರ__n;
 ಶಸ್ತ್ರವೈದ್ಯ:ಶಸ್ತ್ರವೈದ್ಯ                             ಮುಷ್ಕರ__n;
 ವ್ಯತಿಕರಣ:ವ್ಯತಿಕರಣ                             ಮುಷ್ಕರ__n;
-(ವಿಶ್ವ:(ವಿಶ್ವ                             ಮುಷ್ಕರ__n;
+ವಿಶ್ವ:ವಿಶ್ವ                             ಮುಷ್ಕರ__n;
 ವಿನಾಶಕ:ವಿನಾಶಕ                             ಮುಷ್ಕರ__n;
 ವಿದ್ಯುದಯಸ್ಕಾಂತ:ವಿದ್ಯುದಯಸ್ಕಾಂತ                             ಮುಷ್ಕರ__n;
 ವಿಚ್ಚೇದನ:ವಿಚ್ಚೇದನ                             ಮುಷ್ಕರ__n;
@@ -12793,9 +12821,9 @@ IUCN:IUCN                             ಮುಷ್ಕರ__n;
 ಓಕ್ಲಹೋಮ:ಓಕ್ಲಹೋಮ                             ಮುಷ್ಕರ__n;
 ಉಗಾಂಡ:ಉಗಾಂಡ                             ಮುಷ್ಕರ__n;
 ಇಂಡಿಯಾನ:ಇಂಡಿಯಾನ                             ಮುಷ್ಕರ__n;
-ಇಂಡಿಯಾ':ಇಂಡಿಯಾ'                             ಮುಷ್ಕರ__n;
+ಇಂಡಿಯಾ:ಇಂಡಿಯಾ                             ಮುಷ್ಕರ__n;
 ಇವುಗಳೆಲ್ಲ:ಇವುಗಳೆಲ್ಲ                             ಮುಷ್ಕರ__n;
-ಹೆಸರಾಗಿದೆ):ಹೆಸರಾಗಿದೆ)                             ಮುಷ್ಕರ__n;
+ಹೆಸರಾಗಿದೆ:ಹೆಸರಾಗಿದೆ                             ಮುಷ್ಕರ__n;
 ಹಸ್ತಾಂತರ:ಹಸ್ತಾಂತರ                             ಮುಷ್ಕರ__n;
 ಸೈಬೀರಿಯ:ಸೈಬೀರಿಯ                             ಮುಷ್ಕರ__n;
 ಸುರಪುರ:ಸುರಪುರ                             ಮುಷ್ಕರ__n;
@@ -12863,7 +12891,7 @@ IUCN:IUCN                             ಮುಷ್ಕರ__n;
 ಅಪೆರಾ:ಅಪೆರಾ                             ಮುಷ್ಕರ__n;
 ಅದರರ್ಥ:ಅದರರ್ಥ                             ಮುಷ್ಕರ__n;
 ಅತ:ಅತ                             ಮುಷ್ಕರ__n;
-BCE):BCE)                             ಮುಷ್ಕರ__n;
+BCE:BCE                             ಮುಷ್ಕರ__n;
 ಹುತ್ತ:ಹುತ್ತ                             ಮುಷ್ಕರ__n;
 ಸ್ವಾಸ್ಥ್ಯ:ಸ್ವಾಸ್ಥ್ಯ                             ಮುಷ್ಕರ__n;
 ಸ್ಥಗಿತ:ಸ್ಥಗಿತ                             ಮುಷ್ಕರ__n;
@@ -12879,7 +12907,7 @@ BCE):BCE)                             ಮುಷ್ಕರ__n;
 ಶಿವಪುರ:ಶಿವಪುರ                             ಮುಷ್ಕರ__n;
 ವಿರಸ:ವಿರಸ                             ಮುಷ್ಕರ__n;
 ವಿರಕ್ತ:ವಿರಕ್ತ                             ಮುಷ್ಕರ__n;
-'ವಿಜಯ:'ವಿಜಯ                             ಮುಷ್ಕರ__n;
+ವಿಜಯ:ವಿಜಯ                             ಮುಷ್ಕರ__n;
 ವಿಕ್ಟೊರಿಯಾ:ವಿಕ್ಟೊರಿಯಾ                             ಮುಷ್ಕರ__n;
 ರಾಸಯನಿಕ:ರಾಸಯನಿಕ                             ಮುಷ್ಕರ__n;
 ಮೃತ್ಯುಂಜಯ:ಮೃತ್ಯುಂಜಯ                             ಮುಷ್ಕರ__n;
@@ -12897,7 +12925,7 @@ BCE):BCE)                             ಮುಷ್ಕರ__n;
 ಪ್ರತಿವಾರ:ಪ್ರತಿವಾರ                             ಮುಷ್ಕರ__n;
 ಪಂಚಮ:ಪಂಚಮ                             ಮುಷ್ಕರ__n;
 ಪೂಜಿಸಿದ:ಪೂಜಿಸಿದ                             ಮುಷ್ಕರ__n;
-ಪುಸ್ತಕ):ಪುಸ್ತಕ)                             ಮುಷ್ಕರ__n;
+ಪುಸ್ತಕ:ಪುಸ್ತಕ                             ಮುಷ್ಕರ__n;
 ಪಾರಾಯಣ:ಪಾರಾಯಣ                             ಮುಷ್ಕರ__n;
 ಪಾದಾರ್ಪಣ:ಪಾದಾರ್ಪಣ                             ಮುಷ್ಕರ__n;
 ಪಯಣದ:ಪಯಣದ                             ಮುಷ್ಕರ__n;
@@ -12908,13 +12936,13 @@ BCE):BCE)                             ಮುಷ್ಕರ__n;
 ಜಾರ್ಜಿಯ:ಜಾರ್ಜಿಯ                             ಮುಷ್ಕರ__n;
 ಚಂದ್ರಯಾನ-1:ಚಂದ್ರಯಾನ-1                             ಮುಷ್ಕರ__n;
 ಚಲನಚಿತ್ರರಂಗ:ಚಲನಚಿತ್ರರಂಗ                             ಮುಷ್ಕರ__n;
-ಘಟಕ):ಘಟಕ)                             ಮುಷ್ಕರ__n;
+ಘಟಕ:ಘಟಕ                             ಮುಷ್ಕರ__n;
 ಗೌರವಧನ:ಗೌರವಧನ                             ಮುಷ್ಕರ__n;
 ಗೋಲ:ಗೋಲ                             ಮುಷ್ಕರ__n;
 ಕಂಠಪಾಠ:ಕಂಠಪಾಠ                             ಮುಷ್ಕರ__n;
 ಕೋಟಿಯ:ಕೋಟಿಯ                             ಮುಷ್ಕರ__n;
 ಕೊಲ್ಹಾಪುರ:ಕೊಲ್ಹಾಪುರ                             ಮುಷ್ಕರ__n;
-(ಕೇಂದ್ರ:(ಕೇಂದ್ರ                             ಮುಷ್ಕರ__n;
+ಕೇಂದ್ರ:ಕೇಂದ್ರ                             ಮುಷ್ಕರ__n;
 ಕಾಲುಭಾಗ:ಕಾಲುಭಾಗ                             ಮುಷ್ಕರ__n;
 ಕಳಸ:ಕಳಸ                             ಮುಷ್ಕರ__n;
 ಕಶ್ಯಪ:ಕಶ್ಯಪ                             ಮುಷ್ಕರ__n;
@@ -12935,8 +12963,7 @@ BCE):BCE)                             ಮುಷ್ಕರ__n;
 ಅಣುತೂಕ:ಅಣುತೂಕ                             ಮುಷ್ಕರ__n;
 ಅಜೀವ:ಅಜೀವ                             ಮುಷ್ಕರ__n;
 ಅಜೀರ್ಣ:ಅಜೀರ್ಣ                             ಮುಷ್ಕರ__n;
-UK,:UK,                             ಮುಷ್ಕರ__n;
-SAM:SAM                             ಮುಷ್ಕರ__n;
+
 ಹುಲಿವೇಷ:ಹುಲಿವೇಷ                             ಮುಷ್ಕರ__n;
 ಹುದುಗಿದ್ದ:ಹುದುಗಿದ್ದ                             ಮುಷ್ಕರ__n;
 ಹಿಂಬರಹ:ಹಿಂಬರಹ                             ಮುಷ್ಕರ__n;
@@ -12952,7 +12979,7 @@ SAM:SAM                             ಮುಷ್ಕರ__n;
 ವ್ಯಾಕೋಚನ:ವ್ಯಾಕೋಚನ                             ಮುಷ್ಕರ__n;
 ವಿಪ್ರೋ:ವಿಪ್ರೋ                             ಮುಷ್ಕರ__n;
 ವಿದ್ಯಾದಾನ:ವಿದ್ಯಾದಾನ                             ಮುಷ್ಕರ__n;
-ವಿಜ್ಞಾನ):ವಿಜ್ಞಾನ)                             ಮುಷ್ಕರ__n;
+ವಿಜ್ಞಾನ:ವಿಜ್ಞಾನ                             ಮುಷ್ಕರ__n;
 ವಿಕೇಂದ್ರೀಕರಣ:ವಿಕೇಂದ್ರೀಕರಣ                             ಮುಷ್ಕರ__n;
 ವಿe್ಞÁನ:ವಿe್ಞÁನ                             ಮುಷ್ಕರ__n;
 ವಾಯುಮಾಲಿನ್ಯ:ವಾಯುಮಾಲಿನ್ಯ                             ಮುಷ್ಕರ__n;
@@ -12965,7 +12992,7 @@ SAM:SAM                             ಮುಷ್ಕರ__n;
 ಮೇಘ:ಮೇಘ                             ಮುಷ್ಕರ__n;
 ಮುಲ್ಲಾ:ಮುಲ್ಲಾ                             ಮುಷ್ಕರ__n;
 ಮುಜುಗರ:ಮುಜುಗರ                             ಮುಷ್ಕರ__n;
-ಮೀನು):ಮೀನು)                             ಮುಷ್ಕರ__n;
+ಮೀನು:ಮೀನು                             ಮುಷ್ಕರ__n;
 ಮೀನ:ಮೀನ                             ಮುಷ್ಕರ__n;
 ಮಿಲಿಗ್ರಾಂ:ಮಿಲಿಗ್ರಾಂ                             ಮುಷ್ಕರ__n;
 ಮಾಫಿಯಾ:ಮಾಫಿಯಾ                             ಮುಷ್ಕರ__n;
@@ -13014,7 +13041,7 @@ SAM:SAM                             ಮುಷ್ಕರ__n;
 ಉಳಿದರ್ಧ:ಉಳಿದರ್ಧ                             ಮುಷ್ಕರ__n;
 ಉಪಸಂಹಾರ:ಉಪಸಂಹಾರ                             ಮುಷ್ಕರ__n;
 ಉಗಮಸ್ಥಾನ:ಉಗಮಸ್ಥಾನ                             ಮುಷ್ಕರ__n;
-ಇಂಡಿಯ':ಇಂಡಿಯ'                             ಮುಷ್ಕರ__n;
+ಇಂಡಿಯ:ಇಂಡಿಯ                             ಮುಷ್ಕರ__n;
 ಆಗಂತುಕ:ಆಗಂತುಕ                             ಮುಷ್ಕರ__n;
 ಆಗಸ್ಟ:ಆಗಸ್ಟ                             ಮುಷ್ಕರ__n;
 ಅಂಗೋಲ:ಅಂಗೋಲ                             ಮುಷ್ಕರ__n;
@@ -13025,14 +13052,13 @@ SAM:SAM                             ಮುಷ್ಕರ__n;
 ಅಪರಾಹ್ನ:ಅಪರಾಹ್ನ                             ಮುಷ್ಕರ__n;
 ಅನ್ನನಾಳ:ಅನ್ನನಾಳ                             ಮುಷ್ಕರ__n;
 ಅನುರಾಗ:ಅನುರಾಗ                             ಮುಷ್ಕರ__n;
-IC:IC                             ಮುಷ್ಕರ__n;
-A330-200:A330-200                             ಮುಷ್ಕರ__n;
+
 ಹೈಪೊಗ್ಲಿಸಿಮಿಯಾ:ಹೈಪೊಗ್ಲಿಸಿಮಿಯಾ                             ಮುಷ್ಕರ__n;
 ಸ್ವಾಮ್ಯಸೂಚಕ:ಸ್ವಾಮ್ಯಸೂಚಕ                             ಮುಷ್ಕರ__n;
 ಸ್ವಾತಂತ್ರ್ಯಪೂರ್ವ:ಸ್ವಾತಂತ್ರ್ಯಪೂರ್ವ                             ಮುಷ್ಕರ__n;
 ಸ್ಲೊವೆನಿಯಾ:ಸ್ಲೊವೆನಿಯಾ                             ಮುಷ್ಕರ__n;
 ಸ್ಟೀವಿಯಾ:ಸ್ಟೀವಿಯಾ                             ಮುಷ್ಕರ__n;
-ಸ್ಕೂಲ್):ಸ್ಕೂಲ್)                             ಮುಷ್ಕರ__n;
+ಸ್ಕೂಲ್:ಸ್ಕೂಲ್                             ಮುಷ್ಕರ__n;
 ಸಂಪಾದಕತ್ವ:ಸಂಪಾದಕತ್ವ                             ಮುಷ್ಕರ__n;
 ಸಂಕೋಚ:ಸಂಕೋಚ                             ಮುಷ್ಕರ__n;
 ಸಂ:ಸಂ                             ಮುಷ್ಕರ__n;
@@ -13058,7 +13084,7 @@ A330-200:A330-200                             ಮುಷ್ಕರ__n;
 ಲೀಸಾ:ಲೀಸಾ                             ಮುಷ್ಕರ__n;
 ರಾಜ್ಯಸಭಾ:ರಾಜ್ಯಸಭಾ                             ಮುಷ್ಕರ__n;
 ರಾಜಸೂಯ:ರಾಜಸೂಯ                             ಮುಷ್ಕರ__n;
-ರಸ್ತೆ):ರಸ್ತೆ)                             ಮುಷ್ಕರ__n;
+ರಸ್ತೆ:ರಸ್ತೆ                             ಮುಷ್ಕರ__n;
 ರಕ್ಷಕರ:ರಕ್ಷಕರ                             ಮುಷ್ಕರ__n;
 ಮಂದಾರ:ಮಂದಾರ                             ಮುಷ್ಕರ__n;
 ಮಂಗೋಲಿಯ:ಮಂಗೋಲಿಯ                             ಮುಷ್ಕರ__n;
@@ -13069,7 +13095,7 @@ A330-200:A330-200                             ಮುಷ್ಕರ__n;
 ಬಹುದೂರ:ಬಹುದೂರ                             ಮುಷ್ಕರ__n;
 ಪ್ರೊತ್ಸಾಹ:ಪ್ರೊತ್ಸಾಹ                             ಮುಷ್ಕರ__n;
 ಪ್ರಸವಪೂರ್ವ:ಪ್ರಸವಪೂರ್ವ                             ಮುಷ್ಕರ__n;
-ಪ್ರಮಾಣ):ಪ್ರಮಾಣ)                             ಮುಷ್ಕರ__n;
+ಪ್ರಮಾಣ:ಪ್ರಮಾಣ                             ಮುಷ್ಕರ__n;
 ಪಂಜಾಬ:ಪಂಜಾಬ                             ಮುಷ್ಕರ__n;
 ಪೂರ್ವಾರ್ಧ:ಪೂರ್ವಾರ್ಧ                             ಮುಷ್ಕರ__n;
 ಪುರ್ವಾರ್ಧ:ಪುರ್ವಾರ್ಧ                             ಮುಷ್ಕರ__n;
@@ -13100,13 +13126,13 @@ A330-200:A330-200                             ಮುಷ್ಕರ__n;
 ಗಡಸುತನ:ಗಡಸುತನ                             ಮುಷ್ಕರ__n;
 ಖುರ್ಮಾ:ಖುರ್ಮಾ                             ಮುಷ್ಕರ__n;
 ಕ್ಸಿಯಾ:ಕ್ಸಿಯಾ                             ಮುಷ್ಕರ__n;
-ಕ್ರಿಯೆ):ಕ್ರಿಯೆ)                             ಮುಷ್ಕರ__n;
+ಕ್ರಿಯೆ:ಕ್ರಿಯೆ                             ಮುಷ್ಕರ__n;
 ಕೊಲೊರಾಡೋ:ಕೊಲೊರಾಡೋ                             ಮುಷ್ಕರ__n;
 ಕೈಚಳಕ:ಕೈಚಳಕ                             ಮುಷ್ಕರ__n;
-(ಕೆಲ:(ಕೆಲ                             ಮುಷ್ಕರ__n;
+ಕೆಲ:ಕೆಲ                             ಮುಷ್ಕರ__n;
 ಕಿಟ್ಟ:ಕಿಟ್ಟ                             ಮುಷ್ಕರ__n;
 ಕಾಲ್ದಳ:ಕಾಲ್ದಳ                             ಮುಷ್ಕರ__n;
-(ಕರ್ನಾಟಕ:(ಕರ್ನಾಟಕ                             ಮುಷ್ಕರ__n;
+ಕರ್ನಾಟಕ:ಕರ್ನಾಟಕ                             ಮುಷ್ಕರ__n;
 ಓಡಿಐ:ಓಡಿಐ                             ಮುಷ್ಕರ__n;
 ಐಟಂ:ಐಟಂ                             ಮುಷ್ಕರ__n;
 ಏಕಕೋಶ:ಏಕಕೋಶ                             ಮುಷ್ಕರ__n;
@@ -13126,12 +13152,7 @@ A330-200:A330-200                             ಮುಷ್ಕರ__n;
 ಅಮೀಬ:ಅಮೀಬ                             ಮುಷ್ಕರ__n;
 ಅಮರತ್ವ:ಅಮರತ್ವ                             ಮುಷ್ಕರ__n;
 ಅಗೌರವ:ಅಗೌರವ                             ಮುಷ್ಕರ__n;
-Award:Award                             ಮುಷ್ಕರ__n;
-42%:42%                             ಮುಷ್ಕರ__n;
-3.8:3.8                             ಮುಷ್ಕರ__n;
-೩೦೦,೦೦೦:೩೦೦,೦೦೦                             ಮುಷ್ಕರ__n;
-(1981):(1981)                             ಮುಷ್ಕರ__n;
-೧೦೦೦೦:೧೦೦೦೦                             ಮುಷ್ಕರ__n;
+
 ಹೊಳೆನರಸೀಪುರ:ಹೊಳೆನರಸೀಪುರ                             ಮುಷ್ಕರ__n;
 ಹೆಚ್ಚಿದ್ದ:ಹೆಚ್ಚಿದ್ದ                             ಮುಷ್ಕರ__n;
 ಹರಿತ:ಹರಿತ                             ಮುಷ್ಕರ__n;
@@ -13139,7 +13160,7 @@ Award:Award                             ಮುಷ್ಕರ__n;
 ಹಕ್ಕೊತ್ತಾಯ:ಹಕ್ಕೊತ್ತಾಯ                             ಮುಷ್ಕರ__n;
 ಸಂವೇಗ:ಸಂವೇಗ                             ಮುಷ್ಕರ__n;
 ಸಂಮಿಶ್ರ:ಸಂಮಿಶ್ರ                             ಮುಷ್ಕರ__n;
-ಸಂಗೀತ):ಸಂಗೀತ)                             ಮುಷ್ಕರ__n;
+ಸಂಗೀತ:ಸಂಗೀತ                             ಮುಷ್ಕರ__n;
 ಸುವರ್ಣಯುಗ:ಸುವರ್ಣಯುಗ                             ಮುಷ್ಕರ__n;
 ಸಿಲಿಕಾಂಶ:ಸಿಲಿಕಾಂಶ                             ಮುಷ್ಕರ__n;
 ಸಾಂತ್ವನ:ಸಾಂತ್ವನ                             ಮುಷ್ಕರ__n;
@@ -13149,7 +13170,7 @@ Award:Award                             ಮುಷ್ಕರ__n;
 ಶಿಶಿರ:ಶಿಶಿರ                             ಮುಷ್ಕರ__n;
 ಶಿಕ್ಶಣ:ಶಿಕ್ಶಣ                             ಮುಷ್ಕರ__n;
 ಶಾಂತಿನಿಕೇತನ:ಶಾಂತಿನಿಕೇತನ                             ಮುಷ್ಕರ__n;
-ಶಾಸ್ತ್ರ):ಶಾಸ್ತ್ರ)                             ಮುಷ್ಕರ__n;
+ಶಾಸ್ತ್ರ:ಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
 ವಿಶಾಖಪಟ್ಟಣಂ:ವಿಶಾಖಪಟ್ಟಣಂ                             ಮುಷ್ಕರ__n;
 ವಿ.ವಿ.:ವಿ.ವಿ.                             ಮುಷ್ಕರ__n;
 ವಿಯನ್ನಾ:ವಿಯನ್ನಾ                             ಮುಷ್ಕರ__n;
@@ -13164,7 +13185,7 @@ Award:Award                             ಮುಷ್ಕರ__n;
 ಮೂಲಶಿಕ್ಷಣ:ಮೂಲಶಿಕ್ಷಣ                             ಮುಷ್ಕರ__n;
 ಮಹಾಲಿಂಗ:ಮಹಾಲಿಂಗ                             ಮುಷ್ಕರ__n;
 ಮಹಾಲಯ:ಮಹಾಲಯ                             ಮುಷ್ಕರ__n;
-ಮಹಾರಾಷ್ಟ್ರ):ಮಹಾರಾಷ್ಟ್ರ)                             ಮುಷ್ಕರ__n;
+ಮಹಾರಾಷ್ಟ್ರ:ಮಹಾರಾಷ್ಟ್ರ                             ಮುಷ್ಕರ__n;
 ಮರುಪ್ರವೇಶ:ಮರುಪ್ರವೇಶ                             ಮುಷ್ಕರ__n;
 ಮನಾಮ:ಮನಾಮ                             ಮುಷ್ಕರ__n;
 ಮನಶ್ಶಾಸ್ತ್ರ:ಮನಶ್ಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
@@ -13176,7 +13197,7 @@ Award:Award                             ಮುಷ್ಕರ__n;
 ಬಹುತೇಖ:ಬಹುತೇಖ                             ಮುಷ್ಕರ__n;
 ಬಲ್ಗೇರಿಯಾ:ಬಲ್ಗೇರಿಯಾ                             ಮುಷ್ಕರ__n;
 ಬಲಾತ್ಕಾರ:ಬಲಾತ್ಕಾರ                             ಮುಷ್ಕರ__n;
-ಪ್ರಾಣಿ):ಪ್ರಾಣಿ)                             ಮುಷ್ಕರ__n;
+ಪ್ರಾಣಿ:ಪ್ರಾಣಿ                             ಮುಷ್ಕರ__n;
 ಪ್ರಾಣತ್ಯಾಗ:ಪ್ರಾಣತ್ಯಾಗ                             ಮುಷ್ಕರ__n;
 ಪ್ರಸ್ತಾರ:ಪ್ರಸ್ತಾರ                             ಮುಷ್ಕರ__n;
 ಪೆನ್ಸಿವನಿಯ:ಪೆನ್ಸಿವನಿಯ                             ಮುಷ್ಕರ__n;
@@ -13202,7 +13223,7 @@ Award:Award                             ಮುಷ್ಕರ__n;
 ತಯಾರಿಸಿದ್ದ:ತಯಾರಿಸಿದ್ದ                             ಮುಷ್ಕರ__n;
 ಜೈಲುವಾಸ:ಜೈಲುವಾಸ                             ಮುಷ್ಕರ__n;
 ಜೇಷ್ಠ:ಜೇಷ್ಠ                             ಮುಷ್ಕರ__n;
-‘ಜೀವನ:‘ಜೀವನ                             ಮುಷ್ಕರ__n;
+ಜೀವನ:ಜೀವನ                             ಮುಷ್ಕರ__n;
 ಜನಿವಾರ:ಜನಿವಾರ                             ಮುಷ್ಕರ__n;
 ಚಂದ್ರಯಾನ:ಚಂದ್ರಯಾನ                             ಮುಷ್ಕರ__n;
 ಚಂದ:ಚಂದ                             ಮುಷ್ಕರ__n;
@@ -13217,12 +13238,10 @@ Award:Award                             ಮುಷ್ಕರ__n;
 ಕೃಷ್ಣರಾಜಸಾಗರ:ಕೃಷ್ಣರಾಜಸಾಗರ                             ಮುಷ್ಕರ__n;
 ಕಾಂತಾವರ:ಕಾಂತಾವರ                             ಮುಷ್ಕರ__n;
 ಕಾಲರ:ಕಾಲರ                             ಮುಷ್ಕರ__n;
-ಕರ್ನಾಟಕ':ಕರ್ನಾಟಕ'                             ಮುಷ್ಕರ__n;
-(ಕನ್ನಡ:(ಕನ್ನಡ                             ಮುಷ್ಕರ__n;
 ಕಡ್ಲೇವಾಡ:ಕಡ್ಲೇವಾಡ                             ಮುಷ್ಕರ__n;
 ಕಗ್ಗ:ಕಗ್ಗ                             ಮುಷ್ಕರ__n;
 ಔನ್ನತ್ಯ:ಔನ್ನತ್ಯ                             ಮುಷ್ಕರ__n;
-ಒಂದು):ಒಂದು)                             ಮುಷ್ಕರ__n;
+ಒಂದು:ಒಂದು                             ಮುಷ್ಕರ__n;
 ಒಳಗಣ:ಒಳಗಣ                             ಮುಷ್ಕರ__n;
 ಒಸಾಕಾ:ಒಸಾಕಾ                             ಮುಷ್ಕರ__n;
 ಉದ್ದುದ್ದ:ಉದ್ದುದ್ದ                             ಮುಷ್ಕರ__n;
@@ -13236,25 +13255,22 @@ Award:Award                             ಮುಷ್ಕರ__n;
 ಅಬಿಸೀನಿಯ:ಅಬಿಸೀನಿಯ                             ಮುಷ್ಕರ__n;
 ಅಪಸರಣ:ಅಪಸರಣ                             ಮುಷ್ಕರ__n;
 ಅನ್ನದಾನ:ಅನ್ನದಾನ                             ಮುಷ್ಕರ__n;
-UNICEF:UNICEF                             ಮುಷ್ಕರ__n;
-Council:Council                             ಮುಷ್ಕರ__n;
-ATM:ATM                             ಮುಷ್ಕರ__n;
-ಹೋಟೆಲ್':ಹೋಟೆಲ್'                             ಮುಷ್ಕರ__n;
+
+ಹೋಟೆಲ್:ಹೋಟೆಲ್                             ಮುಷ್ಕರ__n;
 ಹಿಂದುತ್ವ:ಹಿಂದುತ್ವ                             ಮುಷ್ಕರ__n;
 ಹಣದುಬ್ಬರವಿಳಿತ:ಹಣದುಬ್ಬರವಿಳಿತ                             ಮುಷ್ಕರ__n;
 ಸ್ವಾತ೦ತ್ರ್ಯ:ಸ್ವಾತ೦ತ್ರ್ಯ                             ಮುಷ್ಕರ__n;
 ಸ್ವಯಂವರ:ಸ್ವಯಂವರ                             ಮುಷ್ಕರ__n;
 ಸ್ವಯಂಭಕ್ಷಣ:ಸ್ವಯಂಭಕ್ಷಣ                             ಮುಷ್ಕರ__n;
 ಸ್ವದೇಶ:ಸ್ವದೇಶ                             ಮುಷ್ಕರ__n;
-ಸಂಕಲನ):ಸಂಕಲನ)                             ಮುಷ್ಕರ__n;
+ಸಂಕಲನ:ಸಂಕಲನ                             ಮುಷ್ಕರ__n;
 ಸೌಖ್ಯ:ಸೌಖ್ಯ                             ಮುಷ್ಕರ__n;
 ಸೋಡ:ಸೋಡ                             ಮುಷ್ಕರ__n;
 ಸುಮಾತ್ರಾ:ಸುಮಾತ್ರಾ                             ಮುಷ್ಕರ__n;
 ಸುಮಾತ್ರ:ಸುಮಾತ್ರ                             ಮುಷ್ಕರ__n;
 ಸಿದ್ಧಗಂಗಾ:ಸಿದ್ಧಗಂಗಾ                             ಮುಷ್ಕರ__n;
-'ಸಾಹಿತ್ಯ:'ಸಾಹಿತ್ಯ                             ಮುಷ್ಕರ__n;
+ಸಾಹಿತ್ಯ:ಸಾಹಿತ್ಯ                             ಮುಷ್ಕರ__n;
 ಸರ್ವನಾಶ:ಸರ್ವನಾಶ                             ಮುಷ್ಕರ__n;
-ಸಮಯ):ಸಮಯ)                             ಮುಷ್ಕರ__n;
 ಸಮತಾವಾದ:ಸಮತಾವಾದ                             ಮುಷ್ಕರ__n;
 ಸಮತಲೀಯ:ಸಮತಲೀಯ                             ಮುಷ್ಕರ__n;
 ಸದಾಚಾರ:ಸದಾಚಾರ                             ಮುಷ್ಕರ__n;
@@ -13273,9 +13289,9 @@ ATM:ATM                             ಮುಷ್ಕರ__n;
 ಲವಣಯುಕ್ತ:ಲವಣಯುಕ್ತ                             ಮುಷ್ಕರ__n;
 ರೋಧ:ರೋಧ                             ಮುಷ್ಕರ__n;
 ರಾಷ್ಟ್ರಧ್ವಜ:ರಾಷ್ಟ್ರಧ್ವಜ                             ಮುಷ್ಕರ__n;
-(ರಾಜ್ಯ:(ರಾಜ್ಯ                             ಮುಷ್ಕರ__n;
+ರಾಜ್ಯ:ರಾಜ್ಯ                             ಮುಷ್ಕರ__n;
 ರಭಸ:ರಭಸ                             ಮುಷ್ಕರ__n;
-`ಯುಗಪುರುಷ':`ಯುಗಪುರುಷ'                             ಮುಷ್ಕರ__n;
+`ಯುಗಪುರುಷ:`ಯುಗಪುರುಷ                             ಮುಷ್ಕರ__n;
 ಮಂಥನ:ಮಂಥನ                             ಮುಷ್ಕರ__n;
 ಮಂಜೂಷಾ:ಮಂಜೂಷಾ                             ಮುಷ್ಕರ__n;
 ಮೈದಾ:ಮೈದಾ                             ಮುಷ್ಕರ__n;
@@ -13291,7 +13307,7 @@ ATM:ATM                             ಮುಷ್ಕರ__n;
 ಮಮದಾಪುರ:ಮಮದಾಪುರ                             ಮುಷ್ಕರ__n;
 ಭೂಪಾಲ:ಭೂಪಾಲ                             ಮುಷ್ಕರ__n;
 ಭಾವೈಕ್ಯ:ಭಾವೈಕ್ಯ                             ಮುಷ್ಕರ__n;
-ಬಳಿ):ಬಳಿ)                             ಮುಷ್ಕರ__n;
+ಬಳಿ:ಬಳಿ                             ಮುಷ್ಕರ__n;
 ಬಲಪ್ರಯೋಗ:ಬಲಪ್ರಯೋಗ                             ಮುಷ್ಕರ__n;
 ಪ್ರಿಟೋರಿಯಾ:ಪ್ರಿಟೋರಿಯಾ                             ಮುಷ್ಕರ__n;
 ಪ್ರಾಯ:ಪ್ರಾಯ                             ಮುಷ್ಕರ__n;
@@ -13330,7 +13346,7 @@ ATM:ATM                             ಮುಷ್ಕರ__n;
 ಗಾಂಧೀನಗರ:ಗಾಂಧೀನಗರ                             ಮುಷ್ಕರ__n;
 ಖಾನಾಪುರ:ಖಾನಾಪುರ                             ಮುಷ್ಕರ__n;
 ಕ್ರೋಢೀಕರಣ:ಕ್ರೋಢೀಕರಣ                             ಮುಷ್ಕರ__n;
-ಕಂಪೆನಿ':ಕಂಪೆನಿ'                             ಮುಷ್ಕರ__n;
+ಕಂಪೆನಿ:ಕಂಪೆನಿ                             ಮುಷ್ಕರ__n;
 ಕೂಡಲಸಂಗಮ:ಕೂಡಲಸಂಗಮ                             ಮುಷ್ಕರ__n;
 ಕುಂದಗೋಳ:ಕುಂದಗೋಳ                             ಮುಷ್ಕರ__n;
 ಕಿರಾಣಾ:ಕಿರಾಣಾ                             ಮುಷ್ಕರ__n;
@@ -13341,7 +13357,7 @@ ATM:ATM                             ಮುಷ್ಕರ__n;
 ಕಾಮಾಕ್ಯ:ಕಾಮಾಕ್ಯ                             ಮುಷ್ಕರ__n;
 ಕರ್ಪುರ:ಕರ್ಪುರ                             ಮುಷ್ಕರ__n;
 ಕರ್ನಾಟಕ’:ಕರ್ನಾಟಕ’                             ಮುಷ್ಕರ__n;
-ಕರೆಯುವ):ಕರೆಯುವ)                             ಮುಷ್ಕರ__n;
+ಕರೆಯುವ:ಕರೆಯುವ                             ಮುಷ್ಕರ__n;
 ಕರುಣ:ಕರುಣ                             ಮುಷ್ಕರ__n;
 ಒಪ್ಪ:ಒಪ್ಪ                             ಮುಷ್ಕರ__n;
 ಏನೆಲ್ಲ:ಏನೆಲ್ಲ                             ಮುಷ್ಕರ__n;
@@ -13350,7 +13366,6 @@ ATM:ATM                             ಮುಷ್ಕರ__n;
 ಉಡುಪ:ಉಡುಪ                             ಮುಷ್ಕರ__n;
 ಇಂಡೋನೇಷ್ಯ:ಇಂಡೋನೇಷ್ಯ                             ಮುಷ್ಕರ__n;
 ಇಹ:ಇಹ                             ಮುಷ್ಕರ__n;
-(ಆಹಾರ:(ಆಹಾರ                             ಮುಷ್ಕರ__n;
 ಆಮೇರಿಕಾ:ಆಮೇರಿಕಾ                             ಮುಷ್ಕರ__n;
 ಆಕ್ರಮಣಕಾರ:ಆಕ್ರಮಣಕಾರ                             ಮುಷ್ಕರ__n;
 ಅಂಗರಚನಾಶಾಸ್ತ್ರ:ಅಂಗರಚನಾಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
@@ -13359,26 +13374,8 @@ ATM:ATM                             ಮುಷ್ಕರ__n;
 ಅಥರ್ವಣ:ಅಥರ್ವಣ                             ಮುಷ್ಕರ__n;
 ಅಟ್ಲಾಂಟ:ಅಟ್ಲಾಂಟ                             ಮುಷ್ಕರ__n;
 ಅಗೆತ:ಅಗೆತ                             ಮುಷ್ಕರ__n;
-Ω:Ω                             ಮುಷ್ಕರ__n;
-(UTC):(UTC)                             ಮುಷ್ಕರ__n;
-LG:LG                             ಮುಷ್ಕರ__n;
-HSV-1:HSV-1                             ಮುಷ್ಕರ__n;
-CE):CE)                             ಮುಷ್ಕರ__n;
-CCD:CCD                             ಮುಷ್ಕರ__n;
-950:950                             ಮುಷ್ಕರ__n;
-73%:73%                             ಮುಷ್ಕರ__n;
-310:310                             ಮುಷ್ಕರ__n;
-23,000:23,000                             ಮುಷ್ಕರ__n;
-218:218                             ಮುಷ್ಕರ__n;
-200ರ:200ರ                             ಮುಷ್ಕರ__n;
-(2000:(2000                             ಮುಷ್ಕರ__n;
-(1965):(1965)                             ಮುಷ್ಕರ__n;
-೧೮೯೧:೧೮೯೧                             ಮುಷ್ಕರ__n;
-1863:1863                             ಮುಷ್ಕರ__n;
-185:185                             ಮುಷ್ಕರ__n;
-12:12                             ಮುಷ್ಕರ__n;
 ಹಂದಿಮಾಂಸ:ಹಂದಿಮಾಂಸ                             ಮುಷ್ಕರ__n;
-ಹಂತ):ಹಂತ)                             ಮುಷ್ಕರ__n;
+ಹಂತ:ಹಂತ                             ಮುಷ್ಕರ__n;
 ಹುನಗುಂದ:ಹುನಗುಂದ                             ಮುಷ್ಕರ__n;
 ಹಿಂದೂಧರ್ಮ:ಹಿಂದೂಧರ್ಮ                             ಮುಷ್ಕರ__n;
 ಹರ್ಯಾಣ:ಹರ್ಯಾಣ                             ಮುಷ್ಕರ__n;
@@ -13405,7 +13402,7 @@ CCD:CCD                             ಮುಷ್ಕರ__n;
 ಶಿರಚ್ಛೇದನ:ಶಿರಚ್ಛೇದನ                             ಮುಷ್ಕರ__n;
 ಶಾಸನಶಾಸ್ತ್ರ:ಶಾಸನಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
 ಶರೀರಶಾಸ್ತ್ರ:ಶರೀರಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
-ವ್ಯಕ್ತಿ):ವ್ಯಕ್ತಿ)                             ಮುಷ್ಕರ__n;
+ವ್ಯಕ್ತಿ:ವ್ಯಕ್ತಿ                             ಮುಷ್ಕರ__n;
 ವೈಡೂರ್ಯ:ವೈಡೂರ್ಯ                             ಮುಷ್ಕರ__n;
 ವಿಷಯಕ:ವಿಷಯಕ                             ಮುಷ್ಕರ__n;
 ವಿಶ್ವರೂಪ:ವಿಶ್ವರೂಪ                             ಮುಷ್ಕರ__n;
@@ -13416,25 +13413,24 @@ CCD:CCD                             ಮುಷ್ಕರ__n;
 ವಾಸ್ತುಶಾಸ್ತ್ರ:ವಾಸ್ತುಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
 ವಾಙ್ಮಯ:ವಾಙ್ಮಯ                             ಮುಷ್ಕರ__n;
 ವಸ್ತುನಿಷ್ಠವಾದ:ವಸ್ತುನಿಷ್ಠವಾದ                             ಮುಷ್ಕರ__n;
-ವರ್ಗ):ವರ್ಗ)                             ಮುಷ್ಕರ__n;
+ವರ್ಗ:ವರ್ಗ                             ಮುಷ್ಕರ__n;
 ರೊಮಾನಿಯ:ರೊಮಾನಿಯ                             ಮುಷ್ಕರ__n;
 ರೇಖಣ:ರೇಖಣ                             ಮುಷ್ಕರ__n;
-ರೂ.೨೦:ರೂ.೨೦                             ಮುಷ್ಕರ__n;
 ರುಂಡ:ರುಂಡ                             ಮುಷ್ಕರ__n;
 ರಿಕೋ:ರಿಕೋ                             ಮುಷ್ಕರ__n;
-(ರಾಸಾಯನಿಕ:(ರಾಸಾಯನಿಕ                             ಮುಷ್ಕರ__n;
+ರಾಸಾಯನಿಕ:ರಾಸಾಯನಿಕ                             ಮುಷ್ಕರ__n;
 ರಾಜ್ಯಾಂಗ:ರಾಜ್ಯಾಂಗ                             ಮುಷ್ಕರ__n;
 ರಾಜವಂಶೀಯ:ರಾಜವಂಶೀಯ                             ಮುಷ್ಕರ__n;
-ಯಂತ್ರ):ಯಂತ್ರ)                             ಮುಷ್ಕರ__n;
+ಯಂತ್ರ:ಯಂತ್ರ                             ಮುಷ್ಕರ__n;
 ಯಾದವಾಡ:ಯಾದವಾಡ                             ಮುಷ್ಕರ__n;
 ಯಶಸ್ವಿಯಾಗದ:ಯಶಸ್ವಿಯಾಗದ                             ಮುಷ್ಕರ__n;
-ಮಂಡಳಿ):ಮಂಡಳಿ)                             ಮುಷ್ಕರ__n;
+ಮಂಡಳಿ:ಮಂಡಳಿ                             ಮುಷ್ಕರ__n;
 ಮಂಗಲ:ಮಂಗಲ                             ಮುಷ್ಕರ__n;
 ಮಿನೋಲ್ಟಾ:ಮಿನೋಲ್ಟಾ                             ಮುಷ್ಕರ__n;
 ಮಳೆಸುರಿತ:ಮಳೆಸುರಿತ                             ಮುಷ್ಕರ__n;
 ಮಲ್ಲಕಂಬ:ಮಲ್ಲಕಂಬ                             ಮುಷ್ಕರ__n;
 ಮರುರೂಪ:ಮರುರೂಪ                             ಮುಷ್ಕರ__n;
-ಮನೆ):ಮನೆ)                             ಮುಷ್ಕರ__n;
+ಮನೆ:ಮನೆ                             ಮುಷ್ಕರ__n;
 ಮಧ್ಯಕ:ಮಧ್ಯಕ                             ಮುಷ್ಕರ__n;
 ಭೂದಾನ:ಭೂದಾನ                             ಮುಷ್ಕರ__n;
 ಬೈಲಹೊಂಗಲ:ಬೈಲಹೊಂಗಲ                             ಮುಷ್ಕರ__n;
@@ -13449,7 +13445,7 @@ CCD:CCD                             ಮುಷ್ಕರ__n;
 ಪೌರೋಹಿತ್ಯ:ಪೌರೋಹಿತ್ಯ                             ಮುಷ್ಕರ__n;
 ಪಿಸ್ತಾ:ಪಿಸ್ತಾ                             ಮುಷ್ಕರ__n;
 ಪಿರಿಯಾಪಟ್ಟಣ:ಪಿರಿಯಾಪಟ್ಟಣ                             ಮುಷ್ಕರ__n;
-ಪಾಯಿಂಟ್):ಪಾಯಿಂಟ್)                             ಮುಷ್ಕರ__n;
+ಪಾಯಿಂಟ್:ಪಾಯಿಂಟ್                             ಮುಷ್ಕರ__n;
 ಪಾಕಶಾಸ್ತ್ರ:ಪಾಕಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
 ಪಾ:ಪಾ                             ಮುಷ್ಕರ__n;
 ಪಶ್ವಿಮ:ಪಶ್ವಿಮ                             ಮುಷ್ಕರ__n;
@@ -13461,7 +13457,7 @@ CCD:CCD                             ಮುಷ್ಕರ__n;
 ನಾಲ್ಕು-ಚಕ್ರ:ನಾಲ್ಕು-ಚಕ್ರ                             ಮುಷ್ಕರ__n;
 ನಾಲಾ:ನಾಲಾ                             ಮುಷ್ಕರ__n;
 ನವಜೀವನ:ನವಜೀವನ                             ಮುಷ್ಕರ__n;
-ನಗರ':ನಗರ'                             ಮುಷ್ಕರ__n;
+ನಗರ:ನಗರ                             ಮುಷ್ಕರ__n;
 ಧ್ವಜಾರೋಹಣ:ಧ್ವಜಾರೋಹಣ                             ಮುಷ್ಕರ__n;
 -ಧಾರವಾಡ:-ಧಾರವಾಡ                             ಮುಷ್ಕರ__n;
 ದೇಸಿಯ:ದೇಸಿಯ                             ಮುಷ್ಕರ__n;
@@ -13484,7 +13480,7 @@ CCD:CCD                             ಮುಷ್ಕರ__n;
 ಚಂಡೀಗಡ:ಚಂಡೀಗಡ                             ಮುಷ್ಕರ__n;
 ಚೆಂದ:ಚೆಂದ                             ಮುಷ್ಕರ__n;
 ಚೆಲ್ಸಿಯ:ಚೆಲ್ಸಿಯ                             ಮುಷ್ಕರ__n;
-ಚೆನ್ನೈ):ಚೆನ್ನೈ)                             ಮುಷ್ಕರ__n;
+ಚೆನ್ನೈ:ಚೆನ್ನೈ                             ಮುಷ್ಕರ__n;
 ಗಂಧಕಾಮ್ಲ:ಗಂಧಕಾಮ್ಲ                             ಮುಷ್ಕರ__n;
 ಗೌರಿಶಂಕರ:ಗೌರಿಶಂಕರ                             ಮುಷ್ಕರ__n;
 ಗೃಹಸ್ಥಾಶ್ರಮ:ಗೃಹಸ್ಥಾಶ್ರಮ                             ಮುಷ್ಕರ__n;
@@ -13524,43 +13520,27 @@ CCD:CCD                             ಮುಷ್ಕರ__n;
 ಅಲ್ಬೇನಿಯ:ಅಲ್ಬೇನಿಯ                             ಮುಷ್ಕರ__n;
 ಅರ್ಜೆಂಟೈನ:ಅರ್ಜೆಂಟೈನ                             ಮುಷ್ಕರ__n;
 ಅಯೋಧ್ಯಾ:ಅಯೋಧ್ಯಾ                             ಮುಷ್ಕರ__n;
-(ಅಮೆರಿಕ:(ಅಮೆರಿಕ                             ಮುಷ್ಕರ__n;
+ಅಮೆರಿಕ:ಅಮೆರಿಕ                             ಮುಷ್ಕರ__n;
 ಅಪರಾರ್ಧ:ಅಪರಾರ್ಧ                             ಮುಷ್ಕರ__n;
 ಅನ್ಯಾರ್ಥ:ಅನ್ಯಾರ್ಥ                             ಮುಷ್ಕರ__n;
 ಅಧಿಕಲಾಭ:ಅಧಿಕಲಾಭ                             ಮುಷ್ಕರ__n;
 ಅದೆಲ್ಲ:ಅದೆಲ್ಲ                             ಮುಷ್ಕರ__n;
 ಅಚ್ಚಕನ್ನಡ:ಅಚ್ಚಕನ್ನಡ                             ಮುಷ್ಕರ__n;
 ಅಕಾರ್ಬನಿಕ:ಅಕಾರ್ಬನಿಕ                             ಮುಷ್ಕರ__n;
-UCLA:UCLA                             ಮುಷ್ಕರ__n;
-Technology:Technology                             ಮುಷ್ಕರ__n;
-PRC:PRC                             ಮುಷ್ಕರ__n;
-MTPA:MTPA                             ಮುಷ್ಕರ__n;
-km²):km²)                             ಮುಷ್ಕರ__n;
-DSL:DSL                             ಮುಷ್ಕರ__n;
-CPC:CPC                             ಮುಷ್ಕರ__n;
-Co.:Co.                             ಮುಷ್ಕರ__n;
-$5:$5                             ಮುಷ್ಕರ__n;
-370:370                             ಮುಷ್ಕರ__n;
-36%:36%                             ಮುಷ್ಕರ__n;
-32%:32%                             ಮುಷ್ಕರ__n;
-2005):2005)                             ಮುಷ್ಕರ__n;
-೧೭೯೧:೧೭೯೧                             ಮುಷ್ಕರ__n;
-165:165                             ಮುಷ್ಕರ__n;
-೧೬೪:೧೬೪                             ಮುಷ್ಕರ__n;
-೧೪೧:೧೪೧                             ಮುಷ್ಕರ__n;
+
 ಹಬ್‍:ಹಬ್‍                             ಮುಷ್ಕರ__n;
 ಸ್ವಾತಂತ್ಯ:ಸ್ವಾತಂತ್ಯ                             ಮುಷ್ಕರ__n;
 ಸಂಹಿತಾ:ಸಂಹಿತಾ                             ಮುಷ್ಕರ__n;
 ಸಂಸ್ಕ್ರುತ:ಸಂಸ್ಕ್ರುತ                             ಮುಷ್ಕರ__n;
-ಸೇವೆ':ಸೇವೆ'                             ಮುಷ್ಕರ__n;
+ಸೇವೆ:ಸೇವೆ                             ಮುಷ್ಕರ__n;
 ಸೇವ:ಸೇವ                             ಮುಷ್ಕರ__n;
-ಸಿಸ್ಟಂ):ಸಿಸ್ಟಂ)                             ಮುಷ್ಕರ__n;
+ಸಿಸ್ಟಂ:ಸಿಸ್ಟಂ                             ಮುಷ್ಕರ__n;
 ಸಾರಂಗ:ಸಾರಂಗ                             ಮುಷ್ಕರ__n;
 ಸಾರಥ್ಯ:ಸಾರಥ್ಯ                             ಮುಷ್ಕರ__n;
 ಸಾಮಾರ್ಥ್ಯ:ಸಾಮಾರ್ಥ್ಯ                             ಮುಷ್ಕರ__n;
 ಸಕ್ರಮ:ಸಕ್ರಮ                             ಮುಷ್ಕರ__n;
 ಶ್ಲೋಕದ:ಶ್ಲೋಕದ                             ಮುಷ್ಕರ__n;
-ಶೋ':ಶೋ'                             ಮುಷ್ಕರ__n;
+ಶೋ:ಶೋ                             ಮುಷ್ಕರ__n;
 ಶೀರ್ಷಕ:ಶೀರ್ಷಕ                             ಮುಷ್ಕರ__n;
 ಶಿಖರಾರೋಹಣ:ಶಿಖರಾರೋಹಣ                             ಮುಷ್ಕರ__n;
 ಶಾಲ:ಶಾಲ                             ಮುಷ್ಕರ__n;
@@ -13578,7 +13558,7 @@ $5:$5                             ಮುಷ್ಕರ__n;
 ರೌದ್ರ:ರೌದ್ರ                             ಮುಷ್ಕರ__n;
 ರಣರಂಗ:ರಣರಂಗ                             ಮುಷ್ಕರ__n;
 ರಕ್ತಬಣ್ಣಕ:ರಕ್ತಬಣ್ಣಕ                             ಮುಷ್ಕರ__n;
-(ರಕ್ತ:(ರಕ್ತ                             ಮುಷ್ಕರ__n;
+ರಕ್ತ:ರಕ್ತ                             ಮುಷ್ಕರ__n;
 ಮಂಜೇಶ್ವರ:ಮಂಜೇಶ್ವರ                             ಮುಷ್ಕರ__n;
 ಮೇಲ:ಮೇಲ                             ಮುಷ್ಕರ__n;
 ಮೂಲಸ್ಥಳ:ಮೂಲಸ್ಥಳ                             ಮುಷ್ಕರ__n;
@@ -13598,9 +13578,9 @@ $5:$5                             ಮುಷ್ಕರ__n;
 ಬಾರ್ಸಿಲೋನ:ಬಾರ್ಸಿಲೋನ                             ಮುಷ್ಕರ__n;
 ಬಾಣಾವರ:ಬಾಣಾವರ                             ಮುಷ್ಕರ__n;
 ಬಲವರ್ಧಕ:ಬಲವರ್ಧಕ                             ಮುಷ್ಕರ__n;
-ಬಲ):ಬಲ)                             ಮುಷ್ಕರ__n;
+ಬಲ:ಬಲ                             ಮುಷ್ಕರ__n;
 ಪ್ರಪಂಚ’:ಪ್ರಪಂಚ’                             ಮುಷ್ಕರ__n;
-ಪಂದ್ಯ):ಪಂದ್ಯ)                             ಮುಷ್ಕರ__n;
+ಪಂದ್ಯ:ಪಂದ್ಯ                             ಮುಷ್ಕರ__n;
 ಪೊಲಿಯೋ:ಪೊಲಿಯೋ                             ಮುಷ್ಕರ__n;
 ಪೆನಿನ್ಸುಲಾ:ಪೆನಿನ್ಸುಲಾ                             ಮುಷ್ಕರ__n;
 ಪಾಯಸ:ಪಾಯಸ                             ಮುಷ್ಕರ__n;
@@ -13654,17 +13634,16 @@ $5:$5                             ಮುಷ್ಕರ__n;
 ಕುಮಟಾ:ಕುಮಟಾ                             ಮುಷ್ಕರ__n;
 ಕಾಲಾನುಕ್ರಮ:ಕಾಲಾನುಕ್ರಮ                             ಮುಷ್ಕರ__n;
 ಕಾಲಘಟ್ಟ:ಕಾಲಘಟ್ಟ                             ಮುಷ್ಕರ__n;
-ಕಾರ್ಯಕ್ರಮ':ಕಾರ್ಯಕ್ರಮ'                             ಮುಷ್ಕರ__n;
+ಕಾರ್ಯಕ್ರಮ:ಕಾರ್ಯಕ್ರಮ                             ಮುಷ್ಕರ__n;
 ಕಳಶ:ಕಳಶ                             ಮುಷ್ಕರ__n;
 ಕರ್ತೃತ್ವ:ಕರ್ತೃತ್ವ                             ಮುಷ್ಕರ__n;
-ಕರೆಯಲಾಗುತ್ತದೆ.):ಕರೆಯಲಾಗುತ್ತದೆ.)                             ಮುಷ್ಕರ__n;
+ಕರೆಯಲಾಗುತ್ತದೆ:ಕರೆಯಲಾಗುತ್ತದೆ                             ಮುಷ್ಕರ__n;
 ಕಬ್ಬಿಣಾಂಶ:ಕಬ್ಬಿಣಾಂಶ                             ಮುಷ್ಕರ__n;
-(ಕನ್ನಡ):(ಕನ್ನಡ)                             ಮುಷ್ಕರ__n;
 ಔದಾರ್ಯ:ಔದಾರ್ಯ                             ಮುಷ್ಕರ__n;
 ಔಚಿತ್ಯ:ಔಚಿತ್ಯ                             ಮುಷ್ಕರ__n;
 ಏಶಿಯ:ಏಶಿಯ                             ಮುಷ್ಕರ__n;
 ಏಕಕೋಶೀಯ:ಏಕಕೋಶೀಯ                             ಮುಷ್ಕರ__n;
-(ಎತ್ತರ:(ಎತ್ತರ                             ಮುಷ್ಕರ__n;
+ಎತ್ತರ:ಎತ್ತರ                             ಮುಷ್ಕರ__n;
 ಉಲ್ಲಾಳ:ಉಲ್ಲಾಳ                             ಮುಷ್ಕರ__n;
 ಉಬ್ಬಸ:ಉಬ್ಬಸ                             ಮುಷ್ಕರ__n;
 ಉಪಭೋಗ್ಯ:ಉಪಭೋಗ್ಯ                             ಮುಷ್ಕರ__n;
@@ -13672,7 +13651,7 @@ $5:$5                             ಮುಷ್ಕರ__n;
 ಆಶ್ವಯುಜ:ಆಶ್ವಯುಜ                             ಮುಷ್ಕರ__n;
 ಆಲಪುಳ:ಆಲಪುಳ                             ಮುಷ್ಕರ__n;
 ಆರ್ಥ:ಆರ್ಥ                             ಮುಷ್ಕರ__n;
-ಆಟ):ಆಟ)                             ಮುಷ್ಕರ__n;
+ಆಟ:ಆಟ                             ಮುಷ್ಕರ__n;
 ಅಂಡಾಕಾರ:ಅಂಡಾಕಾರ                             ಮುಷ್ಕರ__n;
 ಅಶ್ವಕರ್ಣ:ಅಶ್ವಕರ್ಣ                             ಮುಷ್ಕರ__n;
 ಅರ್ಧಾಯುಷ್ಯ:ಅರ್ಧಾಯುಷ್ಯ                             ಮುಷ್ಕರ__n;
@@ -13680,42 +13659,25 @@ $5:$5                             ಮುಷ್ಕರ__n;
 ಅರುಣೋದಯ:ಅರುಣೋದಯ                             ಮುಷ್ಕರ__n;
 ಅರಿಜೋನಾ:ಅರಿಜೋನಾ                             ಮುಷ್ಕರ__n;
 ಅಯೊವಾ:ಅಯೊವಾ                             ಮುಷ್ಕರ__n;
-(ಅಮೆರಿಕಾ:(ಅಮೆರಿಕಾ                             ಮುಷ್ಕರ__n;
+ಅಮೆರಿಕಾ:ಅಮೆರಿಕಾ                             ಮುಷ್ಕರ__n;
 ಅಕ್ರಮಣ:ಅಕ್ರಮಣ                             ಮುಷ್ಕರ__n;
-U.K.:U.K.                             ಮುಷ್ಕರ__n;
-PhD:PhD                             ಮುಷ್ಕರ__n;
-MAC:MAC                             ಮುಷ್ಕರ__n;
-function:function                             ಮುಷ್ಕರ__n;
-formula_32:formula_32                             ಮುಷ್ಕರ__n;
-formula_16:formula_16                             ಮುಷ್ಕರ__n;
-747-400:747-400                             ಮುಷ್ಕರ__n;
-೫-೩೦:೫-೩೦                             ಮುಷ್ಕರ__n;
-37,000:37,000                             ಮುಷ್ಕರ__n;
-22%:22%                             ಮುಷ್ಕರ__n;
-(2012):(2012)                             ಮುಷ್ಕರ__n;
-1842:1842                             ಮುಷ್ಕರ__n;
-೧೭೯೦:೧೭೯೦                             ಮುಷ್ಕರ__n;
-178:178                             ಮುಷ್ಕರ__n;
-12):12)                             ಮುಷ್ಕರ__n;
-1,000,000:1,000,000                             ಮುಷ್ಕರ__n;
-೧.೦:೧.೦                             ಮುಷ್ಕರ__n;
 ಹಸ್ತಮೈಥುನ:ಹಸ್ತಮೈಥುನ                             ಮುಷ್ಕರ__n;
 ಹವನ:ಹವನ                             ಮುಷ್ಕರ__n;
 ಹಲ:ಹಲ                             ಮುಷ್ಕರ__n;
 ಸ್ವಸ್ತಿಕ:ಸ್ವಸ್ತಿಕ                             ಮುಷ್ಕರ__n;
 ಸ್ವಯಮಾಧಿಕಾರ:ಸ್ವಯಮಾಧಿಕಾರ                             ಮುಷ್ಕರ__n;
-ಸ್ಥಿತಿ):ಸ್ಥಿತಿ)                             ಮುಷ್ಕರ__n;
+ಸ್ಥಿತಿ:ಸ್ಥಿತಿ                             ಮುಷ್ಕರ__n;
 ಸ್ಥಾನ-ಮಾನ:ಸ್ಥಾನ-ಮಾನ                             ಮುಷ್ಕರ__n;
-ಸಂಗ್ರಹ):ಸಂಗ್ರಹ)                             ಮುಷ್ಕರ__n;
+ಸಂಗ್ರಹ:ಸಂಗ್ರಹ)                             ಮುಷ್ಕರ__n;
 ಸೃಷ್ಟಿಸಿದ್ದ:ಸೃಷ್ಟಿಸಿದ್ದ                             ಮುಷ್ಕರ__n;
 ಸೂತಕ:ಸೂತಕ                             ಮುಷ್ಕರ__n;
 ಸುಮೇರಿಯಾ:ಸುಮೇರಿಯಾ                             ಮುಷ್ಕರ__n;
 ಸುಪಾ:ಸುಪಾ                             ಮುಷ್ಕರ__n;
 ಸುದೀರ್ಘಕಾಲ:ಸುದೀರ್ಘಕಾಲ                             ಮುಷ್ಕರ__n;
-ಸಿದ್ಧಾಂತ):ಸಿದ್ಧಾಂತ)                             ಮುಷ್ಕರ__n;
-ಸಿದ್ಧಾಂತ':ಸಿದ್ಧಾಂತ'                             ಮುಷ್ಕರ__n;
+ಸಿದ್ಧಾಂತ:ಸಿದ್ಧಾಂತ                             ಮುಷ್ಕರ__n;
+ಸಿದ್ಧಾಂತ:ಸಿದ್ಧಾಂತ                             ಮುಷ್ಕರ__n;
 ಸಿತಾರ:ಸಿತಾರ                             ಮುಷ್ಕರ__n;
-ಸಾಹಿತ್ಯ':ಸಾಹಿತ್ಯ'                             ಮುಷ್ಕರ__n;
+ಸಾಹಿತ್ಯ:ಸಾಹಿತ್ಯ                             ಮುಷ್ಕರ__n;
 ಸಾಮ:ಸಾಮ                             ಮುಷ್ಕರ__n;
 ಸಾಗಾ:ಸಾಗಾ                             ಮುಷ್ಕರ__n;
 ಸಮ್ಮಿಶ್ರಣ:ಸಮ್ಮಿಶ್ರಣ                             ಮುಷ್ಕರ__n;
@@ -13751,9 +13713,9 @@ formula_16:formula_16                             ಮುಷ್ಕರ__n;
 ರಾಷ್ಟ್ರಾಭಿಮಾನ:ರಾಷ್ಟ್ರಾಭಿಮಾನ                             ಮುಷ್ಕರ__n;
 ರಾಜ್ಯಾಧಿಕಾರ:ರಾಜ್ಯಾಧಿಕಾರ                             ಮುಷ್ಕರ__n;
 ರಕ್ತಸಾರ:ರಕ್ತಸಾರ                             ಮುಷ್ಕರ__n;
-ಯುದ್ಧ):ಯುದ್ಧ)                             ಮುಷ್ಕರ__n;
+ಯುದ್ಧ:ಯುದ್ಧ                             ಮುಷ್ಕರ__n;
 ಮ್ಯಾಕ್ರೋಮೀಡಿಯಾ:ಮ್ಯಾಕ್ರೋಮೀಡಿಯಾ                             ಮುಷ್ಕರ__n;
-ಮಂದಿರ':ಮಂದಿರ'                             ಮುಷ್ಕರ__n;
+ಮಂದಿರ:ಮಂದಿರ                             ಮುಷ್ಕರ__n;
 ಮೇವಾರ:ಮೇವಾರ                             ಮುಷ್ಕರ__n;
 ಮೇನಿಯಾ:ಮೇನಿಯಾ                             ಮುಷ್ಕರ__n;
 ಮೆಸೊಪೊಟೇಮಿಯ:ಮೆಸೊಪೊಟೇಮಿಯ                             ಮುಷ್ಕರ__n;
@@ -13812,7 +13774,7 @@ formula_16:formula_16                             ಮುಷ್ಕರ__n;
 ತತ್ಸಮಾನ:ತತ್ಸಮಾನ                             ಮುಷ್ಕರ__n;
 ತತ್ಕ್ಷಣ:ತತ್ಕ್ಷಣ                             ಮುಷ್ಕರ__n;
 ಡ್ರಾಮ:ಡ್ರಾಮ                             ಮುಷ್ಕರ__n;
-ಟೆಕ್ನಾಲಜಿ):ಟೆಕ್ನಾಲಜಿ)                             ಮುಷ್ಕರ__n;
+ಟೆಕ್ನಾಲಜಿ:ಟೆಕ್ನಾಲಜಿ                             ಮುಷ್ಕರ__n;
 ಜೀವನಚಕ್ರ:ಜೀವನಚಕ್ರ                             ಮುಷ್ಕರ__n;
 ಜನ್ಮಸ್ಥಾನ:ಜನ್ಮಸ್ಥಾನ                             ಮುಷ್ಕರ__n;
 ಜಡೋಷ್ಣ:ಜಡೋಷ್ಣ                             ಮುಷ್ಕರ__n;
@@ -13829,7 +13791,7 @@ formula_16:formula_16                             ಮುಷ್ಕರ__n;
 ಗಲ್ಲ:ಗಲ್ಲ                             ಮುಷ್ಕರ__n;
 ಕ್ಷೀರಸಾಗರ:ಕ್ಷೀರಸಾಗರ                             ಮುಷ್ಕರ__n;
 ಕೋಮಾ:ಕೋಮಾ                             ಮುಷ್ಕರ__n;
-ಕೇಂದ್ರ':ಕೇಂದ್ರ'                             ಮುಷ್ಕರ__n;
+ಕೇಂದ್ರ:ಕೇಂದ್ರ                             ಮುಷ್ಕರ__n;
 ಕೆಂಪುರಕ್ತ:ಕೆಂಪುರಕ್ತ                             ಮುಷ್ಕರ__n;
 ಕುಂಠಿತ:ಕುಂಠಿತ                             ಮುಷ್ಕರ__n;
 ಕಿಣ್ವಕ:ಕಿಣ್ವಕ                             ಮುಷ್ಕರ__n;
@@ -13838,12 +13800,11 @@ formula_16:formula_16                             ಮುಷ್ಕರ__n;
 ಕಲಿಂಗ:ಕಲಿಂಗ                             ಮುಷ್ಕರ__n;
 ಕರಣಿಕ:ಕರಣಿಕ                             ಮುಷ್ಕರ__n;
 “ಕನ್ನಡ:“ಕನ್ನಡ                             ಮುಷ್ಕರ__n;
-ಕಣಗಳು):ಕಣಗಳು)                             ಮುಷ್ಕರ__n;
+ಕಣಗಳು:ಕಣಗಳು                             ಮುಷ್ಕರ__n;
 ಕಟೇನಿಯ:ಕಟೇನಿಯ                             ಮುಷ್ಕರ__n;
 ಓಂಕಾರ:ಓಂಕಾರ                             ಮುಷ್ಕರ__n;
 ಒರಿಸ್ಸಾ:ಒರಿಸ್ಸಾ                             ಮುಷ್ಕರ__n;
 ಎರಿಟ್ರಿಯ:ಎರಿಟ್ರಿಯ                             ಮುಷ್ಕರ__n;
-ಎ380:ಎ380                             ಮುಷ್ಕರ__n;
 ಉಮೇರಿಯಾ:ಉಮೇರಿಯಾ                             ಮುಷ್ಕರ__n;
 ಉಬ್ಬುಚಿತ್ರ:ಉಬ್ಬುಚಿತ್ರ                             ಮುಷ್ಕರ__n;
 ಉನಾ:ಉನಾ                             ಮುಷ್ಕರ__n;
@@ -13851,9 +13812,8 @@ formula_16:formula_16                             ಮುಷ್ಕರ__n;
 ಉತ್ತರಪೂರ್ವ:ಉತ್ತರಪೂರ್ವ                             ಮುಷ್ಕರ__n;
 ಉತ್ತರದಾಯಿತ್ವ:ಉತ್ತರದಾಯಿತ್ವ                             ಮುಷ್ಕರ__n;
 ಉತ್ಕಲ:ಉತ್ಕಲ                             ಮುಷ್ಕರ__n;
-(ಆಂಗ್ಲ:(ಆಂಗ್ಲ                             ಮುಷ್ಕರ__n;
+ಆಂಗ್ಲ:ಆಂಗ್ಲ                             ಮುಷ್ಕರ__n;
 ಆರ್ಭಟ:ಆರ್ಭಟ                             ಮುಷ್ಕರ__n;
-(ಆನಂತರ:(ಆನಂತರ                             ಮುಷ್ಕರ__n;
 ಆಧುನಿಕೀಕರಣ:ಆಧುನಿಕೀಕರಣ                             ಮುಷ್ಕರ__n;
 ಆಡಂಬರ:ಆಡಂಬರ                             ಮುಷ್ಕರ__n;
 ಆಡಳಿತಾಧಿಕಾರ:ಆಡಳಿತಾಧಿಕಾರ                             ಮುಷ್ಕರ__n;
@@ -13871,8 +13831,6 @@ formula_16:formula_16                             ಮುಷ್ಕರ__n;
 ಅಧಿಕಾಂಶ:ಅಧಿಕಾಂಶ                             ಮುಷ್ಕರ__n;
 ಅತಿಕ್ರಮ:ಅತಿಕ್ರಮ                             ಮುಷ್ಕರ__n;
 ಅಜ್ಞಾತವಾಸ:ಅಜ್ಞಾತವಾಸ                             ಮುಷ್ಕರ__n;
-rpm:rpm                             ಮುಷ್ಕರ__n;
-A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ಹೊಳ್ಳ:ಹೊಳ್ಳ                             ಮುಷ್ಕರ__n;
 ಹೊರತಾಗಿರುವ:ಹೊರತಾಗಿರುವ                             ಮುಷ್ಕರ__n;
 ಹೊರಚರ್ಮ:ಹೊರಚರ್ಮ                             ಮುಷ್ಕರ__n;
@@ -13891,7 +13849,7 @@ A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ಸ್ಥೂಲಕಾಯ:ಸ್ಥೂಲಕಾಯ                             ಮುಷ್ಕರ__n;
 ಸ್ಥಾಯಿತ್ವ:ಸ್ಥಾಯಿತ್ವ                             ಮುಷ್ಕರ__n;
 ಸ್ತಂಭನದ:ಸ್ತಂಭನದ                             ಮುಷ್ಕರ__n;
-ಸಂಘ',:ಸಂಘ',                             ಮುಷ್ಕರ__n;
+ಸಂಘ:ಸಂಘ                          		  ಮುಷ್ಕರ__n;
 ಸುಯೋಗ:ಸುಯೋಗ                             ಮುಷ್ಕರ__n;
 ಸುಜನನಶಾಸ್ತ್ರ:ಸುಜನನಶಾಸ್ತ್ರ                             ಮುಷ್ಕರ__n;
 ಸಿನಿಮಾರಂಗದ:ಸಿನಿಮಾರಂಗದ                             ಮುಷ್ಕರ__n;
@@ -13900,10 +13858,9 @@ A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ಸಾನ್ನಿಧ್ಯ:ಸಾನ್ನಿಧ್ಯ                             ಮುಷ್ಕರ__n;
 ಸರ್ಬಿಯ:ಸರ್ಬಿಯ                             ಮುಷ್ಕರ__n;
 ಸಮಾನಾರ್ಥ:ಸಮಾನಾರ್ಥ                             ಮುಷ್ಕರ__n;
-!(ಸದ್ಯ:(ಸದ್ಯ                             ಮುಷ್ಕರ__n;
+ಸದ್ಯ:ಸದ್ಯ                             ಮುಷ್ಕರ__n;
 ಸ೦ಪರ್ಕ:ಸ೦ಪರ್ಕ                             ಮುಷ್ಕರ__n;
 ಷರಿಯಾ:ಷರಿಯಾ                             ಮುಷ್ಕರ__n;
-ಶೇ.20:ಶೇ.20                             ಮುಷ್ಕರ__n;
 ಶುಷ್ಕೀಕರಣ:ಶುಷ್ಕೀಕರಣ                             ಮುಷ್ಕರ__n;
 ಶಾನ:ಶಾನ                             ಮುಷ್ಕರ__n;
 ಶಬ್ದವೇಗಾತೀತ:ಶಬ್ದವೇಗಾತೀತ                             ಮುಷ್ಕರ__n;
@@ -13923,7 +13880,7 @@ A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ವಾಣೀಜ್ಯ:ವಾಣೀಜ್ಯ                             ಮುಷ್ಕರ__n;
 ವಾಚ್ಯಾರ್ಥ:ವಾಚ್ಯಾರ್ಥ                             ಮುಷ್ಕರ__n;
 ವಸ್ತ್ರವಿನ್ಯಾಸ:ವಸ್ತ್ರವಿನ್ಯಾಸ                             ಮುಷ್ಕರ__n;
-ವರ್ಷ':ವರ್ಷ'                             ಮುಷ್ಕರ__n;
+ವರ್ಷ:ವರ್ಷ                             ಮುಷ್ಕರ__n;
 ವಡಾಲ:ವಡಾಲ                             ಮುಷ್ಕರ__n;
 ಲಿಮಾ:ಲಿಮಾ                             ಮುಷ್ಕರ__n;
 ರಂಗಸ್ಥಳ:ರಂಗಸ್ಥಳ                             ಮುಷ್ಕರ__n;
@@ -13996,11 +13953,11 @@ A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ಚೈನ:ಚೈನ                             ಮುಷ್ಕರ__n;
 ಚಿಲ್ಕ:ಚಿಲ್ಕ                             ಮುಷ್ಕರ__n;
 ಚಿತ್ರೋತ್ಸವ:ಚಿತ್ರೋತ್ಸವ                             ಮುಷ್ಕರ__n;
-ಚಿತ್ರ':ಚಿತ್ರ'                             ಮುಷ್ಕರ__n;
-(ಚರ್ಮ:(ಚರ್ಮ                             ಮುಷ್ಕರ__n;
+ಚಿತ್ರ:ಚಿತ್ರ                             ಮುಷ್ಕರ__n;
+ಚರ್ಮ:ಚರ್ಮ                             ಮುಷ್ಕರ__n;
 ಚಚ್ಚೌಕ:ಚಚ್ಚೌಕ                             ಮುಷ್ಕರ__n;
 ಘರ್ಷಣ:ಘರ್ಷಣ                             ಮುಷ್ಕರ__n;
-ಗ್ರಂಥ':ಗ್ರಂಥ'                             ಮುಷ್ಕರ__n;
+ಗ್ರಂಥ:ಗ್ರಂಥ                             ಮುಷ್ಕರ__n;
 ಗ್ಯಾಲಕ್ಟಿಕಾ:ಗ್ಯಾಲಕ್ಟಿಕಾ                             ಮುಷ್ಕರ__n;
 ಗಳಗನಾಥ:ಗಳಗನಾಥ                             ಮುಷ್ಕರ__n;
 ಗವಿಮಠ:ಗವಿಮಠ                             ಮುಷ್ಕರ__n;
@@ -14022,11 +13979,11 @@ A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ಕಿಲೊಗ್ರಾಂ:ಕಿಲೊಗ್ರಾಂ                             ಮುಷ್ಕರ__n;
 ಕಿಲಾ:ಕಿಲಾ                             ಮುಷ್ಕರ__n;
 ಕಾಲ್ಚೆಂಡಾಟ:ಕಾಲ್ಚೆಂಡಾಟ                             ಮುಷ್ಕರ__n;
-ಕಾರ್ಯ):ಕಾರ್ಯ)                             ಮುಷ್ಕರ__n;
+ಕಾರ್ಯ:ಕಾರ್ಯ                             ಮುಷ್ಕರ__n;
 ಕಾರ್ಮಿಕವರ್ಗ:ಕಾರ್ಮಿಕವರ್ಗ                             ಮುಷ್ಕರ__n;
 ಕಾಮಾಕುರಾ:ಕಾಮಾಕುರಾ                             ಮುಷ್ಕರ__n;
 ಕಲಿಲ:ಕಲಿಲ                             ಮುಷ್ಕರ__n;
-’ಕರ್ನಾಟಕ:’ಕರ್ನಾಟಕ                             ಮುಷ್ಕರ__n;
+ಕರ್ನಾಟಕ:ಕರ್ನಾಟಕ                             ಮುಷ್ಕರ__n;
 ಕಮಾಂಡೋ:ಕಮಾಂಡೋ                             ಮುಷ್ಕರ__n;
 ಕನ್ಯಾದಾನ:ಕನ್ಯಾದಾನ                             ಮುಷ್ಕರ__n;
 ಕದ:ಕದ                             ಮುಷ್ಕರ__n;
@@ -14058,16 +14015,6 @@ A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ಅತಂತ್ರ:ಅತಂತ್ರ                             ಮುಷ್ಕರ__n;
 ಅಕ್ಷಿಪಟಲ:ಅಕ್ಷಿಪಟಲ                             ಮುಷ್ಕರ__n;
 ಅಕ್ಷರಾಭ್ಯಾಸ:ಅಕ್ಷರಾಭ್ಯಾಸ                             ಮುಷ್ಕರ__n;
-!೭೦೦,೦೦೦:೭೦೦,೦೦೦                             ಮುಷ್ಕರ__n;
-!4.9:4.9                             ಮುಷ್ಕರ__n;
-!314:314                             ಮುಷ್ಕರ__n;
-!(3),:(3),                             ಮುಷ್ಕರ__n;
-!2.9:2.9                             ಮುಷ್ಕರ__n;
-!245:245                             ಮುಷ್ಕರ__n;
-!(೧೯೭೪):(೧೯೭೪)                             ಮುಷ್ಕರ__n;
-!130,000:130,000                             ಮುಷ್ಕರ__n;
-೧೩,೦೦೦:೧೩,೦೦೦                             ಮುಷ್ಕರ__n;
-−1:−1                             ಮುಷ್ಕರ__n;
 ಹೈಡ್ರಾ:ಹೈಡ್ರಾ                             ಮುಷ್ಕರ__n;
 ಹೆಬ್ಬಾಳ:ಹೆಬ್ಬಾಳ                             ಮುಷ್ಕರ__n;
 ಹೆಪ್ಪುಕಾರಕ:ಹೆಪ್ಪುಕಾರಕ                             ಮುಷ್ಕರ__n;
@@ -14075,7 +14022,7 @@ A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ಹುತ್ರಿದುರ್ಗ:ಹುತ್ರಿದುರ್ಗ                             ಮುಷ್ಕರ__n;
 ಹಸ್ತಿನಾಪುರ:ಹಸ್ತಿನಾಪುರ                             ಮುಷ್ಕರ__n;
 ಹರಪ್ಪಾ:ಹರಪ್ಪಾ                             ಮುಷ್ಕರ__n;
-ಹಬ್ಬ':ಹಬ್ಬ'                             ಮುಷ್ಕರ__n;
+ಹಬ್ಬ:ಹಬ್ಬ                             ಮುಷ್ಕರ__n;
 ಹಣಸಹಾಯ:ಹಣಸಹಾಯ                             ಮುಷ್ಕರ__n;
 ಹಠಯೋಗ:ಹಠಯೋಗ                             ಮುಷ್ಕರ__n;
 ಸ್ವಾಧ್ಯಾಯ:ಸ್ವಾಧ್ಯಾಯ                             ಮುಷ್ಕರ__n;
@@ -14801,7 +14748,6 @@ A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ಗೋಚರ:ಗೋಚರ 						ಒಳ್ಳೆಯದು__adj;
 ನೀಗ್ರೊ:ನೀಗ್ರೊ 					ಒಳ್ಳೆಯದು__adj;
 ಸೃಜನಾತ್ಮಕ:ಸೃಜನಾತ್ಮಕ 				ಒಳ್ಳೆಯದು__adj;
-ಅಧ್ಯಕ್ಷತೆ:ಅಧ್ಯಕ್ಷತೆ              ಒಳ್ಳೆಯದು__adj;
 ಉದ್ದರಿ:ಉದ್ದರಿ					ಒಳ್ಳೆಯದು__adj;
 ಗಣ್ಯ:ಗಣ್ಯ                     ಒಳ್ಳೆಯದು__adj;
 ನಿಧಾನ:ನಿಧಾನ 						ಒಳ್ಳೆಯದು__adj;
@@ -16299,7 +16245,7 @@ A.D.:A.D.                             ಮುಷ್ಕರ__n;
 ಕೋಟಿ:ಕೋಟಿ 									 __numeral;	
 ಸಹಸ್ರಾರು:ಸಹಸ್ರಾರು 								 __numeral;
 
-<[%0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9]+>  __numeral;
+<[%0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9]+>  __numeral;!regex
 <[%೦| ೧ | ೨ | ೩ | ೪ | ೫ | ೬ | ೭ | ೮ | ೯]+>  __numeral;
 
 !<(a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z)+>  __eng;
