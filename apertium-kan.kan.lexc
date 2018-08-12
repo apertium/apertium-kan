@@ -133,6 +133,7 @@ LEXICON ಮನೆ__n!house
 %<n%>%<nt%>%<sg%>%<loc%>%<gen%>:ಯಲ್ಲಿನ # ;
 %<n%>%<nt%>%<sg%>%<ins%>:ಯಿಂದ #;!
 %<n%>%<nt%>%<sg%>%<ins%>:ಯಿಂದಾಗಿ #;!
+%<n%>%<nt%>%<sp%>%<ins%>%<emph%>:ಯಿಂದಲೇ #;!
 %<n%>%<nt%>%<pl%>%<ins%>:ಗಳಿಂದ #;!
 %<n%>%<nt%>%<sg%>%<voc%>:ೆ #;!?
 
@@ -165,7 +166,6 @@ LEXICON ಮನೆ__n!house
 %<n%>%<nt%>%<sg%>%<nom%>:ondige2 ;
 %<n%>%<nt%>%<sg%>%<gen%>:ಯ kaarana ;
 %<n%>%<nt%>%<sg%>%<nom%>:ಯ olage ;
-%<n%>%<nt%>%<sp%>%<ins%>%<emph%>:ಯಿಂದಲೇ #;!
 %<n%>%<nt%>%<sg%>%<nom%>:pade ;
 %<n%>%<nt%>%<sg%>%<nom%>:kondu ;
 %<n%>%<nt%>%<pl%>%<nom%>:ಗಳ ashtu ;
