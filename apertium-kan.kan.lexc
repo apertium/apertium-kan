@@ -32,15 +32,15 @@ Multichar_Symbols
 
 %<prox%>  ! Proximate
 %<dist%>  ! Distal
-%<refl%>   ! Reflexive
+%<refl%>  ! Reflexive
 %<cog%>   ! Cognomen 
 %<hyd%>   ! Cognomen  ()
 %<org%>   ! Organisation
 %<ind%>   ! Indefinite
 %<def%>   ! definite
-%<interr%> !Interrogative
-%<hon%> !Honorific
-%<abbr%> !Abbreviation
+%<itg%>   ! itgogative
+%<hon%>   ! Honorific
+%<abbr%>  ! Abbreviation
 
 ! Number morphology
 %<pl%>  ! Plural
@@ -1381,22 +1381,22 @@ LEXICON 			ಇಬ್ಬರು__prn
 %<prn%>%<p3%>%<mf%>%<pl%>%<dat%>:ಿಗೆ #;
 
 LEXICON 			ಯಾರು__prn
-%<prn%>%<interr%>%<mf%>%<sg%>%<nom%>:ು # ;
-%<prn%>%<interr%>%<mf%>%<sg%>%<nom%>:o-clit ;
-%<prn%>%<interr%>%<mf%>%<sg%>%<gen%>: # ;
-%<prn%>%<interr%>%<mf%>%<sg%>%<nom%>: oo__inc_clit ;
+%<prn%>%<itg%>%<mf%>%<sg%>%<nom%>:ು # ;
+%<prn%>%<itg%>%<mf%>%<sg%>%<nom%>:o-clit ;
+%<prn%>%<itg%>%<mf%>%<sg%>%<gen%>: # ;
+%<prn%>%<itg%>%<mf%>%<sg%>%<nom%>: oo__inc_clit ;
 %<prn%>%<p3%>%<mf%>%<sg%>%<dat%>:ಿಗ oo__inc_clit ;
-%<prn%>%<interr%>%<mf%>%<sg%>%<nom%>:ಾದರ oo__inc_clit ;
-%<prn%>%<interr%>%<mf%>%<sg%>%<dat%>:ಿಗೆ #;
+%<prn%>%<itg%>%<mf%>%<sg%>%<nom%>:ಾದರ oo__inc_clit ;
+%<prn%>%<itg%>%<mf%>%<sg%>%<dat%>:ಿಗೆ #;
 
 
 LEXICON 			ಯಾವ__prn
-%<prn%>%<interr%>%<mfn%>%<sp%>%<nom%>: # ;
+%<prn%>%<itg%>%<mfn%>%<sp%>%<nom%>: # ;
 %<prn%>%<rel%>%<mfn%>%<sp%>%<nom%>: # ;
 %<prn%>%<rel%>%<m%>%<sg%>%<acc%>:ನನ್ನು # ;
 %<prn%>%<rel%>%<m%>%<sg%>%<acc%>:ನನ್ನ oo__inc_clit ;
-!%<det%>%<interr%>%<mfn%>%<sp%>%<nom%>: # ;
-%<prn%>%<interr%>%<nt%>%<sg%>%<nom%>:ುದು # ;!ಯಾವನನ್ನೂ
+!%<det%>%<itg%>%<mfn%>%<sp%>%<nom%>: # ;
+%<prn%>%<itg%>%<nt%>%<sg%>%<nom%>:ುದು # ;!ಯಾವನನ್ನೂ
 
 LEXICON 			ಮುಂತಾದ__prn
 %<det%>%<p3%>%<nt%>%<sp%>%<nom%>: # ;
@@ -1416,11 +1416,11 @@ LEXICON 			ಮುಂತಾದ__prn
 
 
 LEXICON 			ಏನು__prn
-%<prn%>%<interr%>%<nt%>%<sg%>%<nom%>:ು # ;
-%<prn%>%<interr%>%<mfn%>%<sg%>%<nom%>%<emph%>:ೂ # ;
-%<prn%>%<interr%>%<nt%>%<sg%>%<acc%>:ನ್ನ oo__inc_clit ;
+%<prn%>%<itg%>%<nt%>%<sg%>%<nom%>:ು # ;
+%<prn%>%<itg%>%<mfn%>%<sg%>%<nom%>%<emph%>:ೂ # ;
+%<prn%>%<itg%>%<nt%>%<sg%>%<acc%>:ನ್ನ oo__inc_clit ;
 
-%<prn%>%<interr%>%<nt%>%<sg%>%<nom%>:aagi__com ;
+%<prn%>%<itg%>%<nt%>%<sg%>%<nom%>:aagi__com ;
 
 
 LEXICON  			ಎಲ್ಲ__prn
@@ -2083,7 +2083,7 @@ LEXICON 				loo
 %+to%<adv%>:ಲ oo__inc_clit;
 
 LEXICON 				o-clit
-%+o%<interr%>%<clit%>:ೋ #;
+%+o%<itg%>%<clit%>:ೋ #;
 
 LEXICON 				aagi__com
 :ವ 	aagi__vaux ;	
@@ -2317,7 +2317,7 @@ LEXICON  				ಮಾಡು__infx!do
 
 %<pres%>%<p3%>%<sg%>%<mfn%>:ಯುತ್ತಿರುವ # ;
 %<past%>%<p3%>%<sg%>%<mfn%>:ಿಯಾಗಿತ್ತು # ;!
-%<past%>%<p3%>%<sg%>%<m%>%<interr%>:ಿದನೋ  # ;
+%<past%>%<p3%>%<sg%>%<m%>%<itg%>:ಿದನೋ  # ;
 
 %<past%>%<refl%>%<p3%>%<sg%>%<mfn%>:ಿ kondu ;
 
@@ -2445,7 +2445,7 @@ LEXICON __vaux
 %<vaux%>%<pres%>%<p1%>%<m%>%<sg%>:ನೆ # ;
 %<vaux%>%<pres%>%<p1%>%<f%>%<sg%>:ಳೆ # ;
 %<vaux%>%<pres%>%<p1%>%<mf%>%<sg%>:ರೆ # ;
-%<vaux%>%<past%>%<p1%>%<mf%>%<pl%>%<interr%>:ರೆಯೇ #;
+%<vaux%>%<past%>%<p1%>%<mf%>%<pl%>%<itg%>:ರೆಯೇ #;
 %<vaux%>%<past%>%<p3%>%<mf%>%<pl%>:ಿರುವ # ;
 %<vaux%>%<past%>%<p3%>%<nt%>%<sg%>:ಿದೆ # ;
 %<vaux%>%<fut%>%<p1%>%<mf%>%<sg%>:ುದು # ;
@@ -2754,8 +2754,8 @@ LEXICON ಇಲ್ಲ__neg
 %<adv%>: #;
 %<adv%>:ante;
 %<adv%>:ವೋ #;
-%<interr%>:ವೇ #;
-%<interr%>:ವೆ #;
+%<itg%>:ವೇ #;
+%<itg%>:ವೆ #;
 %<adv%>: parti ;
 %<neg%>%<emph%>:ದೇ #;
 
