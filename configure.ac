@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Kannada], [0.1.0], [vidyadheeshadn98@gmail.com], [apertium-kan], [http://wiki.apertium.org/wiki/Apertium-kan])
+AC_INIT([Apertium Kannada], [0.1.0], [vidyadheeshadn98@gmail.com], [apertium-kan], [https://wiki.apertium.org/wiki/Apertium-kan])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
